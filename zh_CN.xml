@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+    <information>
+        <lang_name>Simplified Chinese</lang_name>
+        <native_name>简体中文</native_name>
+        <locale>zh_CN</locale>
+        <author>ZhuJinhe</author>
+        <sample>敏捷的棕色狐狸越过了那条懒惰的狗</sample>
+        <version>1.2</version>
+        <update>http://mothership.cumulusclips.org/updates/languages/chinese/</update>
+        <notes/>
+    </information>
+    <terms>
+        <search_text>搜索视频...</search_text>
+        <login>登录</login>
+        <register>免费注册</register>
+        <logout>注销</logout>
+        <account>我的账户</account>
+        <view_my_profile>查看我的配置</view_my_profile>
+        <admin_panel>管理员面板</admin_panel>
+        <videos>视频</videos>
+        <members>会员</members>
+        <upload>上传</upload>
+        <previous>前一个</previous>
+        <next>下一个</next>
+        <yes>是</yes>
+        <no>否</no>
+        <quick_links>快速链接</quick_links>
+        <upload_supported_formats>支持的格式</upload_supported_formats>
+        <video_feed>Video Feed</video_feed>
+        <contact>联系</contact>
+        <sitemap>网站地图</sitemap>
+
+        <!-- Mobile -->
+        <mobile_heading>{SITENAME} 手机版</mobile_heading>
+        <home>首页</home>
+        <back>返回</back>
+        <duration>时长</duration>
+        <load_more>加载更多</load_more>
+        <loading>正在加载</loading>
+        <featured>特色</featured>
+        <search>搜索</search>
+        <standard_site>标准网站</standard_site>
+        <search_body>搜索时，请使用视频的标题、描述或标签中可能出现的关键字。使用简短、不太特指的关键字会显示更多的结果。</search_body>
+        <device_not_supported>您的设备不支持视频回放</device_not_supported>
+
+        <!-- Home Page -->
+        <home_header>最新出炉!</home_header>
+        <advertisement>广告</advertisement>
+        <account_login>用户登录</account_login>
+        <username>用户名</username>
+        <password>密码</password>
+        <no_account>还没账号？免费注册一个！</no_account>
+        <forgot_your_login>忘记账号</forgot_your_login>
+        <login_button>登录</login_button>
+
+        <!-- Login Page -->
+        <login_header>用户登录</login_header>
+        <remember_me>记住我</remember_me>
+        <forgot_text>请输入您在网站注册用的邮箱地址。我们会把重置后的密码发到您的邮箱。</forgot_text>
+        <email>邮箱</email>
+        <forgot_header>忘记密码</forgot_header>
+        <forgot_button>忘记登录名称</forgot_button>
+
+        <!-- Register Page -->
+        <register_header>注册</register_header>
+        <register_text><![CDATA[
+        <p><strong>新成员{SITENAME}今天加入了！</strong><br><br>
+        作为会员，您可以上传、评论、打分和分享视频订阅其他会员等等！</p>
+        ]]></register_text>
+        <asterisk>星号(*)表示必填项</asterisk>
+        <username_req>用户名只能包含字母和数字，不能包含空格或特殊字符。</username_req>
+        <confirm_password>确认密码</confirm_password>
+        <register_button>创建账号</register_button>
+        <checking_availability>检查是否可用</checking_availability>
+        <username_minimum>最短需要4个字符。</username_minimum>
+        <username_available>用户名可以使用！</username_available>
+
+        <!-- Contact Page -->
+        <contact_header>联系我们</contact_header>
+        <contact_text>请填写下面的表格并提交，我们会尽快回复您。由于我们收到的反馈较多，我们看到您这次反馈可能需要一段时间。</contact_text>
+        <name>称呼</name>
+        <message>信息</message>
+        <contact_us>联系我们</contact_us>
+        <contact_button>联系我们</contact_button>
+
+        <!-- Browse Videos Page -->
+        <videos_header>浏览视频</videos_header>
+        <viewing>正在查看</viewing>
+        <sorting>排序</sorting>
+        <most_recent>最新上传</most_recent>
+        <most_viewed>最多观看</most_viewed>
+        <most_discussed>最多评论</most_discussed>
+        <most_rated>最多评分</most_rated>
+        <no_videos>暂无视频</no_videos>
+        <by>By</by>
+
+        <!-- Browse Members Page -->
+        <members_header>查看会员</members_header>
+        <no_members>暂无注册会员。</no_members>
+        <joined>已加入的</joined>
+        <videos_uploaded>上传过视频的？？？？</videos_uploaded>
+
+        <!-- Member Profile Page -->
+        <subscribe>订阅</subscribe>
+        <unsubscribe>取消订阅</unsubscribe>
+        <send_message>发送消息</send_message>
+        <report_abuse>举报</report_abuse>
+        <member_rss>会员最近动态</member_rss>
+        <profile_views>查看资料</profile_views>
+        <subscribers>订阅列表</subscribers>
+        <website>网站</website>
+        <recent_videos>最新视频</recent_videos>
+        <view_all_videos>查看所有视频</view_all_videos>
+        <no_member_videos>会员现在没有视频。</no_member_videos>
+        <no_member_playlists>会员没有播放列表。</no_member_playlists>
+        <watch_all>查看所有</watch_all>
+
+        <!-- Member Videos Page -->
+        <videos_by>观看者</videos_by>
+        <go_to_profile>跳转到个人资料</go_to_profile>
+
+        <!-- Play Video Page -->
+        <like>赞</like>
+        <dislike>踩</dislike>
+        <about>关于</about>
+        <share>分享</share>
+        <embed>嵌入</embed>
+        <embed_text>复制并粘贴到您的网站或博客</embed_text>
+        <add>添加</add>
+        <add_to>添加到</add_to>
+        <favorite>喜欢</favorite>
+        <favorites>喜欢列表</favorites>
+        <watch_later>稍后观看</watch_later>
+        <playlists>播放列表</playlists>
+        <playlist_login><![CDATA[您需要 <a href="{HOST}/login/">登陆</a>后即可将视频添加到播放列表。]]></playlist_login>
+        <create_new_playlist>创建新的播放列表</create_new_playlist>
+        <playlist_name>播放列表名</playlist_name>
+        <visibility>Visibility</visibility>
+        <public>Public</public>
+        <create_playlist_button>创建播放列表</create_playlist_button>
+        <flag>举报</flag>
+        <date_uploaded>上传日期</date_uploaded>
+        <comments_header>视频评论</comments_header>
+        <view_all_comments>查看所有评论</view_all_comments>
+        <comments_total>全部评论</comments_total>
+        <posted>发布者</posted>
+        <date_posted>发布日期</date_posted>
+        <comments_post_header>发表评论</comments_post_header>
+        <optional>可选</optional>
+        <comments>评论</comments>
+        <reply_to>回复评论</reply_to>
+        <comments_closed>评论功能已关闭</comments_closed>
+        <comments_login><![CDATA[
+        <a href="{LOGIN_LINK}">登陆</a> 或 <a href="{REGISTER_LINK}">注册</a> 后发表评论
+        ]]></comments_login>
+        <comments_button>发表评论</comments_button>
+        <suggestions_header>推荐</suggestions_header>
+        <no_suggestions>没有推荐</no_suggestions>
+        <views>播放次数</views>
+        <gated_video>登陆后才能查看该视频。</gated_video>
+        <video_unavailable>视频不能播放</video_unavailable>
+        <embed_disabled><![CDATA[
+        此视频已禁止嵌入，您可以再<a target="_top" href="{LINK}">{SITENAME}</a>观看。
+        ]]></embed_disabled>
+        <no_playback>无视频回放功能。</no_playback>
+
+        <!-- Comments Page -->
+        <comments_for>Viewing comments for</comments_for>
+        <no_comments>此视频暂无评论。</no_comments>
+
+        <!-- Search Page -->
+        <search_header>搜索视频</search_header>
+        <results_for>搜索结果</results_for>
+        <no_results>无搜索结果</no_results>
+
+        <!-- Opt-Out Page -->
+        <opt_out_header>解绑此邮件地址</opt_out_header>
+        <opt_out_text><![CDATA[
+        您的邮件地址已从所有邮件列表中删除，如果您想要修改您的邮箱偏好，那么可以访点击<a href="{LINK}">账户个性化设置</a>。
+        ]]></opt_out_text>
+
+        <!-- Activate Account Page -->
+        <activate_header>激活账号</activate_header>
+        <activate_success><![CDATA[
+        谢谢您！您的账号已激活！<a href="{HOST}/account/">进入我的账号</a>
+        ]]></activate_success>
+        <activate_approve>谢谢您！您的账号已激活，但仍需要我们的管理团队批准才能登陆。一旦批准完成我们会立刻通知您。</activate_approve>
+        <activate_error><![CDATA[
+        无效的代码，请检查您输入的代码是否正确。您的账号可能已经激活，如果您忘记了密码，请<a href="{HOST}/login/forgot/">点击这里</a>找回密码。
+        ]]></activate_error>
+
+        <!-- 404 Page -->
+        <system_404_header>404 - 页面未找到</system_404_header>
+        <system_404_sub_header>哦！</system_404_sub_header>
+        <system_404_text>您查找的页面不存在或已被移动到其他地方。</system_404_text>
+
+        <!-- System Error Page -->
+        <system_error_header>系统出错</system_error_header>
+        <system_error_text>由于系统错误，您现在无法继续，给您带来的不便敬请谅解。</system_error_text>
+
+        <!-- My Account / Home Page -->
+        <account_header>欢迎</account_header>
+        <last_login>上次登录</last_login>
+        <edit_avatar>编辑头像</edit_avatar>
+        <new_messages>您有新的未读消息！</new_messages>
+        <account_menu_header>账号菜单</account_menu_header>
+        <manage_media>管理媒体</manage_media>
+        <upload_video>上传视频</upload_video>
+        <my_videos>我的视频</my_videos>
+        <my_playlists>我的播放列表</my_playlists>
+        <account_settings>账号设置</account_settings>
+        <update_profile>更新会员信息</update_profile>
+        <privacy_settings>隐私设置</privacy_settings>
+        <change_password>更改密码</change_password>
+        <community>社区</community>
+        <my_subscriptions>我的订阅</my_subscriptions>
+        <my_subscribers>查看我的订阅</my_subscribers>
+        <inbox>收件箱</inbox>
+
+        <!-- My Account / Update Video Page -->
+        <update_video_header>编辑视频</update_video_header>
+        <update_video_button>更新视频</update_video_button>
+        <back_to_videos>返回视频</back_to_videos>
+
+        <!-- My Account / My Videos Page -->
+        <my_videos_header>我的视频</my_videos_header>
+        <no_user_videos>您还没有上传视频。</no_user_videos>
+        <edit_video>编辑视频</edit_video>
+        <delete_video>删除视频</delete_video>
+        <pending_conversion>等待转码</pending_conversion>
+        <processing>转码中</processing>
+        <pending_approval>等待审批</pending_approval>
+
+        <!-- My Account / Playlists Page -->
+        <playlists_header>我的播放列表</playlists_header>
+        <delete_playlist>删除播放列表</delete_playlist>
+        <edit_playlist>编辑播放列表</edit_playlist>
+        <no_playlists>您还没有创建视频列表</no_playlists>
+
+        <!-- My Account / Playlist Edit Page -->
+        <playlists_edit_header>编辑播放列表</playlists_edit_header>
+        <back_to_playlists>返回视频列表</back_to_playlists>
+        <update_playlist_header>更新播放列表详情</update_playlist_header>
+        <update_playlist_button>更新播放列表</update_playlist_button>
+        <playlist_videos>播放列表视频</playlist_videos>
+        <no_videos_playlist>播放列表里现在还没有视频。</no_videos_playlist>
+        <remove_playlist_video>从播放列表中删除</remove_playlist_video>
+
+        <!-- My Account / Edit Profile Page -->
+        <profile_header>更新个人资料</profile_header>
+        <personal_header>编辑个人信息</personal_header>
+        <first_name>名</first_name>
+        <last_name>姓</last_name>
+        <about_me>关于我</about_me>
+        <profile_button>更新个人资料</profile_button>
+        <update_avatar_header>更新头像</update_avatar_header>
+        <update_avatar_text><![CDATA[
+        <p>您的头像会显示在您的视频、评论和其他地方。</p>
+        <p>如果您上传了新的头像，原有的头像会被替换。</p>
+        <p>从您的电脑选择一张图片(jpeg, gif, png)。图片最大允许30K。</p>
+        ]]></update_avatar_text>
+        <current_avatar>目前头像</current_avatar>
+        <reset_avatar>重设头像</reset_avatar>
+        <browse_files_button>浏览</browse_files_button>
+        <update_avatar_button>上传头像</update_avatar_button>
+
+        <!-- My Account / Privacy Settings Page -->
+        <privacy_settings_header>隐私设置</privacy_settings_header>
+        <alert_comment>当视频被评论后给我发送邮件。</alert_comment>
+        <alert_video>订阅的会员有新视频时通知我。</alert_video>
+        <alert_message>收到信息时给我发邮件。</alert_message>
+        <alert_video_ready>当我上传的视频转码完毕并能播放时通知我。</alert_video_ready>
+        <alert_comment_reply>当有人回复我的评论时通知我。</alert_comment_reply>
+        <privacy_settings_button>更新隐私</privacy_settings_button>
+
+        <!-- My Account / Change Password Page -->
+        <change_password_header>更改密码</change_password_header>
+        <change_password_text>密码应在6-10字符之间，可以是大写字母、小写字母、数字和特殊字符。</change_password_text>
+        <new_password>新密码</new_password>
+        <change_password_button>重置密码</change_password_button>
+
+        <!-- My Account / View My Subscriptions Page -->
+        <subscriptions_header>我的订阅</subscriptions_header>
+        <confirm_subscription>您将取消订阅这个会员。确定继续吗？</confirm_subscription>
+        <no_subscriptions>您还没有订阅任何会员。</no_subscriptions>
+
+        <!-- My Account / View My Subscribers Page -->
+        <subscribers_header>我的订阅</subscribers_header>
+        <no_subscribers>还没有人订阅您。</no_subscribers>
+
+        <!-- My Account / Message Inbox Page -->
+        <message_inbox_header>收件箱</message_inbox_header>
+        <purge>清空</purge>
+        <message_status>状态</message_status>
+        <read>已读</read>
+        <unread>未读</unread>
+        <subject>标题</subject>
+        <sender>发信人</sender>
+        <date>日期</date>
+        <purge_button>删除信息</purge_button>
+        <no_messages>没有信息</no_messages>
+
+        <!-- My Account / Read Message Page -->
+        <message_read_header>已读信息</message_read_header>
+        <return_inbox>返回收件箱</return_inbox>
+        <reply>回复</reply>
+        <delete>删除</delete>
+
+        <!-- My Account / Send Message Page -->
+        <message_send_header>发送信息</message_send_header>
+        <to>To</to>
+        <members_username>会员用户名</members_username>
+        <message_send_button>发送消息</message_send_button>
+
+        <!-- My Account / Upload - Video Information Page -->
+        <upload_header>上传第一步：视频信息</upload_header>
+        <title>标题</title>
+        <description>描述</description>
+        <tags>标签</tags>
+        <comma_delimited>用英文逗号分隔</comma_delimited>
+        <category>分类</category>
+        <disable_embed>禁用嵌入</disable_embed>
+        <disable_embed_description>视频不能嵌入第三方网站</disable_embed_description>
+        <gated>Gated</gated>
+        <gated_description>只有已登录的会员才能观看视频</gated_description>
+        <private>私有</private>
+        <private_description>该视频只有您和有私有地址的人才能观看</private_description>
+        <private_url>私有地址</private_url>
+        <regenerate>重置</regenerate>
+        <closeComments>关闭评论</closeComments>
+        <closeCommentsDescription>允许评论视频</closeCommentsDescription>
+        <submit_button>提交</submit_button>
+
+        <!-- My Account / Upload - Video Upload Page -->
+        <upload_video_header>上传第二步 -上传视频</upload_video_header>
+        <upload_video_text>从您的电脑硬盘中选择要上传的视频。请确保视没有侵犯任何版权。我们保留无论任何原因随时删除任意视频的权利。</upload_video_text>
+        <filesize_limit>文件大小限制是</filesize_limit>
+        <cancel>取消</cancel>
+        <upload_video_button>上传视频</upload_video_button>
+
+        <!-- My Account / Upload - Complete Page -->
+        <upload_complete_header>上传第三步 - 完成上传！</upload_complete_header>
+        <upload_complete_text>您的视频已经上传成功，视频能够在{SITENAME}和{SITENAME}手机版播放前需要转码处理几分钟。</upload_complete_text>
+
+        <!-- Form Messages -->
+        <error_general>发生错误。请重试！</error_general>
+        <errors_below>发生错误。请更正一下错误后重试！</errors_below>
+        <error_invalid_login>无效登陆！请确保您输入的用户名和密码并重试。</error_invalid_login>
+        <error_no_users_email>没有找到此邮箱对应的账号，请重试。</error_no_users_email>
+        <confirm_delete_playlist>视频列表将被删除，要继续吗？</confirm_delete_playlist>
+        <confirm_remove_playlist_video>视频将被从您的播放列表中删除，要继续吗？</confirm_remove_playlist_video>
+        <confirm_delete_video>视屏将被永久删除，此操作不能撤销，要继续吗？</confirm_delete_video>
+        <confirm_reset_avatar>您当前的头像将永远消失，此操作不能撤销，要继续吗？</confirm_reset_avatar>
+        <error_username>无效的用户名</error_username>
+        <error_username_unavailable>用户名不可用</error_username_unavailable>
+        <error_password>无效的密码</error_password>
+        <error_password_match>您两次输入的密码不一致</error_password_match>
+        <error_password_confirm>无效的确认密码</error_password_confirm>
+        <error_security_text>无效的安全提问</error_security_text>
+        <error_email>您需要输入一个有效的邮箱地址</error_email>
+        <error_email_unavailable>邮箱地址不可用</error_email_unavailable>
+        <error_recipient>无效的收件人用户名</error_recipient>
+        <error_website_invalid>无效的网址</error_website_invalid>
+        <error_recipient_exist>用户名不存在</error_recipient_exist>
+        <error_recipient_self>您不能给自己发消息</error_recipient_self>
+        <error_subject>无效的主题</error_subject>
+        <error_message>无效的信息</error_message>
+        <error_title>无效的标题</error_title>
+        <error_description>无效的描述</error_description>
+        <error_tags>无效的标签</error_tags>
+        <error_category>无效的分类</error_category>
+        <error_name>无效的名称</error_name>
+        <error_comment_login>您需要登陆才能发表评论。</error_comment_login>
+        <error_comment>无效的评论</error_comment>
+        <error_private_url>无效的私有地址</error_private_url>
+        <error_status_update>无效的状态更新</error_status_update>
+        <error_flag_login>您需要登陆才能举报不适内容。</error_flag_login>
+        <error_flag_own>您不能举报自己的内容。</error_flag_own>
+        <error_flag_duplicate>您已经举报了此视频，多谢您的帮助。</error_flag_duplicate>
+        <error_favorite_own>您不能将自己的视频添加到收藏夹。</error_favorite_own>
+        <error_playlist_duplicate>视频已经在您的播放列表。</error_playlist_duplicate>
+        <error_playlist_name>无效的播放列表名称</error_playlist_name>
+        <error_subscribe_login>您需要登陆才能订阅会员。</error_subscribe_login>
+        <error_subscribe_own>您不能订阅自己。</error_subscribe_own>
+        <error_subscribe_duplicate>您已经订阅了此会员。</error_subscribe_duplicate>
+        <error_subscribe_noexist>您没有订阅此会员。</error_subscribe_noexist>
+        <error_rate_login>您需要登陆才能给视频评分。</error_rate_login>
+        <error_rate_own>您不能给自己的视频评分。</error_rate_own>
+        <error_rate_duplicate>您已经给这个视频评分了。</error_rate_duplicate>
+        <error_upload_filesize>您的文件超出了最大限制。请重试。</error_upload_filesize>
+        <error_upload_system><![CDATA[
+        您的文件的处理过程中遇到了错误，并且不能在这个时候上传。 我们为此表示道歉。我们已通知支持团队并会调查原因来解决此问题。 如果您继续遇到此问题，请<a href="{HOST}/contact/">联系我们</a>以获取进一步的帮助。
+        ]]></error_upload_system>
+        <error_upload_extension>您的文件格式是一种不被支持的，请重试。</error_upload_extension>
+        <error_upload_empty>没有文件被上传，请重试。</error_upload_empty>
+
+        <success_avatar_reset>您的头像已重置。</success_avatar_reset>
+        <success_avatar_updated>您的头像已更新。</success_avatar_updated>
+        <success_rated>评分已提交。</success_rated>
+        <success_unsubscribed>您已取消订阅{USERNAME}。</success_unsubscribed>
+        <success_subscribed>您已成功订阅{USERNAME}。</success_subscribed>
+        <success_flag>多谢您的反馈，我们会立即处理。</success_flag>
+        <success_status_updated>您的状态已更新。</success_status_updated>
+        <success_comment_posted>您的评论已发布。</success_comment_posted>
+        <success_comment_approve>进的评论已提交到我们的管理团队审核。</success_comment_approve>
+        <success_contact_sent>多谢，您的消息已发布，我们会尽快回复。</success_contact_sent>
+        <success_registered>多谢，您已经成功创建账号！请检查您的邮箱以激活您的账号，请务必在收件箱和垃圾文件夹里面看看有没有您的激活邮件。</success_registered>
+        <success_login_sent>我们已向您发送了您的登录信息，请检查您的电子邮件。</success_login_sent>
+        <success_video_updated>视频已更新。</success_video_updated>
+        <success_video_deleted>视频已删除。</success_video_deleted>
+        <success_playlist_added>视频已添加到{LIST_NAME}。</success_playlist_added>
+        <success_playlist_added_short>已添加视频</success_playlist_added_short>
+        <success_playlist_created>已创建的播放列表</success_playlist_created>
+        <success_playlist_updated>播放列表已更新。</success_playlist_updated>
+        <success_playlist_video_removed>视频已从播放列表删除。</success_playlist_video_removed>
+        <success_playlist_deleted>播放列表已被删除。</success_playlist_deleted>
+        <success_profile_updated>您的个人资料已成功更新。</success_profile_updated>
+        <success_privacy_updated>您的隐私设置已成功更新。</success_privacy_updated>
+        <success_password_updated>您的密码已更新。</success_password_updated>
+        <success_messages_purged>消息成功删除！</success_messages_purged>
+        <success_message_sent>您的消息已成功送达。</success_message_sent>
+
+        <!-- Page Meta Tags -->
+        <meta.index.title>CumulusClips - 开源的视频分享内容管理系统。开源的视频分享代码，开源的视频分享软件，Youtube的克隆版</meta.index.title>
+        <meta.index.keywords>开源的视频分享内容管理系统,开源的视频分享代码,开源的视频分享软件,Youtube的克隆版</meta.index.keywords>
+        <meta.index.description>开源的视频分享内容管理系统让您能够拥有自己的视频分享网站和社区</meta.index.description>
+        <meta.videos.title>查看视频：</meta.videos.title>
+        <meta.videos.keywords>查看视频,查看,视频</meta.videos.keywords>
+        <meta.videos.description>在视频分享社区里查看视频</meta.videos.description>
+        <meta.members.title>查看会员</meta.members.title>
+        <meta.members.keywords>查看会员, 查看, 会员</meta.members.keywords>
+        <meta.members.description>查看已注册的会员。</meta.members.description>
+        <meta.profile.title>{MEMBER}的个人资料</meta.profile.title>
+        <meta.profile.keywords>会员资料, 会员, 资料</meta.profile.keywords>
+        <meta.profile.description>查看此会员的个人资料。</meta.profile.description>
+        <meta.contact.title>联系我们</meta.contact.title>
+        <meta.contact.keywords>联系我们, 联系, 给我们留言</meta.contact.keywords>
+        <meta.contact.description>联系我们。</meta.contact.description>
+        <meta.activate.title>激活您的账号</meta.activate.title>
+        <meta.activate.keywords>激活您的账号, 账号激活</meta.activate.keywords>
+        <meta.activate.description>激活您的账号</meta.activate.description>
+        <meta.opt_out.title>取消所有邮件列表</meta.opt_out.title>
+        <meta.opt_out.keywords>取消,邮件,邮件列表</meta.opt_out.keywords>
+        <meta.opt_out.description>取消所有邮件列表。</meta.opt_out.description>
+        <meta.search.title>关键字：'{KEYWORD}'的搜索结果</meta.search.title>
+        <meta.search.keywords>搜索视频, 搜索, 视频, 搜索结果</meta.search.keywords>
+        <meta.search.description>使用关键字搜索可能出现在标题,描述或视频标签的视频。</meta.search.description>
+        <meta.login.title>登录您的账号</meta.login.title>
+        <meta.login.keywords>登录, 账号</meta.login.keywords>
+        <meta.login.description>登录您的账号。</meta.login.description>
+        <meta.register.title>注册账号</meta.register.title>
+        <meta.register.keywords>注册,登记,账号</meta.register.keywords>
+        <meta.register.description>注册一个账号。</meta.register.description>
+        <meta.system_404.title>找不到页面</meta.system_404.title>
+        <meta.system_404.keywords>找不到页面, 错误代码404</meta.system_404.keywords>
+        <meta.system_404.description>错误代码404,找不到页面。</meta.system_404.description>
+        <meta.system_error.title>系统错误</meta.system_error.title>
+        <meta.system_error.keywords>系统错误</meta.system_error.keywords>
+        <meta.system_error.description>发生了一个系统错误。</meta.system_error.description>
+        <meta.account_account.title> 欢迎- {USERNAME}</meta.account_account.title>
+        <meta.account_account.keywords>欢迎</meta.account_account.keywords>
+        <meta.account_account.description>欢迎</meta.account_account.description>
+        <meta.account_upload.title>上传第一步 - 视频信息</meta.account_upload.title>
+        <meta.account_upload.keywords>上传视频, 第一步, 视频信息</meta.account_upload.keywords>
+        <meta.account_upload.description>上传第一步 - 视频信息。</meta.account_upload.description>
+        <meta.account_upload_video.title>上传第二步 - 上传视频</meta.account_upload_video.title>
+        <meta.account_upload_video.keywords>上传视频, 第二步</meta.account_upload_video.keywords>
+        <meta.account_upload_video.description>上传视频第二步 - 上传视频</meta.account_upload_video.description>
+        <meta.account_upload_complete.title>上传第三步 - 完成上传！</meta.account_upload_complete.title>
+        <meta.account_upload_complete.keywords>上传视频, 第三步, 完成上传</meta.account_upload_complete.keywords>
+        <meta.account_upload_complete.description>上传第三步 - 完成上传！</meta.account_upload_complete.description>
+        <meta.account_videos_edit.title>编辑视频</meta.account_videos_edit.title>
+        <meta.account_videos_edit.keywords>编辑视频, 视频信息</meta.account_videos_edit.keywords>
+        <meta.account_videos_edit.description>编辑视频信息。</meta.account_videos_edit.description>
+        <meta.account_videos.title>我的视频</meta.account_videos.title>
+        <meta.account_videos.keywords>我的视频,视频</meta.account_videos.keywords>
+        <meta.account_videos.description>查看该用户视频。</meta.account_videos.description>
+        <meta.account_playlists.title>我的播放列表</meta.account_playlists.title>
+        <meta.account_playlists.keywords>我的播放列表, 播放列表</meta.account_playlists.keywords>
+        <meta.account_playlists.description>查看我的所有播放列表。</meta.account_playlists.description>
+        <meta.account_playlists_edit.title>编辑播放列表: {PLAYLIST_NAME}</meta.account_playlists_edit.title>
+        <meta.account_playlists_edit.keywords>播放列表视频, 视频, 播放列表, 编辑</meta.account_playlists_edit.keywords>
+        <meta.account_playlists_edit.description>更新播放列表, 并查看所有播放列表的视频。</meta.account_playlists_edit.description>
+        <meta.account_update_profile.title>更新个人资料</meta.account_update_profile.title>
+        <meta.account_update_profile.keywords>更新个人资料, 个人资料</meta.account_update_profile.keywords>
+        <meta.account_update_profile.description>更新个人资料信息。</meta.account_update_profile.description>
+        <meta.account_privacy_settings.title>隐私设置</meta.account_privacy_settings.title>
+        <meta.account_privacy_settings.keywords>隐私设置,更新隐私设置</meta.account_privacy_settings.keywords>
+        <meta.account_privacy_settings.description>更新隐私设置</meta.account_privacy_settings.description>
+        <meta.account_change_password.title>更改密码</meta.account_change_password.title>
+        <meta.account_change_password.keywords>更改密码,更改密码, 更改密码</meta.account_change_password.keywords>
+        <meta.account_change_password.description>更改用户密码。</meta.account_change_password.description>
+        <meta.account_subscriptions.title>我的订阅</meta.account_subscriptions.title>
+        <meta.account_subscriptions.keywords>订阅, 会员订阅</meta.account_subscriptions.keywords>
+        <meta.account_subscriptions.description>查看所有用户的订阅会员。</meta.account_subscriptions.description>
+        <meta.account_subscribers.title>我的订阅</meta.account_subscribers.title>
+        <meta.account_subscribers.keywords>订阅, 订阅会员</meta.account_subscribers.keywords>
+        <meta.account_subscribers.description>查看此会员的所有订阅。</meta.account_subscribers.description>
+        <meta.account_message_inbox.title>消息收件箱</meta.account_message_inbox.title>
+        <meta.account_message_inbox.keywords>消息收件箱, 消息, 收件箱</meta.account_message_inbox.keywords>
+        <meta.account_message_inbox.description>查看所有消息。</meta.account_message_inbox.description>
+        <meta.account_message_read.title>阅读消息</meta.account_message_read.title>
+        <meta.account_message_read.keywords>阅读消息, 消息</meta.account_message_read.keywords>
+        <meta.account_message_read.description>阅读消息。</meta.account_message_read.description>
+        <meta.account_message_send.title>发送信息</meta.account_message_send.title>
+        <meta.account_message_send.keywords>发消息, 消息</meta.account_message_send.keywords>
+        <meta.account_message_send.description>向其他会员发消息。</meta.account_message_send.description>
+        <meta.mobile_videos.title>浏览视频</meta.mobile_videos.title>
+        <meta.mobile_search.title>搜索视频</meta.mobile_search.title>
+    </terms>
+
+</language>
