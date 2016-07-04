@@ -10,7 +10,7 @@ To contribute simply fork the repository, make your changes, and submit a pull r
 
 Please be very clear on your commit messages and pull request, empty or vague pull request messages may be rejected without reason.
 
-We ask that you submit 1 fix or feature per pull request. This makes it easier for our team to review and merge in your changes.
+We ask that you only submit one fix or feature per pull request. This makes it easier for our team to review and merge in your changes.
 
 ## Support
 
