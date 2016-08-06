@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+    <information>
+        <lang_name>Dutch</lang_name>
+        <native_name>Nederlands</native_name>
+        <locale>nl_NL</locale>
+        <author>JeroTwi</author>
+        <sample>De kat krabt de krullen van de trap</sample>
+        <version>2.4</version>
+        <update>http://mothership.cumulusclips.org/updates/languages/nl_NL/</update>
+        <notes></notes>
+    </information>
+    <terms>
+        <search_text>Zoek Filmpjes...</search_text>
+        <login>Inloggen</login>
+        <register>Gratis Aanmelden</register>
+        <logout>Uitloggen</logout>
+        <account>Account</account>
+        <view_my_profile>Bekijk Mijn Profiel</view_my_profile>
+        <admin_panel>Beheer Paneel</admin_panel>
+        <videos>Filmpjes</videos>
+        <members>Leden</members>
+        <upload>Upload</upload>
+        <previous>Vorige</previous>
+        <next>Volgende</next>
+        <yes>Ja</yes>
+        <no>Nee</no>
+        <quick_links>Snelkoppelingen</quick_links>
+        <upload_supported_formats>Ondersteunde Formaten</upload_supported_formats>
+        <video_feed>Filmbeelden</video_feed>
+        <contact>Contact</contact>
+        <sitemap>Sitemap</sitemap>
+
+        <!-- Mobile -->
+        <mobile_heading>{SITENAME} Mobiel</mobile_heading>
+        <home>Hoofdpagina</home>
+        <back>Terug</back>
+        <duration>Duur</duration>
+        <load_more>Meer Laden</load_more>
+        <loading>Laden</loading>
+        <featured>Aanbevolen</featured>
+        <featured_videos>Aanbevolen Filmpjes</featured_videos>
+        <recent_videos>Recente Filmpjes</recent_videos>
+        <search>Zoeken</search>
+        <standard_site>Standaard Site</standard_site>
+        <device_not_supported>Afspelen van dit filmpje wordt niet ondersteund op uw apparaat.</device_not_supported>
+        <close>Sluiten</close>
+        <menu>Menu</menu>
+        <choose_language>Kies de Taal</choose_language>
+        <suggestions>Suggesties</suggestions>
+        <upload_button>Upload</upload_button>
+        <post_video_button>Plaats Filmpje</post_video_button>
+        <mobile_upload_header>Upload een Filmpje</mobile_upload_header>
+
+        <!-- Home Page -->
+        <home_header>Vers Uit De Oven!</home_header>
+        <advertisement>Advertentie</advertisement>
+        <account_login>Account Log in</account_login>
+        <username>Gebruikersnaam</username>
+        <password>Wachtwoord</password>
+        <no_account>Heeft U Geen Account? Meld Je Dan Gratis Aan!</no_account>
+        <forgot_your_login>Wachtwoord vergeten</forgot_your_login>
+        <login_button>Inloggen</login_button>
+
+        <!-- Login Page -->
+        <login_header>Inloggen op uw Account</login_header>
+        <remember_me>Ingelogd blijven</remember_me>
+        <forgot_text>Voer hieronder het e-mail adres in waarmee u het account heeft aangemeld. We zullen uw wachtwoord opnieuw instellen en dit naar u toe mailen.</forgot_text>
+        <email>E-mail</email>
+        <forgot_header>Wachtwoord vergeten</forgot_header>
+        <forgot_button>Mijn Wachtwoord vergeten</forgot_button>
+
+        <!-- Register Page -->
+        <register_header>Aanmelden Bij Ons</register_header>
+        <register_text><![CDATA[
+            <p><strong>Meld je vandaag nog aan bij {SITENAME}!</strong><br><br>
+			Als je lid bent kan je filmpjes uploaden, van commentaar voorzien, beoordelen, delen, andere leden volgen en nog veel meer!</p>
+        ]]></register_text>
+        <asterisk>Een sterretje (*) geeft een verplicht veld aan.</asterisk>
+        <username_req>De gebruikersnaam kan alleen letters en cijfers bevatten, geen spaties of speciale tekens.</username_req>
+        <confirm_password>Bevestig Wachtwoord</confirm_password>
+        <register_button>Maak Account</register_button>
+        <checking_availability>Beschikbaarheid aan het nakijken</checking_availability>
+        <username_minimum>Tenminste 4 tekens zijn vereist.</username_minimum>
+        <username_available>Gebruikersnaam is beschikbaar!</username_available>
+
+        <!-- Contact Page -->
+        <contact_header>Neem Contact Op</contact_header>
+        <contact_text>Vul alstublieft het formulier hieronder in en we nemen zo spoedig mogelijk contact met u op. Door het hoge aantal aanmeldingen, kan de verwerking van het formulier even duren.</contact_text>
+        <name>Naam</name>
+        <message>Bericht</message>
+        <contact_us>Neem Contact Op</contact_us>
+        <contact_button>Neem Contact Op</contact_button>
+
+        <!-- Browse Videos Page -->
+        <videos_header>Bekijk Filmpjes</videos_header>
+        <viewing>Kijken</viewing>
+        <sorting>Sorteren</sorting>
+        <most_recent>Meest Recent</most_recent>
+        <most_viewed>Meest Bekeken</most_viewed>
+        <most_discussed>Meeste Commentaar</most_discussed>
+        <most_rated>Meest Beoordeeld</most_rated>
+        <no_videos>Nog geen filmpjes toegevoegd.</no_videos>
+        <by>Door</by>
+
+        <!-- Browse Members Page -->
+        <members_header>Bekijk Leden</members_header>
+        <no_members>Nog geen aangemelde leden.</no_members>
+        <joined>Aangemeld</joined>
+        <videos_uploaded>Filmpjes Geüpload</videos_uploaded>
+
+        <!-- Member Profile Page -->
+        <subscribe>Aanmelden</subscribe>
+        <unsubscribe>Afmelden</unsubscribe>
+        <send_message>Stuur Bericht</send_message>
+        <report_abuse>Rapporteer Misbruik</report_abuse>
+        <member_rss>Gebruikers RSS Feed</member_rss>
+        <profile_views>Profiel Bekeken</profile_views>
+        <subscribers>Leden</subscribers>
+        <website>Website</website>
+        <view_all_videos>Bekijk Alle Filmpjes</view_all_videos>
+        <no_member_videos>Gebruiker heeft op dit moment geen filmpjes.</no_member_videos>
+        <no_member_playlists>Gebruiker heeft op dit moment geen afspeellijsten.</no_member_playlists>
+        <watch_all>Bekijk Alles</watch_all>
+
+        <!-- Member Videos Page -->
+        <videos_by>Filmpjes van</videos_by>
+        <go_to_profile>Ga naar Profiel</go_to_profile>
+
+        <!-- Play Video Page -->
+        <like>Leuk</like>
+        <dislike>Niet Leuk</dislike>
+        <about>Over</about>
+        <share>Delen</share>
+        <embed>Invoegen</embed>
+        <embed_text>Kopieer en plak deze code in uw website of blog.</embed_text>
+        <add>Toevoegen</add>
+        <add_to>Toevoegen Aan</add_to>
+        <favorite>Favoriet</favorite>
+        <favorites>Favorieten</favorites>
+        <watch_later>Bekijk Later</watch_later>
+        <playlists>Afspeellijsten</playlists>
+        <playlist_login><![CDATA[U moet <a href="{URL}">inloggen</a> om filmpjes te kunnen toevoegen aan uw afspeellijsten.]]></playlist_login>
+        <create_new_playlist>Maak Een Nieuwe Afspeellijst</create_new_playlist>
+        <playlist_name>Naam Afspeellijst</playlist_name>
+        <visibility>Zichtbaarheid</visibility>
+        <public>Publiek</public>
+        <create_playlist_button>Maak Afspeellijst</create_playlist_button>
+        <flag>Vlag</flag>
+        <date_uploaded>Upload Datum</date_uploaded>
+        <comments_header>Commentaar</comments_header>
+        <view_all_comments>Bekijk al het Commentaar</view_all_comments>
+        <comments_total>Commentaar Totaal</comments_total>
+        <posted>Geplaatst Door</posted>
+        <date_posted>Datum Geplaatst</date_posted>
+        <comments_post_header>Plaats Commentaar</comments_post_header>
+        <optional>Optioneel</optional>
+        <comments>Commentaar</comments>
+        <reply_to>Antwoord</reply_to>
+        <comments_closed>Commentaar geven is gesloten voor dit filmpje.</comments_closed>
+        <comments_login_register><![CDATA[
+            <a class="login-link" href="{LOGIN_LINK}">Inloggen</a> or <a class="register-link" href="{REGISTER_LINK}">Aanmelden</a> om commentaar te geven.
+        ]]></comments_login_register>
+        <comments_login><![CDATA[
+            <a class="login-link" href="{LOGIN_LINK}">Inloggen</a> om commentaar te geven.
+        ]]></comments_login>
+        <comments_button>Plaats Commentaar</comments_button>
+        <suggestions_header>Suggesties</suggestions_header>
+        <no_suggestions>Suggesties kunnen niet gegeven worden.</no_suggestions>
+        <views>Aantal keer bekeken</views>
+        <gated_video>U moet inloggen om dit filmpje te kunnen zien</gated_video>
+        <video_unavailable>Filmpje is niet beschikbaar</video_unavailable>
+        <embed_disabled><![CDATA[
+            Invoegen is uitgeschakeld voor dit filmpje. Het is alleen te bekijken via <a target="_top" href="{LINK}">{SITENAME}</a>.
+        ]]></embed_disabled>
+        <no_playback>Geen film afspeel mogelijkheden.</no_playback>
+
+        <!-- Search Page -->
+        <search_header>Zoek Resultaten</search_header>
+        <results_for>Resultaten voor</results_for>
+        <no_results>Geen resultaten gevonden.</no_results>
+
+        <!-- Opt-Out Page -->
+        <opt_out_header>E-mail Nieuwsbrief Afmelden</opt_out_header>
+        <opt_out_text><![CDATA[
+        U bent succesvol afgemeld voor de e-mail nieuwsbrief.
+        Als u uw e-mail eigenschappen wilt wijzigen, kunt u dit doen door de
+		If you wish to modify your email preferences, you may do so by visiting the
+        <a href="{LINK}">Privacy Instellingen</a> pagina in uw account te openen.
+        ]]></opt_out_text>
+
+        <!-- Activate Account Page -->
+        <activate_header>Activeer uw Account</activate_header>
+        <activate_success><![CDATA[
+        Dank u! Uw account is nu actief. <a href="{HOST}/account/">Ga naar Mijn Account</a>
+        ]]></activate_success>
+        <activate_approve>Dank u! Uw account is nu aangemeld, het moet echter nog wel goedgekeurd worden door een lid van ons team voordat u kunt inloggen. We nemen contact met u op zodra dit gebeurd is.</activate_approve>
+        <activate_error><![CDATA[
+        Ongeldige code! Kijkt u alstublieft na of de code correct is.
+        Het kan zijn dat uw account al geactiveerd is. Als u uw inloggegevens vergeten bent,
+        <a href="{HOST}/login/forgot/">klik dan hier</a>.
+        ]]></activate_error>
+
+        <!-- 404 Page -->
+        <system_404_header>404 - Pagina Niet Gevonden</system_404_header>
+        <system_404_sub_header>Oeps!</system_404_sub_header>
+        <system_404_text>De Pagina kan niet worden gevonden, deze bestaat niet of is naar een andere locatie verplaatst.</system_404_text>
+
+        <!-- System Error Page -->
+        <system_error_header>Systeem Fout</system_error_header>
+        <system_error_text>We kunnen niet doorgaan vanwege een systeem fout. Onze excuses voor het ongemak.</system_error_text>
+
+        <!-- My Account / Home Page -->
+        <account_header>Welkom</account_header>
+        <last_login>Laatste Inlog</last_login>
+        <edit_avatar>Bewerk Avatar</edit_avatar>
+        <new_messages>U heeft nieuwe ongelezen berichten!</new_messages>
+        <account_menu_header>Account Menu</account_menu_header>
+        <manage_media>Beheer Media</manage_media>
+        <upload_video>Upload een Filmpje</upload_video>
+        <my_videos>Mijn Filmpjes</my_videos>
+        <my_playlists>Mijn Afspeellijsten</my_playlists>
+        <account_settings>Account Instellingen</account_settings>
+        <update_profile>Profiel Bijwerken</update_profile>
+        <privacy_settings>Privacy Instellingen</privacy_settings>
+        <change_password>Verander Wachtwoord</change_password>
+        <community>Gemeenschap</community>
+        <my_subscriptions>Leden Volgen</my_subscriptions>
+        <my_subscribers>Bekijk mijn Volgers</my_subscribers>
+        <inbox>Postvak</inbox>
+
+        <!-- My Account / Update Video Page -->
+        <update_video_header>Bewerk Filmpje</update_video_header>
+        <update_video_button>Filmpje Bijwerken</update_video_button>
+        <back_to_videos>Terug naar Filmpjes</back_to_videos>
+
+        <!-- My Account / My Videos Page -->
+        <my_videos_header>Mijn Filmpjes</my_videos_header>
+        <no_user_videos>U heeft nog geen filmpjes geüpload.</no_user_videos>
+        <edit_video>Bewerk Filmpje</edit_video>
+        <delete_video>Verwijder Filmpje</delete_video>
+        <pending_conversion>In afwachting van Gesprek</pending_conversion>
+        <processing>Verwerken</processing>
+        <pending_approval>In Afwachting van Goedkeuring</pending_approval>
+
+        <!-- My Account / Playlists Page -->
+        <playlists_header>Mijn Afspeellijsten</playlists_header>
+        <delete_playlist>Verwijder Afspeellijst</delete_playlist>
+        <edit_playlist>Bewerk Afspeellijst</edit_playlist>
+        <no_playlists>U heeft nog geen afspeellijsten gemaakt.</no_playlists>
+
+        <!-- My Account / Playlist Edit Page -->
+        <playlists_edit_header>Bewerk Afspeellijst</playlists_edit_header>
+        <back_to_playlists>Terug naar Afspeellijsten</back_to_playlists>
+        <update_playlist_header>Details Afspeellijst Bijwerken</update_playlist_header>
+        <update_playlist_button>Afspeellijst Bijwerken</update_playlist_button>
+        <playlist_videos>Afspeellijst Filmpjes</playlist_videos>
+        <no_videos_playlist>Afspeellijst bevat nog geen filmpjes.</no_videos_playlist>
+        <remove_playlist_video>Verwijder uit Afspeellijst</remove_playlist_video>
+
+        <!-- My Account / Edit Profile Page -->
+        <profile_header>Profiel Bijwerken</profile_header>
+        <personal_header>Bewerk Persoonlijke Informatie</personal_header>
+        <first_name>Voornaam</first_name>
+        <last_name>Achternaam</last_name>
+        <about_me>Over Mij</about_me>
+        <profile_button>Profiel Bijwerken</profile_button>
+        <update_avatar_header>Avatar Bijwerken</update_avatar_header>
+        <update_avatar_text><![CDATA[
+            <p>Uw avatar wordt weergegeven bij uw videos, commentaar, en andere content.</p>
+            <p>Als u een nieuwe avatar upload, wordt de oude overschreven.</p>
+            <p>Selecteer een afbeelding (jpeg, gif, png) op uw computer. De maximale bestandsgrootte is 30K.</p>
+        ]]></update_avatar_text>
+        <current_avatar>Huidige Avatar</current_avatar>
+        <reset_avatar>Reset Avatar</reset_avatar>
+        <browse_files_button>Bladeren</browse_files_button>
+        <update_avatar_button>Upload Avatar</update_avatar_button>
+
+        <!-- My Account / Privacy Settings Page -->
+        <privacy_settings_header>Privacy Instellingen</privacy_settings_header>
+        <alert_comment>Stuur mij een e-mail als een video commentaar krijgt.</alert_comment>
+        <alert_video>Stuur mij een e-mail als een gebruiker die ik volg een video plaatst.</alert_video>
+        <alert_message>Stuur mij een e-mail als ik een bericht ontvang.</alert_message>
+        <alert_video_ready>Stuur mij een e-mail als een door mij geüpload filmpje verwerkt en beschikbaar is.</alert_video_ready>
+        <alert_comment_reply>Stuur mij een e-mail als iemand reageert op mijn commentaar</alert_comment_reply>
+        <privacy_settings_button>Bijwerken Privacy</privacy_settings_button>
+
+        <!-- My Account / Change Password Page -->
+        <change_password_header>Verander Wachtwoord</change_password_header>
+        <change_password_text>Wachtwoord moet 6-10 tekens lang zijn met hoofd &amp; kleine letters, cijfers, en speciale tekens.</change_password_text>
+        <new_password>Nieuw Wachtwoord</new_password>
+        <change_password_button>Verander Password</change_password_button>
+
+        <!-- My Account / View My Subscriptions Page -->
+        <subscriptions_header>Gebruikers Volgen</subscriptions_header>
+        <confirm_subscription>U volgt deze gebruiker hierna niet meer. Wilt u doorgaan?</confirm_subscription>
+        <no_subscriptions>U volgt nog geen gebruikers.</no_subscriptions>
+
+        <!-- My Account / View My Subscribers Page -->
+        <subscribers_header>Mijn Volgers</subscribers_header>
+        <no_subscribers>U wordt nog niet gevolgd door een gebruiker.</no_subscribers>
+
+        <!-- My Account / Message Inbox Page -->
+        <message_inbox_header>Postvak Berichten</message_inbox_header>
+        <purge>Alles Verwijderen</purge>
+        <message_status>Status</message_status>
+        <read>Gelezen</read>
+        <unread>Ongelezen</unread>
+        <subject>Onderwerp</subject>
+        <sender>Afzender</sender>
+        <date>Datum</date>
+        <purge_button>Verwijder Berichten</purge_button>
+        <no_messages>Geen Berichten</no_messages>
+
+        <!-- My Account / Read Message Page -->
+        <message_read_header>Lees Bericht</message_read_header>
+        <return_inbox>Terug naar Postvak</return_inbox>
+        <reply>Antwoord</reply>
+        <delete>Verwijder</delete>
+
+        <!-- My Account / Send Message Page -->
+        <message_send_header>Stuur een Bericht</message_send_header>
+        <to>Aan</to>
+        <members_username>Aan Gebruikersnaam</members_username>
+        <message_send_button>Stuur Bericht</message_send_button>
+
+        <!-- My Account / Upload - Video Information Page -->
+        <upload_header>Upload Stap 1 - Informatie Filmpje</upload_header>
+        <title>Titel</title>
+        <description>Omschrijving</description>
+        <tags>Tags</tags>
+        <comma_delimited>Komma Gescheiden</comma_delimited>
+        <category>Categorie</category>
+        <disable_embed>Invoegen Uitschakelen</disable_embed>
+        <disable_embed_description>Filmpje kan niet worden invoegd op andere websites</disable_embed_description>
+        <gated>Alleen Leden</gated>
+        <gated_description>Filmpje kan alleen bekeken worden door aangemelde gebruikers van deze website</gated_description>
+        <private>Privé</private>
+        <private_description>Filmpje kan alleen door u bekeken worden of door iemand die de privé URL bezit</private_description>
+        <private_url>Privé URL</private_url>
+        <regenerate>Opnieuw genereren</regenerate>
+        <closeComments>Sluit Commentaar</closeComments>
+        <closeCommentsDescription>Sta commentaar op dit filmpje toe</closeCommentsDescription>
+        <submit_button>Verzenden</submit_button>
+
+        <!-- My Account / Upload - Video Upload Page -->
+        <upload_video_header>Upload Stap 2 - Upload Filmpje</upload_video_header>
+        <upload_video_text>Selecteer een filmpje op uw computer. Zorg ervoor dat het filmpje geen auteursrechten schendingen bevat. Wij hebben ten allen tijde het recht om filmpjes te verwijderen.</upload_video_text>
+        <filesize_limit>Bestandsgrootte limiet is</filesize_limit>
+        <cancel>Annuleren</cancel>
+        <upload_video_button>Upload Filmpje</upload_video_button>
+
+        <!-- My Account / Upload - Complete Page -->
+        <upload_complete_header>Upload Stap 3 - Upload Afgerond!</upload_complete_header>
+        <upload_complete_text>Uw filmpje is succesvol geüpload. Het duurt even een paar minuten om het filmpje te verwerken en beschikbaar te maken op {SITENAME} en {SITENAME} Mobiel.</upload_complete_text>
+
+
+
+
+        <!-- Form Messages -->
+        <error_general>Fouten gevonden. Probeer het nog een keer.</error_general>
+        <errors_below>Fouten gevonden. Corrigeer de fouten hieronder en probeer het nog een keer.</errors_below>
+        <error_invalid_login>Ongeldige inlog poging! Zorg ervoor dat u uw gebruikersnaam en wachtwoord juist intypt en probeer het nog een keer.</error_invalid_login>
+        <error_no_users_email>Er zijn geen gebruikers gevonden met dit e-mail adres! Probeer het nog een keer.</error_no_users_email>
+
+        <confirm_delete_playlist>Afspeellijst zal worden verwijderd. Wilt u doorgaan?</confirm_delete_playlist>
+        <confirm_remove_playlist_video>Filmpje zal worden verwijder van de afspeellijst. Wilt u doorgaan?</confirm_remove_playlist_video>
+        <confirm_delete_video>Filmpje zal definitief verwijder worden. Dit kan niet teruggedraaid worden. Wilt u doorgaan?</confirm_delete_video>
+        <confirm_reset_avatar>U huidige avatar val definitief verwijderd worden. Wilt u doorgaan?</confirm_reset_avatar>
+        <confirm_purge_messages>Geselecteerde berichten zullen definitief verwijderd worden. Wilt u doorgaan?</confirm_purge_messages>
+        <confirm_delete_message>Bericht zal definitief verwijderd worden. Wilt u doorgaan?</confirm_delete_message>
+
+        <error_username>Ongeldige gebruikersmnaam</error_username>
+        <error_username_unavailable>Gebruikersnaam is niet beschikbaar</error_username_unavailable>
+        <error_password>Ongeldig wachtwoord</error_password>
+        <error_password_match>Uw wachtwoorden komen niet overeen</error_password_match>
+        <error_password_confirm>Ongeldig bevestigd wachtwoord</error_password_confirm>
+        <error_security_text>Ongeldige beveiligings tekst</error_security_text>
+        <error_email>U moet een geldig adres invoeren</error_email>
+        <error_email_unavailable>E-mail adres is niet beschikbaar</error_email_unavailable>
+        <error_recipient>Ongeldige ontvanger gebruikersnaam</error_recipient>
+        <error_website_invalid>Ongeldige website</error_website_invalid>
+        <error_recipient_exist>No members exist with that username</error_recipient_exist>
+        <error_recipient_self>You can't send yourself a message</error_recipient_self>
+        <error_subject>Ongeldige onderwerp</error_subject>
+        <error_message>Ongeldige bericht</error_message>
+        <error_video_upload>Ongeldige upload filmpje</error_video_upload>
+        <error_title>Ongeldige titel</error_title>
+        <error_description>Ongeldige omschrijving</error_description>
+        <error_tags>Ongeldige tags</error_tags>
+        <error_category>Ongeldige categorie</error_category>
+        <error_name>Ongeldige naam</error_name>
+        <error_comment_login>U moet inloggen om commentaar te geven.</error_comment_login>
+        <error_comment>Ongeldig commentaar</error_comment>
+        <error_private_url>Ongeldige privé url</error_private_url>
+        <error_status_update>Ongeldige bijwerken status</error_status_update>
+        <error_flag_login>U moet inloggen voordat u ongeschikte inhoud kan rapporteren.</error_flag_login>
+        <error_flag_own>U kan uw eigen inhoud niet voorzien van een vlag.</error_flag_own>
+        <error_flag_duplicate>U heeft deze inhoud al gerapporteerd. Dank u voor uw hulp.</error_flag_duplicate>
+        <error_favorite_own>U kunt uw eigen filmpjes niet toevoegen aan de favorieten.</error_favorite_own>
+        <error_playlist_duplicate>Filmpje staat al in de afspeellijst.</error_playlist_duplicate>
+        <error_playlist_name>Ongeldige naam afspeellijst</error_playlist_name>
+        <error_subscribe_login>U moet inloggen om gebruikers te kunnen volgen.</error_subscribe_login>
+        <error_subscribe_own>U kunt uzelf niet volgen.</error_subscribe_own>
+        <error_subscribe_duplicate>U volgt deze gebruiker al.</error_subscribe_duplicate>
+        <error_subscribe_noexist>U volgt deze gebruiker niet.</error_subscribe_noexist>
+        <error_rate_login>You must login to rate videos.</error_rate_login>
+        <error_rate_own>U kunt uw eigen filmpjes niet beoordelen.</error_rate_own>
+        <error_rate_duplicate>U heeft deze video al beoordeeld.</error_rate_duplicate>
+
+
+        <error_upload_filesize>Uw bestand heeft de maximale bestandsgrootte overschreden. Probeer het nog een keer.</error_upload_filesize>
+        <error_upload_system><![CDATA[
+			We hebben fouten geconstateerd tijdens het verwerken van uw bestand en het kan op dit moment niet geüpload worden.
+			Excuses voor het ongemak. Ons support team heeft hiervan een bericht gekregen en we zullen dit zo spoedig mogelijk onderzoeken en oplossen.
+			Als u problemen blijft houden met deze functie, neem dan <a href="{HOST}/contact/">contact met ons</a> op voor verdere assistentie.
+        ]]></error_upload_system>
+        <error_upload_extension>Uw bestand heeft een niet geaccepteerd bestandsformaat. Probeer het nog een keer.</error_upload_extension>
+        <error_upload_empty>Het bestand is niet geüpload. Probeer het nog een keer.</error_upload_empty>
+        <error_avatar_reset>We konden uw avatar niet resetten. Probeer het nog een keer.</error_avatar_reset>
+        <error_generic>We konden uw verzoek niet verwerken. Probeer het later nog een keer. Als u problemen blijft houden, neem dan <a href="{HOST}/contact/">contact met ons</a> op voor verdere assistentie.</error_generic>
+
+        <success_logout>Uitloggen succesvol.</success_logout>
+        <success_avatar_reset>Uw avatar is gereset.</success_avatar_reset>
+        <success_avatar_updated>Uw avatar is bijgewerkt.</success_avatar_updated>
+        <success_rated>Beoordeling is verstuurd.</success_rated>
+        <success_unsubscribed>U volgt {USERNAME} niet meer.</success_unsubscribed>
+        <success_subscribed>U volgt {USERNAME} vanaf nu.</success_subscribed>
+        <success_flag>Bedankt voor het rapporteren hiervan. We gaan dit meteen onderzoeken.</success_flag>
+        <success_status_updated>Uw bijgewerkte status is geplaatst.</success_status_updated>
+        <success_comment_posted>Uw commentaar is geplaatst.</success_comment_posted>
+        <success_comment_approve>Uw commentaar is naar ons team gestuurd voor goedkeuring.</success_comment_approve>
+        <success_contact_sent>Dank U! Uw bericht is verzonden, we nemen zo spoedig mogelijk contact met u op.</success_contact_sent>
+        <success_registered>Dank U! Uw account is succesvol aangemaakt. Bekijk uw e-mail om uw account te activeren, kijk hiervoor in uw postvak in en de ongewenste e-mail folder van uw mail programma.</success_registered>
+        <success_login_sent>We hebben uw inloggevens naar u gestuurd. Bekijk hiervoor uw e-mail.</success_login_sent>
+        <success_video_upload>Uw filmpje is succesvol geüpload. Geef ons een paar minuten de tijd om het filmpje te verwerken en te plaatsen.</success_video_upload>
+        <success_video_updated>Filmpje is bijgewerkt.</success_video_updated>
+        <success_video_deleted>Filmpje is verwijderd.</success_video_deleted>
+        <success_playlist_added>Filmpje toegevoegd aan {LIST_NAME}.</success_playlist_added>
+        <success_playlist_added_short>Filmpje Toegevoegd</success_playlist_added_short>
+        <success_playlist_created>Afspeellijst is gemaakt.</success_playlist_created>
+        <success_playlist_updated>Afspeellijst is bijgewekt.</success_playlist_updated>
+        <success_playlist_video_removed>Filmpje is verwijderd van afspeellijst.</success_playlist_video_removed>
+        <success_playlist_deleted>Afspeellijst is verwijderd.</success_playlist_deleted>
+        <success_profile_updated>Uw profiel is succesvol bijgewerkt.</success_profile_updated>
+        <success_privacy_updated>Uw privacy instellingen zijn succesvol bijgewerkt.</success_privacy_updated>
+        <success_password_updated>Uw wachtwoor is bijgewerkt.</success_password_updated>
+        <success_messages_purged>Berichten succesvol verwijderd!</success_messages_purged>
+        <success_message_deleted>Bericht verwijderd.</success_message_deleted>
+        <success_message_sent>Uw bericht is bezorgd.</success_message_sent>
+
+        <!-- Page Meta Tags -->
+        <meta.index.title>CumulusClips - Gratis Filmpje Delen CMS, Gratis Filmpje Delen Script, Fratie Filmpje Deelen Software, YouTube Kloon Script</meta.index.title>
+        <meta.index.keywords>Gratis Filmpje Delen CMS, Gratis Filmpje Delen Script, Fratie Filmpje Deelen Software, YouTube Kloon Script</meta.index.keywords>
+        <meta.index.description>Gratis filmpjes delen cms site, waarmee je zelf filmpjes kan delen</meta.index.description>
+
+        <meta.videos.title>Bekijk Filmpjes:</meta.videos.title>
+        <meta.videos.keywords>Bekijk Filmpjes, Bekijk, Filmpjes</meta.videos.keywords>
+        <meta.videos.description>Bekijk Filmpjes op een filmpjes delen website</meta.videos.description>
+
+        <meta.members.title>Bekijk Gebruikers</meta.members.title>
+        <meta.members.keywords>Bekijk Gebruikers, Bekijk, Gebruikers</meta.members.keywords>
+        <meta.members.description>Bekijk de aangemelde gebruikers.</meta.members.description>
+
+        <meta.profile.title>{MEMBER}'s Profiel</meta.profile.title>
+        <meta.profile.keywords>Gebruikers Profiel, Gebruikers, Profiel</meta.profile.keywords>
+        <meta.profile.description>Gebruikers profiel voor deze gebruiker.</meta.profile.description>
+
+        <meta.contact.title>Neem Contact Op</meta.contact.title>
+        <meta.contact.keywords>Neem Contact Op, Contact, Stuur ons een bericht</meta.contact.keywords>
+        <meta.contact.description>Get in contact with us.</meta.contact.description>
+
+        <meta.activate.title>Activeer uw Account</meta.activate.title>
+        <meta.activate.keywords>Activeer uw Account, Account Activeren</meta.activate.keywords>
+        <meta.activate.description>Activeer uw Account</meta.activate.description>
+
+        <meta.opt_out.title>Afmelden bij alle E-mail Nieuwsbriefen</meta.opt_out.title>
+        <meta.opt_out.keywords>Afmelden bij alle E-mail Nieuwsbriefen, Afmelden, E-mail, Nieuwsbriefen</meta.opt_out.keywords>
+        <meta.opt_out.description>Afmelden bij alle E-mail Nieuwsbriefen.</meta.opt_out.description>
+
+        <meta.search.title>Zoek resultaten voor: '{KEYWORD}'</meta.search.title>
+        <meta.search.keywords>Zoek Filmpjes, Zoek, Filmpjes, Zoek Resultaten</meta.search.keywords>
+        <meta.search.description>Zoeken naar filmpjes middels woorden die voorkomen in de titel, omschrijving of de tags.</meta.search.description>
+
+        <meta.login.title>Inloggen met uw Account</meta.login.title>
+        <meta.login.keywords>Inloggen, Account</meta.login.keywords>
+        <meta.login.description>Inloggen met uw Account.</meta.login.description>
+
+        <meta.register.title>Aanmelden van een Account</meta.register.title>
+        <meta.register.keywords>Aanmelden, Account</meta.register.keywords>
+        <meta.register.description>Aanmelden van een Account.</meta.register.description>
+
+        <meta.system_404.title>Pagina Niet Gevonden</meta.system_404.title>
+        <meta.system_404.keywords>Pagina Niet Gevonden, 404 Fout</meta.system_404.keywords>
+        <meta.system_404.description>404 Fout, Pagina Niet Gevonden.</meta.system_404.description>
+
+        <meta.system_error.title>Systeem Fout</meta.system_error.title>
+        <meta.system_error.keywords>Systeem Fout</meta.system_error.keywords>
+        <meta.system_error.description>Er is een systeem fout voorgekomen.</meta.system_error.description>
+
+        <meta.account_account.title>Welkom - {USERNAME}</meta.account_account.title>
+        <meta.account_account.keywords>Welkom</meta.account_account.keywords>
+        <meta.account_account.description>Welkom</meta.account_account.description>
+
+        <meta.account_upload.title>Upload Stap 1 - Informatie Filmpje</meta.account_upload.title>
+        <meta.account_upload.keywords>Upload Filmpje, Stap 1, Informatie Filmpje</meta.account_upload.keywords>
+        <meta.account_upload.description>Upload Stap 1 - Informatie Filmpje.</meta.account_upload.description>
+
+        <meta.account_upload_video.title>Upload Stap 2 - Upload Filmpje</meta.account_upload_video.title>
+        <meta.account_upload_video.keywords>Upload Filmpje, Stap 2</meta.account_upload_video.keywords>
+        <meta.account_upload_video.description>Upload Stap 2 - Upload Filmpje.</meta.account_upload_video.description>
+
+        <meta.account_upload_complete.title>Upload Stap 3 - Upload Afgerond!</meta.account_upload_complete.title>
+        <meta.account_upload_complete.keywords>Upload Filmpje, Stap 3, Upload Afgerond</meta.account_upload_complete.keywords>
+        <meta.account_upload_complete.description>Upload Stap 3 - Upload Afgerond!</meta.account_upload_complete.description>
+
+        <meta.account_videos_edit.title>Bewerk Filmpje</meta.account_videos_edit.title>
+        <meta.account_videos_edit.keywords>Bewerk Filmpje, Informatie Filmpje</meta.account_videos_edit.keywords>
+        <meta.account_videos_edit.description>Bewerk de informatie van het filmpje.</meta.account_videos_edit.description>
+
+        <meta.account_videos.title>Mijn Filmpjes</meta.account_videos.title>
+        <meta.account_videos.keywords>Mijn Filmpjes, Filmpjes</meta.account_videos.keywords>
+        <meta.account_videos.description>Bekijk alle filmpjes die daar deze gebruiker geüpload zijn.</meta.account_videos.description>
+
+        <meta.account_playlists.title>Mijn Afspeellijsten</meta.account_playlists.title>
+        <meta.account_playlists.keywords>Mijn Afspeellijsten, Afspeellijsten</meta.account_playlists.keywords>
+        <meta.account_playlists.description>Bekijk al mijn afspeellijsten.</meta.account_playlists.description>
+
+        <meta.account_playlists_edit.title>Bewerk Afspeellijst: {PLAYLIST_NAME}</meta.account_playlists_edit.title>
+        <meta.account_playlists_edit.keywords>Afspeellijst Filmpjes, Filmpjes, Afspeellijst, Bewerk</meta.account_playlists_edit.keywords>
+        <meta.account_playlists_edit.description>Bekijk alle filmpjes in een playlist en werk deze bij.</meta.account_playlists_edit.description>
+
+        <meta.account_update_profile.title>Bijwerken Profiel</meta.account_update_profile.title>
+        <meta.account_update_profile.keywords>Bijwerken Profiel, profile</meta.account_update_profile.keywords>
+        <meta.account_update_profile.description>Bijwerken van gebruikers profiel informatie.</meta.account_update_profile.description>
+
+        <meta.account_privacy_settings.title>Privacy Instellingen</meta.account_privacy_settings.title>
+        <meta.account_privacy_settings.keywords>Privacy Instellingen, Bijwerken Privacy Instellingen</meta.account_privacy_settings.keywords>
+        <meta.account_privacy_settings.description>Bijwerken Privacy Instellingen.</meta.account_privacy_settings.description>
+
+        <meta.account_change_password.title>Verander Wachtwoord</meta.account_change_password.title>
+        <meta.account_change_password.keywords>Verander Wachtwoord, Wachtwoord, Verander Wachtwoord</meta.account_change_password.keywords>
+        <meta.account_change_password.description>Verander Wachtwoord.</meta.account_change_password.description>
+
+        <meta.account_subscriptions.title>Gebruikers Volgen</meta.account_subscriptions.title>
+        <meta.account_subscriptions.keywords>Volgen, Gebruikers Volgen</meta.account_subscriptions.keywords>
+        <meta.account_subscriptions.description>Bekijk alle gebruikers die deze gebruiker volgt</meta.account_subscriptions.description>
+
+        <meta.account_subscribers.title>Mijn Volgers</meta.account_subscribers.title>
+        <meta.account_subscribers.keywords>Volgers, Mijn Volgers</meta.account_subscribers.keywords>
+        <meta.account_subscribers.description>Bekijk alle gebruikers die deze gebruiker volgen.</meta.account_subscribers.description>
+
+        <meta.account_message_inbox.title>Berichten Postvak</meta.account_message_inbox.title>
+        <meta.account_message_inbox.keywords>Berichten Postvak, Berichten, Postvak</meta.account_message_inbox.keywords>
+        <meta.account_message_inbox.description>Bekijk alle berichten.</meta.account_message_inbox.description>
+
+        <meta.account_message_read.title>Lees Bericht</meta.account_message_read.title>
+        <meta.account_message_read.keywords>Lees Bericht, Bericht</meta.account_message_read.keywords>
+        <meta.account_message_read.description>Lees een bericht.</meta.account_message_read.description>
+
+        <meta.account_message_send.title>Verstuur Bericht</meta.account_message_send.title>
+        <meta.account_message_send.keywords>Verstuur Bericht, Bericht</meta.account_message_send.keywords>
+        <meta.account_message_send.description>Stuur een andere gebruiker een bericht.</meta.account_message_send.description>
+
+        <meta.mobile_videos.title>Bekijk Filmpjes</meta.mobile_videos.title>
+
+        <meta.mobile_search.title>Zoek Filmpjes</meta.mobile_search.title>
+    </terms>
+
+</language>
