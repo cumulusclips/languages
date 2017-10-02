@@ -17,7 +17,7 @@
         <logout>Se déconnecter</logout>
         <account>Mon Compte</account>
         <view_my_profile>Voir mon profil</view_my_profile>
-        <admin_panel>Panneau de Configuration</admin_panel>
+        <admin_panel>Panneau de configuration</admin_panel>
         <videos>Vidéos</videos>
         <members>Membres</members>
         <upload>Télécharger</upload>
@@ -29,7 +29,7 @@
         <upload_supported_formats>Formats acceptés</upload_supported_formats>
         <video_feed>Flux vidéo</video_feed>
         <contact>Contact</contact>
-        <sitemap>Plan du Site</sitemap>
+        <sitemap>Plan du site</sitemap>
 	<invalid_session>Votre session est invalide ou a expirée</invalid_session>
 
         <!-- Mobile -->
@@ -157,7 +157,7 @@
         <no_comments>Aucun commentaire n’a encore été posté pour cette vidéo</no_comments>
         <posted>Posté par</posted>
         <date_posted>Posté le</date_posted>
-        <comments_post_header>Poster un Commentaire</comments_post_header>
+        <comments_post_header>Poster un commentaire</comments_post_header>
         <optional>Facultatif</optional>
         <comments>Commentaires</comments>
 	<reply_to>Répondre à</reply_to>
@@ -180,7 +180,7 @@
         <no_playback>Incapable de lire la vidéo.</no_playback>
 
         <!-- Search Page -->
-        <search_header>Recherche vidéo</search_header>
+        <search_header>Rechercher une vidéo</search_header>
         <results_for>Résultats de la recherche pour</results_for>
         <no_results>Aucun résultat n’a été trouvé.</no_results>
 
@@ -205,12 +205,12 @@
         ]]></activate_error>
 
         <!-- 404 Page -->
-        <system_404_header>404 - Page Non Trouvée</system_404_header>
+        <system_404_header>404 - Page non trouvée</system_404_header>
         <system_404_sub_header>Oups!</system_404_sub_header>
         <system_404_text>La page que vous recherchez n’existe pas ou a été déplacée.</system_404_text>
 
         <!-- System Error Page -->
-        <system_error_header>Erreur dans le système</system_error_header>
+        <system_error_header>Erreur système</system_error_header>
         <system_error_text>Nous ne pouvons pas continuer dû à une erreur dans le système. Nous nous excusons pour tout inconvénient.</system_error_text>
 
         <!-- My Account / Home Page -->
@@ -218,7 +218,7 @@
         <last_login>Dernière connexion</last_login>
         <edit_avatar>Modifier l’avatar</edit_avatar>
         <new_messages>Vous avez des nouveaux messages non lus!</new_messages>
-        <account_menu_header>Mon Compte</account_menu_header>
+        <account_menu_header>Mon compte</account_menu_header>
         <manage_media>Gérer les médias</manage_media>
         <upload_video>Télécharger une vidéo</upload_video>
         <my_videos>Mes vidéos</my_videos>
@@ -239,7 +239,7 @@
         <back_to_videos>Retour aux vidéos</back_to_videos>
 
         <!-- My Account / My Videos Page -->
-        <my_videos_header>Mes Vidéos</my_videos_header>
+        <my_videos_header>Mes vidéos</my_videos_header>
         <no_user_videos>Vous n’avez téléchargé encore aucune vidéo.</no_user_videos>
         <edit_video>Modifier la vidéo</edit_video>
         <delete_video>Supprimer la vidéo</delete_video>
@@ -269,12 +269,12 @@
         <remove_playlist_video>Retirer de la playlist</remove_playlist_video>
 
         <!-- My Account / Edit Profile Page -->
-        <profile_header>Mon Profil</profile_header>
+        <profile_header>Mon profil</profile_header>
         <personal_header>Modifier les informations personnelles</personal_header>
         <first_name>Prénom</first_name>
         <last_name>Nom</last_name>
         <about_me>A propos de Moi</about_me>
-        <profile_button>Mettre à jour mon Profil</profile_button>
+        <profile_button>Mettre à jour mon profil</profile_button>
         <update_avatar_header>Mettre à jour l'avatar</update_avatar_header>
         <update_avatar_text><![CDATA[
             <p>Votre avatar apparaîtra  avec vos vidéos, vos commentaires et autres.</p>
@@ -296,22 +296,22 @@
         <privacy_settings_button>Mettre à jour les paramètres de confidentialité</privacy_settings_button>
 
         <!-- My Account / Change Password Page -->
-        <change_password_header>Changer de Mot de Passe</change_password_header>
-        <change_password_text>Le Mot de Passe doit contenir entre 6 à 10 caractères (lettres en majuscule et minuscule, chiffres et caractères spéciaux inclus).</change_password_text>
-        <new_password>Nouveau Mot de Passe</new_password>
-        <change_password_button>Changer de Mot de Passe</change_password_button>
+        <change_password_header>Changer de mot de passe</change_password_header>
+        <change_password_text>Le mot de passe doit contenir entre 6 à 10 caractères (lettres en majuscule et minuscule, chiffres et caractères spéciaux inclus).</change_password_text>
+        <new_password>Nouveau mot de passe</new_password>
+        <change_password_button>Changer de mot de passe</change_password_button>
 
         <!-- My Account / View My Subscriptions Page -->
-        <subscriptions_header>Mes Abonnements</subscriptions_header>
+        <subscriptions_header>Mes abonnements</subscriptions_header>
         <confirm_subscription>Vous serez désinscrit de ce membre. Voulez-vous continuer?</confirm_subscription>
         <no_subscriptions>Aucun abonnement.</no_subscriptions>
 
         <!-- My Account / View My Subscribers Page -->
-        <subscribers_header>Mes Abonnés</subscribers_header>
+        <subscribers_header>Mes abonnés</subscribers_header>
         <no_subscribers>Aucun abonné.</no_subscribers>
 
         <!-- My Account / Message Inbox Page -->
-        <message_inbox_header>Boîte de Réception</message_inbox_header>
+        <message_inbox_header>Boîte de réception</message_inbox_header>
         <purge>Nettoyer</purge>
         <message_status>Statut</message_status>
         <read>Lu</read>
@@ -323,15 +323,15 @@
         <no_messages>Aucun message</no_messages>
 
         <!-- My Account / Read Message Page -->
-        <message_read_header>Lire le Message</message_read_header>
-        <return_inbox>Retour à la Boîte de Réception</return_inbox>
+        <message_read_header>Lire le message</message_read_header>
+        <return_inbox>Retour à la boîte de réception</return_inbox>
         <reply>Répondre</reply>
         <delete>Supprimer</delete>
 
         <!-- My Account / Send Message Page -->
-        <message_send_header>Envoyer un Message</message_send_header>
+        <message_send_header>Envoyer un message</message_send_header>
         <to>À</to>
-        <members_username>Identifiant du Membre</members_username>
+        <members_username>Identifiant du membre</members_username>
         <message_send_button>Envoyer</message_send_button>
 
         <!-- My Account / Upload Video - Video Information Page -->
@@ -367,14 +367,14 @@
         <submit_button>Envoyer</submit_button>
 
         <!-- My Account / Upload - Video Upload Page -->
-        <upload_video_header>Télécharger la Vidéo</upload_video_header>
+        <upload_video_header>Télécharger la vidéo</upload_video_header>
         <upload_video_text>Veuillez choisir une vidéo à partir de votre disque dur. Veuillez vous assurer que la vidéo ne viole aucun droit d’auteurs. Nous nous réservons le droit de supprimer n’importe quelle vidéo à tout moment et pour n’importe quelle raison.</upload_video_text>
-        <filesize_limit>La Taille Maximale du Fichier est de</filesize_limit>
+        <filesize_limit>La taille maximale du fichier est de</filesize_limit>
 	<cancel>Annuler</cancel>
-        <upload_video_button>Télécharger la Vidéo</upload_video_button>
+        <upload_video_button>Télécharger la vidéo</upload_video_button>
 
         <!-- My Account / Upload - Complete Page -->
-        <upload_complete_header>Téléchargement Terminé !</upload_complete_header>
+        <upload_complete_header>Téléchargement terminé !</upload_complete_header>
         <upload_complete_text>Votre vidéo a été téléchargée avec succès! Veuillez patienter quelques minutes avant que la vidéo ne soit disponible sur {SITENAME} et {SITENAME} Mobile.</upload_complete_text>
 
 
@@ -394,36 +394,36 @@
 	<confirm_delete_attachments>Le fichier sélectionné sera supprimé définitivement et ne sera plus attaché à aucune vidéo. Voulez-vous le supprimer ?</confirm_delete_attachments>
         <confirm_delete_message>Le message sera supprimé définitivement. Voulez-vous le supprimer ?</confirm_delete_message>
 
-        <error_username>Identifiant Invalide</error_username>
-        <error_username_unavailable>Identifiant Indisponible</error_username_unavailable>
-        <error_password>Mot de Passe Invalide</error_password>
-        <error_password_match>Vos Mots de Passe ne sont pas identiques.</error_password_match>
-        <error_password_confirm>Confirmation de Mot de Passe Invalide</error_password_confirm>
+        <error_username>Identifiant invalide</error_username>
+        <error_username_unavailable>Identifiant indisponible</error_username_unavailable>
+        <error_password>Mot de passe invalide</error_password>
+        <error_password_match>Vos mots de passe ne sont pas identiques.</error_password_match>
+        <error_password_confirm>Confirmation de mot de passe invalide</error_password_confirm>
         <error_security_text>Captcha invalide</error_security_text>
         <error_email>Vous devez entrer une adresse email valide.</error_email>
-        <error_email_unavailable>Adresse email Invalide</error_email_unavailable>
-        <error_recipient>Identifiant du Récipient Invalide</error_recipient>
-        <error_website_invalid>Site Web Invalide</error_website_invalid>
+        <error_email_unavailable>Adresse email invalide</error_email_unavailable>
+        <error_recipient>Identifiant du destinataire invalide</error_recipient>
+        <error_website_invalid>Site Web invalide</error_website_invalid>
         <error_recipient_exist>Aucun membre n’existe sous cet identifiant.</error_recipient_exist>
         <error_recipient_self>Vous ne pouvez pas vous envoyez vous-même un message.</error_recipient_self>
-        <error_subject>Objet Invalide</error_subject>
-        <error_message>Message Invalide</error_message>
-	<error_video_upload>Téléchargement de la Vidéo Invalide</error_video_upload>
-        <error_title>Titre Invalide</error_title>
-        <error_description>Description Invalide</error_description>
-        <error_tags>Etiquettes Invalides</error_tags>
-        <error_category>Catégorie Invalide</error_category>
-	<error_attachment>Pièce jointe Invalide</error_attachment>
-        <error_attachment_file>Téléchargement de la pièce jointe Invalide</error_attachment_file>
-        <error_attachment_duplicate>Le fichier est déjà attachéd</error_attachment_duplicate>
+        <error_subject>Objet invalide</error_subject>
+        <error_message>Message invalide</error_message>
+	<error_video_upload>Téléchargement de la vidéo invalide</error_video_upload>
+        <error_title>Titre invalide</error_title>
+        <error_description>Description invalide</error_description>
+        <error_tags>Etiquettes invalides</error_tags>
+        <error_category>Catégorie invalide</error_category>
+	<error_attachment>Pièce jointe invalide</error_attachment>
+        <error_attachment_file>Téléchargement de la pièce jointe invalide</error_attachment_file>
+        <error_attachment_duplicate>Le fichier est déjà attaché</error_attachment_duplicate>
         <error_attachment_upload><![CDATA[
   	    Impossible de télécharger la pièce jointe de la vidéo. Merci de réessayer plus tard. Si ce problème persite, veuillez  <a href="{HOST}/contact/">nous contacter</a> pour plus d'assistance.
 	]]></error_attachment_upload>
-        <error_name>Nom Invalide</error_name>
+        <error_name>Nom invalide</error_name>
 	<error_comment_login>Vous devez vous connecter pour commenter.</error_comment_login>
-        <error_comment>Commentaire Invalide</error_comment>
+        <error_comment>Commentaire invalide</error_comment>
         <error_private_url>URL privée invalide</error_private_url>
-        <error_status_update>Mise à Jour du Statut Invalide</error_status_update>
+        <error_status_update>Mise à jour du statut invalide</error_status_update>
         <error_flag_login>Vous devez vous connecter pour signaler tout contenu inapproprié.</error_flag_login>
         <error_flag_own>Vous ne pouvez pas signaler votre propre contenu.</error_flag_own>
         <error_flag_duplicate>Vous avez déjà signalé ce contenu. Merci de votre assistance.</error_flag_duplicate>
@@ -476,35 +476,35 @@
         <success_playlist_deleted>La playlis a été supprimée.</success_playlist_deleted>
         <success_profile_updated>Votre profil a été mis à jour avec succès.</success_profile_updated>
         <success_privacy_updated>Vos paramètres de confidentialité ont été mis à jour.</success_privacy_updated>
-        <success_password_updated>Votre Mot de Passe a été mis à jour.</success_password_updated>
+        <success_password_updated>Votre mot de passe a été mis à jour.</success_password_updated>
         <success_messages_purged>Ces messages ont été supprimés avec succès!</success_messages_purged>
 	<success_message_deleted>Ce message a été supprimé.</success_message_deleted>
         <success_message_sent>Votre message a été expédié.</success_message_sent>
 	<success_attachments_deleted>Les pièces jointes ont été supprimées.</success_attachments_deleted>
 
         <!-- Page Meta Tags -->
-        <meta.index.title>CumulusClips – CMS de Partage Vidéo Gratuit, Script de Partage Vidéo Gratuit, Logiciel de Partage Vidéo Gratuit, Clone du Script YouTube.</meta.index.title>
-        <meta.index.keywords>CMS de Partage Vidéo Gratuit, Script de Partage Vidéo Gratuit, Logiciel de Partage Vidéo Gratuit, Clone du Script YouTube.</meta.index.keywords>
-        <meta.index.description>Logiciel CMS de Partage Vidéo Gratuit qui vous permet d’avoir votre propre site web de partage vidéo et votre propre communauté.</meta.index.description>
+        <meta.index.title>CumulusClips – CMS de partage vidéo gratuit, Script de partage vidéo gratuit, Logiciel de partage vidéo Gratuit, Clone du script YouTube.</meta.index.title>
+        <meta.index.keywords>CMS de partage vidéo gratuit, Script de partage vidéo gratuit, Logiciel de partage vidéo gratuit, Clone du script YouTube.</meta.index.keywords>
+        <meta.index.description>Logiciel CMS de partage vidéo gratuit qui vous permet d’avoir votre propre site web de partage vidéo et votre propre communauté.</meta.index.description>
 
-        <meta.browse.title>Parcourir les Vidéos:</meta.browse.title>
-        <meta.browse.keywords>Parcourir les Vidéos, Parcourir, Vidéos</meta.browse.keywords>
-        <meta.browse.description>Parcourez les vidéos dans la communauté de Partage Vidéo.</meta.browse.description>
+        <meta.browse.title>Parcourir les vidéos:</meta.browse.title>
+        <meta.browse.keywords>Parcourir les vidéos, Parcourir, Vidéos</meta.browse.keywords>
+        <meta.browse.description>Parcourez les vidéos dans la communauté de partage de vidéos.</meta.browse.description>
 
-        <meta.members.title>Parcourir les Membres</meta.members.title>
-        <meta.members.keywords>Parcourir les Membres, Parcourir, Membres</meta.members.keywords>
+        <meta.members.title>Parcourir les membres</meta.members.title>
+        <meta.members.keywords>Parcourir les membres, Parcourir, Membres</meta.members.keywords>
         <meta.members.description>Parcourir les membres enregistrés.</meta.members.description>
 
         <meta.profile.title>Profil de {MEMBER}</meta.profile.title>
-        <meta.profile.keywords>Profil du Membre, Membre, Profil</meta.profile.keywords>
+        <meta.profile.keywords>Profil du membre, Membre, Profil</meta.profile.keywords>
         <meta.profile.description>Consulter le profil de ce membre.</meta.profile.description>
 
-        <meta.contact.title>Contactez-Nous</meta.contact.title>
-        <meta.contact.keywords>Contactez-Nous, Contacter, Envoyez-nous un message</meta.contact.keywords>
+        <meta.contact.title>Contactez-nous</meta.contact.title>
+        <meta.contact.keywords>Contactez-nous, Contacter, Envoyez-nous un message</meta.contact.keywords>
         <meta.contact.description>Pour nous contacter.</meta.contact.description>
 
         <meta.activate.title>Activez votre compte</meta.activate.title>
-        <meta.activate.keywords>Activez votre compte, Activation de Compte</meta.activate.keywords>
+        <meta.activate.keywords>Activez votre compte, Activation de compte</meta.activate.keywords>
         <meta.activate.description>Pour activer votre compte.</meta.activate.description>
 
         <meta.opt_out.title>Se retirer de toutes les listes de diffusion</meta.opt_out.title>
@@ -515,44 +515,44 @@
         <meta.search.keywords>Recherche Vidéos, Recherche, Vidéo, Résultats de la recherche</meta.search.keywords>
         <meta.search.description>Rechercher des vidéos à l’aide de mots-clés pouvant apparaître dans le titre, la description ou les étiquettes de la vidéo.</meta.search.description>
 
-        <meta.login.title>Connexion à votre Compte</meta.login.title>
+        <meta.login.title>Connexion à votre compte</meta.login.title>
         <meta.login.keywords>Connexion, Compte</meta.login.keywords>
         <meta.login.description>Connectez-vous à votre compte.</meta.login.description>
 
-        <meta.register.title>S’inscrire à un Compte</meta.register.title>
+        <meta.register.title>S’inscrire à un compte</meta.register.title>
         <meta.register.keywords>S’inscrire, S’enregistrer, Compte</meta.register.keywords>
         <meta.register.description>Inscrivez-vous à un compte.</meta.register.description>
 
-        <meta.system_404.title>Page Non Trouvée</meta.system_404.title>
-        <meta.system_404.keywords>Page Non Trouvée, Erreur 404</meta.system_404.keywords>
+        <meta.system_404.title>Page non trouvée</meta.system_404.title>
+        <meta.system_404.keywords>Page Non trouvée, Erreur 404</meta.system_404.keywords>
         <meta.system_404.description>Erreur 404, Page Non Trouvée.</meta.system_404.description>
 
-        <meta.system_error.title>Erreur de Système</meta.system_error.title>
-        <meta.system_error.keywords>Erreur de Système</meta.system_error.keywords>
+        <meta.system_error.title>Erreur système</meta.system_error.title>
+        <meta.system_error.keywords>Erreur système</meta.system_error.keywords>
         <meta.system_error.description>Une erreur s’est produite dans le système.</meta.system_error.description>
 
         <meta.account_account.title>Bienvenue - {USERNAME}</meta.account_account.title>
         <meta.account_account.keywords>Bienvenue</meta.account_account.keywords>
         <meta.account_account.description>Bienvenue</meta.account_account.description>
 
-        <meta.account_upload_video.title>Télécharger la Vidéo</meta.account_upload_video.title>
+        <meta.account_upload_video.title>Télécharger la vidéo</meta.account_upload_video.title>
         <meta.account_upload_video.keywords>Télécharger la vidéo</meta.account_upload_video.keywords>
-        <meta.account_upload_video.description>Télécharger la Vidéo.</meta.account_upload_video.description>
+        <meta.account_upload_video.description>Télécharger la vidéo.</meta.account_upload_video.description>
 
-        <meta.account_upload_info.title>Informations sur la Vidéo</meta.account_upload_info.title>
+        <meta.account_upload_info.title>Informations sur la vidéo</meta.account_upload_info.title>
         <meta.account_upload_info.keywords>Télécharger la vidéo</meta.account_upload_info.keywords>
-        <meta.account_upload_info.description>Informations sur la Vidéo.</meta.account_upload_info.description>
+        <meta.account_upload_info.description>Informations sur la vidéo.</meta.account_upload_info.description>
 
-        <meta.account_upload_complete.title>Téléchargement Terminé !</meta.account_upload_complete.title>
+        <meta.account_upload_complete.title>Téléchargement terminé !</meta.account_upload_complete.title>
         <meta.account_upload_complete.keywords>Télécharger la vidéo, Téléchargement Terminé</meta.account_upload_complete.keywords>
-        <meta.account_upload_complete.description>Téléchargement Terminé !</meta.account_upload_complete.description>
+        <meta.account_upload_complete.description>Téléchargement terminé !</meta.account_upload_complete.description>
 
-        <meta.account_videos_edit.title>Modifier la Vidéo</meta.account_videos_edit.title>
-        <meta.account_videos_edit.keywords>Modifier la Vidéo, Informations de Vidéo</meta.account_videos_edit.keywords>
+        <meta.account_videos_edit.title>Modifier la vidéo</meta.account_videos_edit.title>
+        <meta.account_videos_edit.keywords>Modifier la vidéo, Informations de vidéo</meta.account_videos_edit.keywords>
         <meta.account_videos_edit.description>Modifier les informations de la Vidéo.</meta.account_videos_edit.description>
 
-        <meta.account_videos.title>Mes Vidéos</meta.account_videos.title>
-        <meta.account_videos.keywords>Mes Vidéos, Vidéos</meta.account_videos.keywords>
+        <meta.account_videos.title>Mes vidéos</meta.account_videos.title>
+        <meta.account_videos.keywords>Mes vidéos, Vidéos</meta.account_videos.keywords>
         <meta.account_videos.description>Voir toutes les vidéos téléchargées par ce membre.</meta.account_videos.description>
 
 	<meta.account_attachments.title>Pièces jointes</meta.account_attachments.title>
@@ -564,44 +564,44 @@
         <meta.account_playlists.description>Voir toutes mes playlists.</meta.account_playlists.description>
 
 	<meta.account_playlists_edit.title>Modifier la playlist: {PLAYLIST_NAME}</meta.account_playlists_edit.title>
-        <meta.account_playlists_edit.keywords>Playlist Vidéos, Vidéos, playlist, modifier</meta.account_playlists_edit.keywords>
+        <meta.account_playlists_edit.keywords>Playlist vidéos, Vidéos, playlist, modifier</meta.account_playlists_edit.keywords>
         <meta.account_playlists_edit.description>Modifier la playlist, et voir toutes les vidéos de la playlist.</meta.account_playlists_edit.description>
 
-	<meta.account_update_profile.title>Mise à jour du Profil</meta.account_update_profile.title>
-        <meta.account_update_profile.keywords>Mise à jour du Profil, profil</meta.account_update_profile.keywords>
+	<meta.account_update_profile.title>Mise à jour du profil</meta.account_update_profile.title>
+        <meta.account_update_profile.keywords>Mise à jour du profil, profil</meta.account_update_profile.keywords>
         <meta.account_update_profile.description>Mettre à jour toutes les informations de votre profil.</meta.account_update_profile.description>
 
-	<meta.account_privacy_settings.title>Paramètres de Confidentialité</meta.account_privacy_settings.title>
-        <meta.account_privacy_settings.keywords>Paramètres de Confidentialité, Mise à jour des Paramètres de Confidentialité</meta.account_privacy_settings.keywords>
-        <meta.account_privacy_settings.description>Mettre à jour les Paramètres de Confidentialité.</meta.account_privacy_settings.description>
+	<meta.account_privacy_settings.title>Paramètres de confidentialité</meta.account_privacy_settings.title>
+        <meta.account_privacy_settings.keywords>Paramètres de confidentialité, Mise à jour des paramètres de confidentialité</meta.account_privacy_settings.keywords>
+        <meta.account_privacy_settings.description>Mettre à jour les paramètres de confidentialité.</meta.account_privacy_settings.description>
 
-	<meta.account_change_password.title>Changer de Mot de Passe</meta.account_change_password.title>
-        <meta.account_change_password.keywords>Changer de Mot de Passe, Mot de Passe, Mettre à jour le Mot de Passe</meta.account_change_password.keywords>
+	<meta.account_change_password.title>Changer de mot de passe</meta.account_change_password.title>
+        <meta.account_change_password.keywords>Changer de mot de passe, Mot de passe, Mettre à jour le mot de passe</meta.account_change_password.keywords>
         <meta.account_change_password.description>Changer le mot de passe du compte.</meta.account_change_password.description>
 
-	<meta.account_subscriptions.title>Mes Abonnements</meta.account_subscriptions.title>
+	<meta.account_subscriptions.title>Mes abonnements</meta.account_subscriptions.title>
         <meta.account_subscriptions.keywords>Abonnements, Abonnements du membre</meta.account_subscriptions.keywords>
         <meta.account_subscriptions.description>Voir tous les utilisateurs auxquels ce membre est abonné.</meta.account_subscriptions.description>
 
-	<meta.account_subscribers.title>Mes Abonnés</meta.account_subscribers.title>
+	<meta.account_subscribers.title>Mes abonnés</meta.account_subscribers.title>
         <meta.account_subscribers.keywords>Abonnés, S’abonner aux membres</meta.account_subscribers.keywords>
         <meta.account_subscribers.description>Voir tous les utilisateurs qui sont abonnés à ce membre.</meta.account_subscribers.description>
 
-	<meta.account_message_inbox.title>Boîte de Réception</meta.account_message_inbox.title>
-        <meta.account_message_inbox.keywords>Boîte de Réception, Message, Boîte de Réception</meta.account_message_inbox.keywords>
+	<meta.account_message_inbox.title>Boîte de réception</meta.account_message_inbox.title>
+        <meta.account_message_inbox.keywords>Boîte de réception, Message, Boîte de réception</meta.account_message_inbox.keywords>
         <meta.account_message_inbox.description>Voir tous les messages.</meta.account_message_inbox.description>
 
-	<meta.account_message_read.title>Lire le Message</meta.account_message_read.title>
-        <meta.account_message_read.keywords>Lire le Message, Message</meta.account_message_read.keywords>
+	<meta.account_message_read.title>Lire le message</meta.account_message_read.title>
+        <meta.account_message_read.keywords>Lire le message, Message</meta.account_message_read.keywords>
         <meta.account_message_read.description>Lire un message.</meta.account_message_read.description>
 
-	<meta.account_message_send.title>Envoyer un Message</meta.account_message_send.title>
-        <meta.account_message_send.keywords>Envoyer Message, Message</meta.account_message_send.keywords>
+	<meta.account_message_send.title>Envoyer un message</meta.account_message_send.title>
+        <meta.account_message_send.keywords>Envoyer message, Message</meta.account_message_send.keywords>
         <meta.account_message_send.description>Envoyer un message à un autre membre.</meta.account_message_send.description>
 
-        <meta.mobile_videos.title>Parcourir les Vidéos</meta.mobile_videos.title>
+        <meta.mobile_videos.title>Parcourir les vidéos</meta.mobile_videos.title>
 
-        <meta.mobile_search.title>Rechercher des Vidéos</meta.mobile_search.title>
+        <meta.mobile_search.title>Rechercher des vidéos</meta.mobile_search.title>
 
 	
 	<!-- @deprecated Deprecated in 2.5.0, removed in 2.6.0. Use browse_header instead -->
