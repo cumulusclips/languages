@@ -15,7 +15,7 @@
         <login>Se connecter</login>
         <register>S'inscrire gratuitement</register>
         <logout>Se déconnecter</logout>
-        <account>Mon Compte</account>
+        <account>Mon compte</account>
         <view_my_profile>Voir mon profil</view_my_profile>
         <admin_panel>Panneau de configuration</admin_panel>
         <videos>Vidéos</videos>
@@ -37,13 +37,13 @@
         <home>Accueil</home>
         <back>Retour</back>
         <duration>Durée</duration>
-        <load_more>Chargez Plus</load_more>
+        <load_more>Chargez plus</load_more>
         <loading>Chargement</loading>
         <featured>Sélection</featured>
         <featured_videos>Vidéos à la une</featured_videos>
         <recent_videos>Vidéos récemment ajoutées</recent_videos>
         <search>Recherche</search>
-        <standard_site>Site Standard</standard_site>
+        <standard_site>Site standard</standard_site>
         <device_not_supported>Votre appareil n'est pas pris en charge pour la lecture vidéo.</device_not_supported>
         <close>Fermer</close>
         <menu>Menu</menu>
@@ -75,7 +75,7 @@
         <!-- Register Page -->
         <register_header>Inscrivez-vous</register_header>
         <register_text><![CDATA[
-        <strong> Rejoignez {SITENAME} Aujourd’hui!</strong><br /><br />
+        <strong> Rejoignez {SITENAME} aujourd’hui!</strong><br /><br />
         Une fois inscrit, vous serez en mesure de télécharger des vidéos, poster des commentaires, noter et partager des vidéos, vous abonner à des membres et bien plus encore!</p>
         ]]></register_text>
         <asterisk>Les astérisques (*) indiquent les champs obligatoires.</asterisk>
@@ -140,7 +140,7 @@
         <add>Ajouter</add>
         <add_to>Ajouter à</add_to>
         <favorite>Favori</favorite>
-        <favorites>Mes Favoris</favorites>
+        <favorites>Mes favoris</favorites>
         <watch_later>Lire plus tard</watch_later>
         <playlists>Playlists</playlists>
         <playlist_login><![CDATA[Vous devez vous <a href="{HOST}/login/">connecter</a> pour ajouter des vidéos à vos playlists.]]></playlist_login>
@@ -315,7 +315,7 @@
         <purge>Nettoyer</purge>
         <message_status>Statut</message_status>
         <read>Lu</read>
-        <unread>Non Lu</unread>
+        <unread>Non lu</unread>
         <subject>Objet</subject>
         <sender>Émetteur</sender>
         <date>Date</date>
@@ -610,3 +610,4 @@
     </terms>
 
 </language>
+
