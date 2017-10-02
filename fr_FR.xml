@@ -367,11 +367,11 @@
         <submit_button>Envoyer</submit_button>
 
         <!-- My Account / Upload - Video Upload Page -->
-        <upload_video_header>Télécharger la vidéo</upload_video_header>
+        <upload_video_header>Télécharger une vidéo</upload_video_header>
         <upload_video_text>Veuillez choisir une vidéo à partir de votre disque dur. Veuillez vous assurer que la vidéo ne viole aucun droit d’auteurs. Nous nous réservons le droit de supprimer n’importe quelle vidéo à tout moment et pour n’importe quelle raison.</upload_video_text>
         <filesize_limit>La taille maximale du fichier est de</filesize_limit>
 	<cancel>Annuler</cancel>
-        <upload_video_button>Télécharger la vidéo</upload_video_button>
+        <upload_video_button>Télécharger une vidéo</upload_video_button>
 
         <!-- My Account / Upload - Complete Page -->
         <upload_complete_header>Téléchargement terminé !</upload_complete_header>
