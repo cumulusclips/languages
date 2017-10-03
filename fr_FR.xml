@@ -148,7 +148,7 @@
         <playlist_name>Nom de la playlist</playlist_name>
         <visibility>Visibilité</visibility>
         <public>Public</public>
-        <create_playlist_button>Créer la playlist</create_playlist_button>
+        <create_playlist_button>Créer une playlist</create_playlist_button>
         <flag>Dénoncer</flag>
         <date_uploaded>Date d'envoi</date_uploaded>
         <comments_header>Commentaires</comments_header>
