@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+    <information>
+        <lang_name>Russian</lang_name>
+        <native_name>Русский</native_name>
+        <locale>ru_RU</locale>
+        <author>CumulusClips.ru</author>
+        <sample>Пиво отпускается только членам профсоюза.</sample>
+        <version>2.4</version>
+        <update>http://mothership.cumulusclips.org/updates/languages/ru_RU/</update>
+        <notes></notes>
+    </information>
+    <terms>
+        <search_text>Найти видео...</search_text>
+        <login>Авторизация</login>
+        <register>Регистрация</register>
+        <logout>Выход</logout>
+        <account>Мой аккаунт</account>
+        <view_my_profile>Моя страница</view_my_profile>
+        <admin_panel>Админ панель</admin_panel>
+        <videos>Видео</videos>
+        <members>Участники</members>
+        <upload>Загрузить</upload>
+        <previous>Предидущая</previous>
+        <next>Следующая</next>
+        <yes>Да</yes>
+        <no>Нет</no>
+        <quick_links>Быстрые ссылки</quick_links>
+        <upload_supported_formats>Поддерживаемые форматы</upload_supported_formats>
+        <video_feed>Видеоканал</video_feed>
+        <contact>Контакты</contact>
+        <sitemap>Карта сайта</sitemap>
+        <invalid_session>Истёк срок действия сессии</invalid_session>
+
+        <!-- Mobile -->
+        <mobile_heading>{SITENAME} Mobile</mobile_heading>
+        <home>Главная</home>
+        <back>Назад</back>
+        <duration>Продолжительность</duration>
+        <load_more>Читать далее</load_more>
+        <loading>Загрузка</loading>
+        <featured>Представляем</featured>
+        <featured_videos>Представляем вашему вниманию</featured_videos>
+        <recent_videos>Последние видеозаписи</recent_videos>
+        <search>Поиск</search>
+        <standard_site>Обычный сайт</standard_site>
+        <device_not_supported>Ваше устройство не поддерживает воспроизведение видео.</device_not_supported>
+        <close>Закрыть</close>
+        <menu>Меню</menu>
+        <choose_language>Выберите язык</choose_language>
+        <suggestions>Предложения</suggestions>
+        <upload_button>Загрузить</upload_button>
+        <post_video_button>Опубликовать</post_video_button>
+        <mobile_upload_header>Загрузка видео</mobile_upload_header>
+
+        <!-- Home Page -->
+        <home_header>Прямо из печи!</home_header>
+        <advertisement>Реклама</advertisement>
+        <account_login>Авторизация</account_login>
+        <username>Имя</username>
+        <password>Пароль</password>
+        <no_account>Не зарегистрированы? Зарегистрируйтесь бесплатно!</no_account>
+        <forgot_your_login>Забыли логин?</forgot_your_login>
+        <login_button>Войти</login_button>
+
+        <!-- Login Page -->
+        <login_header>Авторизация</login_header>
+        <session_expired>Срок действия вашей сессии истёк. Пожалуйста, авторизуйтесь заново.</session_expired>
+        <remember_me>Запомнить меня</remember_me>
+        <forgot_text>Пожалуйста, укажите свой e-mail в поле ниже. Мы вышлем вам инструкции по восстановлению доступа.</forgot_text>
+        <email>E-mail</email>
+        <forgot_header>Если вы забыли логин</forgot_header>
+        <forgot_button>Восстановить логин</forgot_button>
+
+        <!-- Register Page -->
+        <register_header>Зарегистрируйтесь</register_header>
+        <register_text><![CDATA[
+            <p><strong>Присоединяйтесь к {SITENAME} сегодня!</strong><br><br>
+            Участники могут добавлять видео, комментировать, оценивать и делиться видеозаписями, подписываться на других участников и многое другое!</p>
+        ]]></register_text>
+        <asterisk>Отмеченное звёздочкой (*) необходимо заполнить.</asterisk>
+        <username_req>Имя может состоять из английских букв, цифр, но без пробелов или специальных символов.</username_req>
+        <confirm_password>Подтверждение пароля</confirm_password>
+        <register_button>Зарегистрироваться</register_button>
+        <checking_availability>Проверка доступности</checking_availability>
+        <username_minimum>Нужно минимум 4 символа.</username_minimum>
+        <username_available>Это имя доступно для регистрации!</username_available>
+
+        <!-- Contact Page -->
+        <contact_header>Связь с нами</contact_header>
+        <contact_text>Пожалуйста, заполните форму и отправьте нам и мы ответим вам так скоро, как сможем. В зависимости от нагрузки, это может занять некоторое время.</contact_text>
+        <name>Имя</name>
+        <message>Сообщение</message>
+        <contact_us>Связаться с нами</contact_us>
+        <contact_button>Отправить запрос</contact_button>
+
+        <!-- Browse Videos Page -->
+        <browse_header>Обзор видео</browse_header>
+        <viewing>Просмотр</viewing>
+        <sorting>Самые</sorting>
+        <most_recent>Свежие</most_recent>
+        <most_viewed>Популярные</most_viewed>
+        <most_discussed>Обсуждаемые</most_discussed>
+        <most_rated>Отмечаемые</most_rated>
+        <no_videos>Пока нет видео.</no_videos>
+        <by>От</by>
+
+        <!-- Browse Members Page -->
+        <members_header>Обзор участников</members_header>
+        <no_members>Пока нет зарегистрированных участников.</no_members>
+        <joined>Присоединился</joined>
+        <videos_uploaded>Загружено видео</videos_uploaded>
+
+        <!-- Member Profile Page -->
+        <subscribe>Подписаться</subscribe>
+        <unsubscribe>Отписаться</unsubscribe>
+        <send_message>Написать сообщение</send_message>
+        <report_abuse>Пожаловаться</report_abuse>
+        <member_rss>RSS-лента участника</member_rss>
+        <profile_views>Просмотров профиля</profile_views>
+        <subscribers>Подписчиков</subscribers>
+        <website>Веб-сайт</website>
+        <view_all_videos>Смотреть всё видео</view_all_videos>
+        <no_member_videos>Участник пока не публиковал видео.</no_member_videos>
+        <no_member_playlists>У участника пока нет списков воспроизведения.</no_member_playlists>
+        <watch_all>Смотреть всё</watch_all>
+
+        <!-- Member Videos Page -->
+        <videos_by>Видео по</videos_by>
+        <go_to_profile>На страницу участника</go_to_profile>
+
+        <!-- Watch Video Page -->
+        <like>Нравится</like>
+        <dislike>Не нравится</dislike>
+        <about>Описание</about>
+        <attachments>Вложения</attachments>
+        <share>Поделиться</share>
+        <embed>HTML-код</embed>
+        <embed_text>Скопируйте и вставьте этот код в ваш веб-сайт или блог.</embed_text>
+        <add>Добавить</add>
+        <add_to>Добавить в</add_to>
+        <favorite>Избранное</favorite>
+        <favorites>Избранные</favorites>
+        <watch_later>Посмотреть потом</watch_later>
+        <playlists>Плейлисты</playlists>
+        <playlist_login><![CDATA[Вам надо <a href="{URL}">авторизоваться</a> чтобы добавлять видеозаписи к спискам воспроизведения.]]></playlist_login>
+        <create_new_playlist>Создать новый плейлист</create_new_playlist>
+        <playlist_name>Название</playlist_name>
+        <visibility>Видимость</visibility>
+        <public>Публичное</public>
+        <create_playlist_button>Создать список</create_playlist_button>
+        <flag>Пожаловаться</flag>
+        <date_uploaded>Дата загрузки</date_uploaded>
+        <comments_header>Комментарии</comments_header>
+        <view_all_comments>Смотреть все комментарии</view_all_comments>
+        <comments_total>комментариев</comments_total>
+        <no_comments>К этому видео пока нет комментариев.</no_comments>
+        <posted>Опубликовал</posted>
+        <date_posted>Опубликовано</date_posted>
+        <comments_post_header>Отправка комментария</comments_post_header>
+        <optional>По желанию</optional>
+        <comments>Комментарий</comments>
+        <reply_to>Ответил</reply_to>
+        <comments_closed>Комментарии закрыты.</comments_closed>
+        <comments_login_register><![CDATA[
+            <a class="login-link" href="{LOGIN_LINK}">Авторизуйтесь</a> или <a class="register-link" href="{REGISTER_LINK}">Зарегистрируйтесь</a> чтобы комментировать.
+        ]]></comments_login_register>
+        <comments_login><![CDATA[
+            <a class="login-link" href="{LOGIN_LINK}">Авторизуйтесь</a> чтобы комментировать.
+        ]]></comments_login>
+        <comments_button>Отправить</comments_button>
+        <suggestions_header>Предложения</suggestions_header>
+        <no_suggestions>Нет предложений.</no_suggestions>
+        <views>Просмотров</views>
+        <gated_video>Для просмотра этой видеозаписи необходимо авторизоваться</gated_video>
+        <video_unavailable>Видеозапись недоступна</video_unavailable>
+        <embed_disabled><![CDATA[
+            Это видео нельзя публиковать на других веб-сайтах. Вы можете просмотреть его на <a target="_top" href="{LINK}">{SITENAME}</a>.
+        ]]></embed_disabled>
+        <no_playback>Нет возможности воспроизведения видео.</no_playback>
+
+        <!-- Search Page -->
+        <search_header>Результаты поиска</search_header>
+        <results_for>Результаты поиска по запросу</results_for>
+        <no_results>По вашему запросу ничего не найдено.</no_results>
+
+        <!-- Opt-Out Page -->
+        <opt_out_header>Отказ от рассылок</opt_out_header>
+        <opt_out_text><![CDATA[
+        Ваш e-mail удалён из всех почтовых рассылок.
+        Если вы желаете изменить предпочтения e-mail оповещений, вы можете сделать это в разделе
+        <a href="{LINK}">Личные настройки</a>.
+        ]]></opt_out_text>
+
+        <!-- Activate Account Page -->
+        <activate_header>Активация аккаунта</activate_header>
+        <activate_success><![CDATA[
+        Замечательно! Ваш аккаунт активирован. <a href="{HOST}/account/">Перейти в Мой аккаунт</a>
+        ]]></activate_success>
+        <activate_approve>Благодарим за регистрацию! Ваш аккаунт активирован, но ещё требуется его утверждение нашей администрацией, перед тем, как вы сможете войти. Мы оповестим вас по завершению.</activate_approve>
+        <activate_error><![CDATA[
+        Неправильный код! Пожалуйста, проверьте правильность введённого кода.
+        Возможно ваш аккаунт ужё активирован. Если вы забыли свой логин,
+        <a href="{HOST}/login/forgot/">нажмите здесь</a> чтобы восстановить его.
+        ]]></activate_error>
+
+        <!-- 404 Page -->
+        <system_404_header>404 - Страница не найдена</system_404_header>
+        <system_404_sub_header>Ой!</system_404_sub_header>
+        <system_404_text>Страница, которую вы хотели открыть или не существует, или была перенесена в другое место.</system_404_text>
+
+        <!-- System Error Page -->
+        <system_error_header>Системная ошибка</system_error_header>
+        <system_error_text>Страница не может быть отображена в связи с системной ошибкой. Приносим извинения за неудобства.</system_error_text>
+
+        <!-- My Account / Home Page -->
+        <account_header>Добро пожаловать</account_header>
+        <last_login>Последний вход</last_login>
+        <edit_avatar>Изменить аватар</edit_avatar>
+        <new_messages>У вас есть новые, непрочитанные сообщения!</new_messages>
+        <account_menu_header>Меню пользователя</account_menu_header>
+        <manage_media>Медиа менеджер</manage_media>
+        <upload_video>Загрузить видео</upload_video>
+        <my_videos>Мои видео</my_videos>
+        <account_menu_attachments>Вложения</account_menu_attachments>
+        <my_playlists>Мои плейлисты</my_playlists>
+        <account_settings>Настройки пользователя</account_settings>
+        <update_profile>Обновить профиль</update_profile>
+        <privacy_settings>Личные настройки</privacy_settings>
+        <change_password>Сменить пароль</change_password>
+        <community>Сообщество</community>
+        <my_subscriptions>Мои подписки</my_subscriptions>
+        <my_subscribers>Мои подписчики</my_subscribers>
+        <inbox>Входящие сообщения</inbox>
+
+        <!-- My Account / Update Video Page -->
+        <update_video_header>Изменение информации о видеозаписи</update_video_header>
+        <update_video_button>Обновить</update_video_button>
+        <back_to_videos>Назад к видеозаписям</back_to_videos>
+
+        <!-- My Account / My Videos Page -->
+        <my_videos_header>Мои видеозаписи</my_videos_header>
+        <no_user_videos>Вы пока не загрузили ни одной видеозаписи.</no_user_videos>
+        <edit_video>Изменить видео</edit_video>
+        <delete_video>Удалить видео</delete_video>
+        <pending_conversion>Ожидание конвертирования</pending_conversion>
+        <processing>Обработка</processing>
+        <pending_approval>Ожидание утверждения</pending_approval>
+
+        <!-- Account / Attachments Page -->
+        <attachments_header>Вложения</attachments_header>
+        <filesize>Размер</filesize>
+        <delete_attachments_button>Удалить вложения</delete_attachments_button>
+        <no_attachments>Пока нет вложений к видео</no_attachments>
+
+        <!-- My Account / Playlists Page -->
+        <playlists_header>Мои списки воспроизведения</playlists_header>
+        <delete_playlist>Удалить список</delete_playlist>
+        <edit_playlist>Изменить список</edit_playlist>
+        <no_playlists>У вас пока нет созданных вами списков воспроизведения.</no_playlists>
+
+        <!-- My Account / Playlist Edit Page -->
+        <playlists_edit_header>Изменение списка воспроизведения</playlists_edit_header>
+        <back_to_playlists>Назад к спискам воспроизведения</back_to_playlists>
+        <update_playlist_header>Детальное обновление списка воспроизведения</update_playlist_header>
+        <update_playlist_button>Обновить</update_playlist_button>
+        <playlist_videos>Видеозаписи списка воспроизведения</playlist_videos>
+        <no_videos_playlist>Список воспроизведения пока не содержит никаких видеозаписей.</no_videos_playlist>
+        <remove_playlist_video>Удалить из списка</remove_playlist_video>
+
+        <!-- My Account / Edit Profile Page -->
+        <profile_header>Обновить профиль</profile_header>
+        <personal_header>Редактировать личную информацию</personal_header>
+        <first_name>Имя</first_name>
+        <last_name>Фамилия</last_name>
+        <about_me>Обо мне</about_me>
+        <profile_button>Обновить профиль</profile_button>
+        <update_avatar_header>Обновить аватар</update_avatar_header>
+        <update_avatar_text><![CDATA[
+            <p>Ваш аватар присутствует с вашим видео, комментариями и другим контентом.</p>
+            <p>Если вы загрузите новый аватар, то текущий будет перезаписан.</p>
+            <p>Выберите изображение (jpeg, gif, png) с вашего компьютера. Максимально допустимый размер файла 30K.</p>
+        ]]></update_avatar_text>
+        <current_avatar>Текущий аватар</current_avatar>
+        <reset_avatar>Сброс аватара</reset_avatar>
+        <browse_files_button>Обзор</browse_files_button>
+        <update_avatar_button>Загрузить аватар</update_avatar_button>
+
+        <!-- My Account / Privacy Settings Page -->
+        <privacy_settings_header>Личные настройки</privacy_settings_header>
+        <alert_comment>Уведомлять по e-mail о комментариях к моему видео</alert_comment>
+        <alert_video>Информировать меня о новых видео по моим подпискам</alert_video>
+        <alert_message>Уведомлять по e-mail о получении сообщения</alert_message>
+        <alert_video_ready>Уведомлять меня, когда мои загруженные видеозаписи будут обработаны и доступны</alert_video_ready>
+        <alert_comment_reply>Уведомлять меня, когда кто-то ответит на мой комментарий</alert_comment_reply>
+        <privacy_settings_button>Обновить</privacy_settings_button>
+
+        <!-- My Account / Change Password Page -->
+        <change_password_header>Смена пароля</change_password_header>
+        <change_password_text>Пароли должны состоять из 6-10 символов, строчных и прописных букв, цифр и специальных символов.</change_password_text>
+        <new_password>Новый пароль</new_password>
+        <change_password_button>Сменить пароль</change_password_button>
+
+        <!-- My Account / View My Subscriptions Page -->
+        <subscriptions_header>Мои подписки</subscriptions_header>
+        <confirm_subscription>Вы будете отписаны от этого участника. Продолжить?</confirm_subscription>
+        <no_subscriptions>Вы ещё не подписались ни на кого из участников.</no_subscriptions>
+
+        <!-- My Account / View My Subscribers Page -->
+        <subscribers_header>Мои подписчики</subscribers_header>
+        <no_subscribers>Пока нет ни одного подписчика.</no_subscribers>
+
+        <!-- My Account / Message Inbox Page -->
+        <message_inbox_header>Входящие сообщения</message_inbox_header>
+        <purge>Удалить</purge>
+        <message_status>Статус</message_status>
+        <read>Прочитано</read>
+        <unread><![CDATA[Не&nbsp;прочитано&nbsp;]]></unread>
+        <subject>Тема</subject>
+        <sender>От кого</sender>
+        <date>Дата</date>
+        <purge_button>Удалить сообщения</purge_button>
+        <no_messages>Нет сообщений</no_messages>
+
+        <!-- My Account / Read Message Page -->
+        <message_read_header>Сообщение</message_read_header>
+        <return_inbox>Назад во Входящие сообщения</return_inbox>
+        <reply>Ответить</reply>
+        <delete>Удалить</delete>
+
+        <!-- My Account / Send Message Page -->
+        <message_send_header>Отправка сообщения</message_send_header>
+        <to>Кому</to>
+        <members_username>Имя участника</members_username>
+        <message_send_button>Отправить сообщение</message_send_button>
+
+        <!-- My Account / Upload Video - Video Information Page -->
+        <upload_header>Загрузка видео - информация о видео</upload_header>
+        <video_basic_tab>Основная информация</video_basic_tab>
+        <video_attachments_tab>Вложения</video_attachments_tab>
+        <video_advanced_tab>Дополнительные настройки</video_advanced_tab>
+        <video_basic_tab_header>Основная информация</video_basic_tab_header>
+        <video_attachments_tab_header>Вложения</video_attachments_tab_header>
+        <video_advanced_tab_header>Дополнительные настройки</video_advanced_tab_header>
+        <upload_new_attachment>Загрузить новое вложение</upload_new_attachment>
+        <upload_new_attachment_header>Загрузка нового вложения</upload_new_attachment_header>
+        <select_existing_attachment>Выбрать из имеющихся вложений</select_existing_attachment>
+        <select_existing_attachment_header>Выбор имеющегося вложения</select_existing_attachment_header>
+        <select_existing_attachment_help>Выберите вложения из уже имеющихся у вас ниже:</select_existing_attachment_help>
+
+
+        <title>Название</title>
+        <description>Описание</description>
+        <tags>Теги</tags>
+        <comma_delimited>Разделение запятой</comma_delimited>
+        <category>Категория</category>
+        <disable_embed>Запретить встраивание</disable_embed>
+        <disable_embed_description>Это видео нельзя разместить на другом сайте</disable_embed_description>
+        <gated>Для участников</gated>
+        <gated_description>Будет доступно только авторизованным участникам</gated_description>
+        <private>Личное</private>
+        <private_description>Видео будет доступно только по ссылке</private_description>
+        <private_url>Личный URL</private_url>
+        <regenerate>Регенерировать</regenerate>
+        <closeComments>Без комментариев</closeComments>
+        <closeCommentsDescription>Запретить комментировать видео</closeCommentsDescription>
+        <submit_button>Далее</submit_button>
+
+        <!-- My Account / Upload - Video Upload Page -->
+        <upload_video_header>Загрузка видео</upload_video_header>
+        <upload_video_text>Выберите видео с вашего компьютера. Убедитесь в том что оно не нарушает авторских прав. Мы сохраняем за собой право удалить любое видео в любое время по любым причинам.</upload_video_text>
+        <filesize_limit>Максимальный размер файла</filesize_limit>
+        <cancel>Отмена</cancel>
+        <upload_video_button>Загрузить видео</upload_video_button>
+
+        <!-- My Account / Upload - Complete Page -->
+        <upload_complete_header>Загрузка завершена!</upload_complete_header>
+        <upload_complete_text>Видео успешно загружено. Подождите несколько минут пока оно обработается и опубликуется на {SITENAME} и мобильной версии {SITENAME}.</upload_complete_text>
+
+
+
+
+        <!-- Form Messages -->
+        <error_general>Обнаружены ошибки. Попробуйте снова.</error_general>
+        <errors_below>Обнаружены ошибки. Пожалуйста, исправьте нижеперечисленные ошибки и попробуйте снова.</errors_below>
+        <error_invalid_login>Недействительный логин! Пожалуйста, убедитесь что вы правильно ввели имя поллзователя и пароль и попробуйте снова.</error_invalid_login>
+        <error_no_users_email>Не найден пользователь с таким e-mail! Попробуйте снова.</error_no_users_email>
+
+        <confirm_delete_playlist>Удалить список воспроизведения?</confirm_delete_playlist>
+        <confirm_remove_playlist_video>Удалить видеозапись из списка воспроизведения?</confirm_remove_playlist_video>
+        <confirm_delete_video>Видеозапись будет удалена. Это действие необратимо. Продолжить?</confirm_delete_video>
+        <confirm_reset_avatar>Ваш текущий аватар будет удалён и заменен, на аватар по умолчанию. Продолжить?</confirm_reset_avatar>
+        <confirm_purge_messages>Выбранные сообщения будут удалены. Продолжить?</confirm_purge_messages>
+        <confirm_delete_attachments>Выбранные файлы будут удалены навсегда и не будут прикреплены к каким-либо видеозаписям. Продолжить?</confirm_delete_attachments>
+        <confirm_delete_message>Сообщение будет удалено. Продолжить?</confirm_delete_message>
+
+        <error_username>Неправильное имя пользователя</error_username>
+        <error_username_unavailable>Имя пользователя недоступно</error_username_unavailable>
+        <error_password>Неправильный пароль</error_password>
+        <error_password_match>Ваши пароли не совпадают</error_password_match>
+        <error_password_confirm>Неправильное подтверждение пароля</error_password_confirm>
+        <error_security_text>Неправильный код безопасности</error_security_text>
+        <error_email>Вы должны ввести правильный адрес e-mail.</error_email>
+        <error_email_unavailable>Email адрес недоступен.</error_email_unavailable>
+        <error_recipient>Неправильное имя получателя</error_recipient>
+        <error_website_invalid>Неправильный веб-сайт</error_website_invalid>
+        <error_recipient_exist>Нет участников с таким именем пользователя</error_recipient_exist>
+        <error_recipient_self>Вы не можете слать сообщения себе самому</error_recipient_self>
+        <error_subject>Введите тему</error_subject>
+        <error_message>Введите сообщение</error_message>
+        <error_video_upload>Ошибка при загрузке видео</error_video_upload>
+        <error_title>Введите заголовок</error_title>
+        <error_description>Введите описание</error_description>
+        <error_tags>Введите теги</error_tags>
+        <error_category>Неправильная категория</error_category>
+        <error_attachment>Недействительное вложение</error_attachment>
+        <error_attachment_file>Проблема при загрузке вложения</error_attachment_file>
+        <error_attachment_duplicate>Файл уже прикреплён</error_attachment_duplicate>
+        <error_attachment_upload><![CDATA[
+            Ваше вложение не загружено. Пожалуйста, попробуйте позже. Если проблема повторяется, пожалуйста, <a href="{HOST}/contact/">свяжитесь с нами</a> для решения этой проблемы.
+        ]]></error_attachment_upload>
+        <error_name>Неправильное имя</error_name>
+        <error_comment_login>Чтобы комментировать надо авторизоваться.</error_comment_login>
+        <error_comment>Комментарий не может быть пустым</error_comment>
+        <error_private_url>Неправильный скрытый url</error_private_url>
+        <error_status_update>Неправильный статус обновления</error_status_update>
+        <error_flag_login>Чтобы сообщить о недопустимом содержимом, вы должны авторизоваться.</error_flag_login>
+        <error_flag_own>Вы не можете жаловаться на свою собственную видеозапись.</error_flag_own>
+        <error_flag_duplicate>Вы уже сообщали об этом содержимом. Спасибо за помощь.</error_flag_duplicate>
+        <error_favorite_own>Вы не можете добавлять свои видеозаписи в Избранное.</error_favorite_own>
+        <error_playlist_duplicate>Эта видеозапись уже есть в этом списке воспроизведения.</error_playlist_duplicate>
+        <error_playlist_video_not_found>Видеозапись не найдена в списке воспроизведения.</error_playlist_video_not_found>
+        <error_playlist_name>Введите название списка воспроизведения</error_playlist_name>
+        <error_subscribe_login>Чтобы подписаться на участника вам необходимо авторизоваться.</error_subscribe_login>
+        <error_subscribe_own>Вы не можете подписаться на самого себя.</error_subscribe_own>
+        <error_subscribe_duplicate>Вы уже подписаны на этого участника.</error_subscribe_duplicate>
+        <error_subscribe_noexist>Вы не подписаны на этого участника.</error_subscribe_noexist>
+        <error_rate_login>Чтобы отмечать видео вам необходимо авторизоваться.</error_rate_login>
+        <error_rate_own>Вы не можете отмечать свои видеозаписи.</error_rate_own>
+        <error_rate_duplicate>Вы уже оценили эту видеозапись.</error_rate_duplicate>
+
+
+        <error_upload_filesize>Файл превышает максимально допустимый размер.</error_upload_filesize>
+        <error_upload_system><![CDATA[
+            Были обнаружены ошибки во время обработки файла, и в настоящий момент он не может быть опубликован.
+            Приносим свои извинения за доставленные неудобства. Наша служба поддержки была уведомлена и будет рассматривать причину и исправлять эту проблему.
+            Если вы продолжаете испытывать проблемы, с использованием этой функции, пожалуйста, <a href="{HOST}/contact/"> свяжитесь с нами </a> для получения дополнительной помощи.
+        ]]></error_upload_system>
+        <error_upload_extension>Ваш файл не находится в одном из принятых форматов файлов.</error_upload_extension>
+        <error_upload_empty>Файн не был загружен. Попробуйте ещё раз.</error_upload_empty>
+        <error_avatar_reset>Не удалось сбросить ваш аватар. Попробуйте позже.</error_avatar_reset>
+        <error_generic>Нам не удалось выполнить ваш запрос. Пожалуйста, повторите попытку позже. Если вы продолжаете испытывать проблемы с использованием этой функции, пожалуйста, <a href="{HOST}/contact/"> свяжитесь с нами </a> для получения дополнительной помощи.</error_generic>
+
+        <success_logout>Вы вышли.</success_logout>
+        <success_avatar_reset>Ваш аватар был сброшен.</success_avatar_reset>
+        <success_avatar_updated>Ваш аватар был изменён.</success_avatar_updated>
+        <success_rated>Ваша оценка учтена.</success_rated>
+        <success_unsubscribed>Вы отписались от {USERNAME}.</success_unsubscribed>
+        <success_subscribed>Вы подписались на оповещения от {USERNAME}.</success_subscribed>
+        <success_flag>Спасибо за отзыв. Мы рассмотрим его как можно скорее.</success_flag>
+        <success_status_updated>Your status update has been posted.</success_status_updated>
+        <success_comment_posted>Ваш комментарий отправлен.</success_comment_posted>
+        <success_comment_approve>Ваш комментарий будет опубликован после модерации.</success_comment_approve>
+        <success_contact_sent>Спасибо! Ваше сообщение принято, мы вам скоро ответим.</success_contact_sent>
+        <success_registered>Вы успешно зарегистрировались! Проверьте свой e-mail, там должно быть письмо со ссылкой для активации аккаунта, если его нет во "Входящих", то возможно оно попало в "Спам". Благодарим за регистрацию!</success_registered>
+        <success_login_sent>Мы вам отправили информацию для авторизации. Проверьте ваш email.</success_login_sent>
+        <success_video_upload>Видеозапись успешно загружена. Пожалуйста, подождите несколько минут, видео будет доступно после автоматизированной обработки.</success_video_upload>
+        <success_video_updated>Видео было обновлено.</success_video_updated>
+        <success_video_deleted>Видео было удалено.</success_video_deleted>
+        <success_playlist_added>Видео добавлено в {LIST_NAME}.</success_playlist_added>
+        <success_playlist_added_short>Видеозапись добавлена</success_playlist_added_short>
+        <success_playlist_created>Был создан список воспроизведения.</success_playlist_created>
+        <success_playlist_updated>Список воспроизведения был обновлён.</success_playlist_updated>
+        <success_playlist_video_removed>Видеозапись удалена из списка воспроизведения.</success_playlist_video_removed>
+        <success_playlist_video_removed_short>Видео удалено</success_playlist_video_removed_short>
+        <success_playlist_deleted>Список воспроизведения был удалён.</success_playlist_deleted>
+        <success_profile_updated>Ваша страница была обновлена.</success_profile_updated>
+        <success_privacy_updated>Ваши настройки безопасности были обновлены.</success_privacy_updated>
+        <success_password_updated>Ваш пароль был обновлён.</success_password_updated>
+        <success_messages_purged>Сообщения удалены!</success_messages_purged>
+        <success_message_deleted>Сообщение удалено.</success_message_deleted>
+        <success_message_sent>Ваше сообщение было доставлено.</success_message_sent>
+        <success_attachments_deleted>Вложения были удалены.</success_attachments_deleted>
+
+        <!-- Page Meta Tags -->
+        <meta.index.title>CumulusClips - Свободная CMS видеообмена, Свободный скрипт видеохостинга, Свободная программа обмена видео, Клон YouTube</meta.index.title>
+        <meta.index.keywords>Свободная CMS видеообмена, Свободный скрипт видеохостинга, Свободная программа обмена видео, Клон YouTube</meta.index.keywords>
+        <meta.index.description>Свободная CMS видеообмена даёт возможность развернуть собственный веб-сайт видеообмена и сообщество</meta.index.description>
+
+        <meta.browse.title>Обзор видео:</meta.browse.title>
+        <meta.browse.keywords>Обзор видео, Обзор, Видео</meta.browse.keywords>
+        <meta.browse.description>Смотрите видео в сообществе видеообмена</meta.browse.description>
+
+        <meta.members.title>Обзор участников</meta.members.title>
+        <meta.members.keywords>Обзор участников, Обзор, Участников</meta.members.keywords>
+        <meta.members.description>Просмотрите список зарегистрированных участников.</meta.members.description>
+
+        <meta.profile.title>Страница участника {MEMBER}</meta.profile.title>
+        <meta.profile.keywords>Страница Участника, Member, Страница</meta.profile.keywords>
+        <meta.profile.description>Страница этого участника.</meta.profile.description>
+
+        <meta.contact.title>Связь с нами</meta.contact.title>
+        <meta.contact.keywords>Связь с нами, Контакты, Напишите нам сообщение</meta.contact.keywords>
+        <meta.contact.description>Форма обратной связи.</meta.contact.description>
+
+        <meta.activate.title>Активация аккаунта</meta.activate.title>
+        <meta.activate.keywords>Активируйте ваш аккаунт, Активация аккаунта</meta.activate.keywords>
+        <meta.activate.description>Активация аккаунта</meta.activate.description>
+
+        <meta.opt_out.title>Отказ от всех рассылок</meta.opt_out.title>
+        <meta.opt_out.keywords>Отписаться, Email, Список рассылки</meta.opt_out.keywords>
+        <meta.opt_out.description>Отписаться от всех рассылок.</meta.opt_out.description>
+
+        <meta.search.title>Результаты поиска по запросу: '{KEYWORD}'</meta.search.title>
+        <meta.search.keywords>Поиск видео, Поиск, Видео, Результаты поиска</meta.search.keywords>
+        <meta.search.description>Поиск видеозаписей по ключевым словам в названии, описании, тегах.</meta.search.description>
+
+        <meta.login.title>Авторизация</meta.login.title>
+        <meta.login.keywords>Авторизация, Аккаунт</meta.login.keywords>
+        <meta.login.description>Вход в вашу учётную запись.</meta.login.description>
+
+        <meta.register.title>Регистрация</meta.register.title>
+        <meta.register.keywords>Зарегистрироваться, Учётная запись, Аккаунт</meta.register.keywords>
+        <meta.register.description>Получение аккаунта.</meta.register.description>
+
+        <meta.system_404.title>Страница не найдена</meta.system_404.title>
+        <meta.system_404.keywords>Страница не найдена, Ошибка 404</meta.system_404.keywords>
+        <meta.system_404.description>Ошибка 404, Страница не найдена.</meta.system_404.description>
+
+        <meta.system_error.title>Системная ошибка</meta.system_error.title>
+        <meta.system_error.keywords>Системная ошибка</meta.system_error.keywords>
+        <meta.system_error.description>Обнаружена системная ошибка.</meta.system_error.description>
+
+        <meta.account_account.title>Добро пожаловать, {USERNAME}</meta.account_account.title>
+        <meta.account_account.keywords>Добро пожаловать</meta.account_account.keywords>
+        <meta.account_account.description>Добро пожаловать</meta.account_account.description>
+
+        <meta.account_upload_video.title>Загрузка видео</meta.account_upload_video.title>
+        <meta.account_upload_video.keywords>Загрузка видео</meta.account_upload_video.keywords>
+        <meta.account_upload_video.description>Загрузка видео</meta.account_upload_video.description>
+
+        <meta.account_upload_info.title>Загрузка видео - информация о видео</meta.account_upload_info.title>
+        <meta.account_upload_info.keywords>Загрузка видео - информация о видео</meta.account_upload_info.keywords>
+        <meta.account_upload_info.description>Загрузка видео - информация о видео.</meta.account_upload_info.description>
+
+        <meta.account_upload_complete.title>Загрузка завершена!</meta.account_upload_complete.title>
+        <meta.account_upload_complete.keywords>Загрузка видео, Загрузка завершенаe</meta.account_upload_complete.keywords>
+        <meta.account_upload_complete.description>Загрузка завершена!</meta.account_upload_complete.description>
+
+        <meta.account_videos_edit.title>Изменение информации о видеозаписи</meta.account_videos_edit.title>
+        <meta.account_videos_edit.keywords>Изменение видео, Видео информация</meta.account_videos_edit.keywords>
+        <meta.account_videos_edit.description>Изменение информации о видеозаписи.</meta.account_videos_edit.description>
+
+        <meta.account_videos.title>Мои видеозаписи</meta.account_videos.title>
+        <meta.account_videos.keywords>Мои видеозаписи, Видео</meta.account_videos.keywords>
+        <meta.account_videos.description>Просмотреть все видеозаписи, загруженные этим участником.</meta.account_videos.description>
+
+        <meta.account_attachments.title>Вложения</meta.account_attachments.title>
+        <meta.account_attachments.keywords>Вложения</meta.account_attachments.keywords>
+        <meta.account_attachments.description>Посмотреть все вложения, загруженные этим участником.</meta.account_attachments.description>
+
+        <meta.account_playlists.title>Мои списки воспроизведения</meta.account_playlists.title>
+        <meta.account_playlists.keywords>Мои списки воспроизведения, Плейлистыt</meta.account_playlists.keywords>
+        <meta.account_playlists.description>Просмотреть все мои списки воспроизведения.</meta.account_playlists.description>
+
+        <meta.account_playlists_edit.title>Изменение списка воспроизведение: {PLAYLIST_NAME}</meta.account_playlists_edit.title>
+        <meta.account_playlists_edit.keywords>Список воспроизведения, Видеозаписи, Плейлист, Изменение</meta.account_playlists_edit.keywords>
+        <meta.account_playlists_edit.description>Обновление списка воспроизведения, и просмотр всех видеозаписей в списке воспроизведения.</meta.account_playlists_edit.description>
+
+        <meta.account_update_profile.title>Обновление профиля</meta.account_update_profile.title>
+        <meta.account_update_profile.keywords>Обновление профиля, профиль</meta.account_update_profile.keywords>
+        <meta.account_update_profile.description>Обновление информации профиля пользователя.</meta.account_update_profile.description>
+
+        <meta.account_privacy_settings.title>Настройки безопасности</meta.account_privacy_settings.title>
+        <meta.account_privacy_settings.keywords>Настройки безопасности, Обновление настроек безопасности</meta.account_privacy_settings.keywords>
+        <meta.account_privacy_settings.description>Обновление настроек безопасности.</meta.account_privacy_settings.description>
+
+        <meta.account_change_password.title>Смена пароля</meta.account_change_password.title>
+        <meta.account_change_password.keywords>Смена пароля, Пароль, Обновить пароль</meta.account_change_password.keywords>
+        <meta.account_change_password.description>Сменить пароль учётной записи.</meta.account_change_password.description>
+
+        <meta.account_subscriptions.title>Мои подписки</meta.account_subscriptions.title>
+        <meta.account_subscriptions.keywords>Подписки, Подписки на участников</meta.account_subscriptions.keywords>
+        <meta.account_subscriptions.description>Просмотреть все подписки</meta.account_subscriptions.description>
+
+        <meta.account_subscribers.title>Мои подписчики</meta.account_subscribers.title>
+        <meta.account_subscribers.keywords>Подписчики, Подписавшиеся участники</meta.account_subscribers.keywords>
+        <meta.account_subscribers.description>Просмотреть всех участников подписанных на этого участника.</meta.account_subscribers.description>
+
+        <meta.account_message_inbox.title>Входящие сообщения</meta.account_message_inbox.title>
+        <meta.account_message_inbox.keywords>Входящие сообщения, Сообщения, Входящие</meta.account_message_inbox.keywords>
+        <meta.account_message_inbox.description>Смотреть все сообщения.</meta.account_message_inbox.description>
+
+        <meta.account_message_read.title>Сообщение</meta.account_message_read.title>
+        <meta.account_message_read.keywords>Читать сообщение, Сообщение</meta.account_message_read.keywords>
+        <meta.account_message_read.description>Прочитать сообщение.</meta.account_message_read.description>
+
+        <meta.account_message_send.title>Отправить сообщение</meta.account_message_send.title>
+        <meta.account_message_send.keywords>Отправить сообщение, Сообщение</meta.account_message_send.keywords>
+        <meta.account_message_send.description>Отправить сообщение другому участнику.</meta.account_message_send.description>
+
+        <meta.mobile_videos.title>Обзор видео</meta.mobile_videos.title>
+
+        <meta.mobile_search.title>Поиск видео</meta.mobile_search.title>
+
+
+        <!-- @deprecated Deprecated in 2.5.0, removed in 2.6.0. Use browse_header instead -->
+        <videos_header>Обзор видео</videos_header>
+
+    </terms>
+
+</language>
