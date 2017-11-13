@@ -6,7 +6,7 @@
         <locale>nl_NL</locale>
         <author>JeroTwi</author>
         <sample>De kat krabt de krullen van de trap</sample>
-        <version>2.4</version>
+        <version>2.5.3</version>
         <update>http://mothership.cumulusclips.org/updates/languages/nl_NL/</update>
         <notes></notes>
     </information>
@@ -30,6 +30,7 @@
         <video_feed>Filmbeelden</video_feed>
         <contact>Contact</contact>
         <sitemap>Sitemap</sitemap>
+        <invalid_session>Verlopen of ongeldige sessie</invalid_session>
 
         <!-- Mobile -->
         <mobile_heading>{SITENAME} Mobiel</mobile_heading>
@@ -64,6 +65,7 @@
 
         <!-- Login Page -->
         <login_header>Inloggen op uw Account</login_header>
+        <session_expired>Uw sessie is verlopen. Meld u zich alstublieft opnieuw aan.</session_expired>
         <remember_me>Ingelogd blijven</remember_me>
         <forgot_text>Voer hieronder het e-mail adres in waarmee u het account heeft aangemeld. We zullen uw wachtwoord opnieuw instellen en dit naar u toe mailen.</forgot_text>
         <email>E-mail</email>
@@ -93,7 +95,7 @@
         <contact_button>Neem Contact Op</contact_button>
 
         <!-- Browse Videos Page -->
-        <videos_header>Bekijk Filmpjes</videos_header>
+        <browse_header>Bekijk Filmpjes</browse_header>
         <viewing>Kijken</viewing>
         <sorting>Sorteren</sorting>
         <most_recent>Meest Recent</most_recent>
@@ -127,10 +129,11 @@
         <videos_by>Filmpjes van</videos_by>
         <go_to_profile>Ga naar Profiel</go_to_profile>
 
-        <!-- Play Video Page -->
+        <!-- Watch Video Page -->
         <like>Leuk</like>
         <dislike>Niet Leuk</dislike>
         <about>Over</about>
+        <attachments>Bijlagen</attachments>
         <share>Delen</share>
         <embed>Invoegen</embed>
         <embed_text>Kopieer en plak deze code in uw website of blog.</embed_text>
@@ -219,6 +222,7 @@
         <manage_media>Beheer Media</manage_media>
         <upload_video>Upload een Filmpje</upload_video>
         <my_videos>Mijn Filmpjes</my_videos>
+        <account_menu_attachments>Bijlagen</account_menu_attachments>
         <my_playlists>Mijn Afspeellijsten</my_playlists>
         <account_settings>Account Instellingen</account_settings>
         <update_profile>Profiel Bijwerken</update_profile>
@@ -242,6 +246,12 @@
         <pending_conversion>In afwachting van Gesprek</pending_conversion>
         <processing>Verwerken</processing>
         <pending_approval>In Afwachting van Goedkeuring</pending_approval>
+
+        <!-- Account / Attachments Page -->
+        <attachments_header>Bijlagen</attachments_header>
+        <filesize>Bestandsgrootte</filesize>
+        <delete_attachments_button>Verwijder Bijlagen</delete_attachments_button>
+        <no_attachments>Nog geen video bijlagen toegevoegt</no_attachments>
 
         <!-- My Account / Playlists Page -->
         <playlists_header>Mijn Afspeellijsten</playlists_header>
@@ -324,8 +334,20 @@
         <members_username>Aan Gebruikersnaam</members_username>
         <message_send_button>Stuur Bericht</message_send_button>
 
-        <!-- My Account / Upload - Video Information Page -->
-        <upload_header>Upload Stap 1 - Informatie Filmpje</upload_header>
+        <!-- My Account / Upload Video - Video Information Page -->
+        <upload_header>Upload Filmpje - Informatie</upload_header>
+        <video_basic_tab>Algemene Informatie</video_basic_tab>
+        <video_attachments_tab>Bijlagen</video_attachments_tab>
+        <video_advanced_tab>Geavanceerde Instellingen</video_advanced_tab>
+        <video_basic_tab_header>Algemene Informatie</video_basic_tab_header>
+        <video_attachments_tab_header>Bijlagen</video_attachments_tab_header>
+        <video_advanced_tab_header>Geavanceerde Instellingen</video_advanced_tab_header>
+        <upload_new_attachment>Voeg bijlage toe</upload_new_attachment>
+        <upload_new_attachment_header>Bijlage Toevoegen</upload_new_attachment_header>
+        <select_existing_attachment>Selecteer van bestaande bijlagen</select_existing_attachment>
+        <select_existing_attachment_header>Selecteer Bestaande Bijlage</select_existing_attachment_header>
+        <select_existing_attachment_help>Kies een bestand van de huidige bijlagen hier onder:</select_existing_attachment_help>
+
         <title>Titel</title>
         <description>Omschrijving</description>
         <tags>Tags</tags>
@@ -344,18 +366,15 @@
         <submit_button>Verzenden</submit_button>
 
         <!-- My Account / Upload - Video Upload Page -->
-        <upload_video_header>Upload Stap 2 - Upload Filmpje</upload_video_header>
+        <upload_video_header>Upload Filmpje</upload_video_header>
         <upload_video_text>Selecteer een filmpje op uw computer. Zorg ervoor dat het filmpje geen auteursrechten schendingen bevat. Wij hebben ten allen tijde het recht om filmpjes te verwijderen.</upload_video_text>
         <filesize_limit>Bestandsgrootte limiet is</filesize_limit>
         <cancel>Annuleren</cancel>
         <upload_video_button>Upload Filmpje</upload_video_button>
 
         <!-- My Account / Upload - Complete Page -->
-        <upload_complete_header>Upload Stap 3 - Upload Afgerond!</upload_complete_header>
-        <upload_complete_text>Uw filmpje is succesvol geüpload. Het duurt even een paar minuten om het filmpje te verwerken en beschikbaar te maken op {SITENAME} en {SITENAME} Mobiel.</upload_complete_text>
-
-
-
+        <upload_complete_header>Upload Afgerond!</upload_complete_header>
+        <upload_complete_text>Uw filmpje is succesvol geüpload. Het duurt even een paar minuten om het filmpje te verwerken en beschikbaar te maken op {SITENAME} en {SITENAME} Mobiel</upload_complete_text>
 
         <!-- Form Messages -->
         <error_general>Fouten gevonden. Probeer het nog een keer.</error_general>
@@ -368,6 +387,7 @@
         <confirm_delete_video>Filmpje zal definitief verwijder worden. Dit kan niet teruggedraaid worden. Wilt u doorgaan?</confirm_delete_video>
         <confirm_reset_avatar>U huidige avatar val definitief verwijderd worden. Wilt u doorgaan?</confirm_reset_avatar>
         <confirm_purge_messages>Geselecteerde berichten zullen definitief verwijderd worden. Wilt u doorgaan?</confirm_purge_messages>
+        <confirm_delete_attachments>Geselecteerde bijlagen zullen definitief verwijderd worden. Wilt u doorgaan?</confirm_delete_attachments>
         <confirm_delete_message>Bericht zal definitief verwijderd worden. Wilt u doorgaan?</confirm_delete_message>
 
         <error_username>Ongeldige gebruikersmnaam</error_username>
@@ -389,6 +409,14 @@
         <error_description>Ongeldige omschrijving</error_description>
         <error_tags>Ongeldige tags</error_tags>
         <error_category>Ongeldige categorie</error_category>
+        <error_attachment>Ongeldige bijlage</error_attachment>
+        <error_attachment_file>Ongeldig bijlage bestand</error_attachment_file>
+        <error_attachment_duplicate>Bestand is al toegevoegd</error_attachment_duplicate>
+        <error_attachment_upload><![CDATA[
+			We hebben fouten geconstateerd tijdens het verwerken van uw bestand en het kan op dit moment niet geüpload worden.
+			Excuses voor het ongemak. Ons support team heeft hiervan een bericht gekregen en we zullen dit zo spoedig mogelijk onderzoeken en oplossen.
+			Als u problemen blijft houden met deze functie, neem dan <a href="{HOST}/contact/">contact met ons</a> op voor verdere assistentie.
+			]]></error_attachment_upload>
         <error_name>Ongeldige naam</error_name>
         <error_comment_login>U moet inloggen om commentaar te geven.</error_comment_login>
         <error_comment>Ongeldig commentaar</error_comment>
@@ -399,6 +427,7 @@
         <error_flag_duplicate>U heeft deze inhoud al gerapporteerd. Dank u voor uw hulp.</error_flag_duplicate>
         <error_favorite_own>U kunt uw eigen filmpjes niet toevoegen aan de favorieten.</error_favorite_own>
         <error_playlist_duplicate>Filmpje staat al in de afspeellijst.</error_playlist_duplicate>
+        <error_playlist_video_not_found>Filmpje kan niet worden gevonden in de afspeellijst.</error_playlist_video_not_found>
         <error_playlist_name>Ongeldige naam afspeellijst</error_playlist_name>
         <error_subscribe_login>U moet inloggen om gebruikers te kunnen volgen.</error_subscribe_login>
         <error_subscribe_own>U kunt uzelf niet volgen.</error_subscribe_own>
@@ -436,11 +465,13 @@
         <success_video_upload>Uw filmpje is succesvol geüpload. Geef ons een paar minuten de tijd om het filmpje te verwerken en te plaatsen.</success_video_upload>
         <success_video_updated>Filmpje is bijgewerkt.</success_video_updated>
         <success_video_deleted>Filmpje is verwijderd.</success_video_deleted>
+
         <success_playlist_added>Filmpje toegevoegd aan {LIST_NAME}.</success_playlist_added>
         <success_playlist_added_short>Filmpje Toegevoegd</success_playlist_added_short>
         <success_playlist_created>Afspeellijst is gemaakt.</success_playlist_created>
         <success_playlist_updated>Afspeellijst is bijgewekt.</success_playlist_updated>
         <success_playlist_video_removed>Filmpje is verwijderd van afspeellijst.</success_playlist_video_removed>
+        <success_playlist_video_removed_short>Filmpje verwijderd</success_playlist_video_removed_short>
         <success_playlist_deleted>Afspeellijst is verwijderd.</success_playlist_deleted>
         <success_profile_updated>Uw profiel is succesvol bijgewerkt.</success_profile_updated>
         <success_privacy_updated>Uw privacy instellingen zijn succesvol bijgewerkt.</success_privacy_updated>
@@ -448,15 +479,16 @@
         <success_messages_purged>Berichten succesvol verwijderd!</success_messages_purged>
         <success_message_deleted>Bericht verwijderd.</success_message_deleted>
         <success_message_sent>Uw bericht is bezorgd.</success_message_sent>
+        <success_attachments_deleted>Bijlagen zijn verwijderd.</success_attachments_deleted>
 
         <!-- Page Meta Tags -->
         <meta.index.title>CumulusClips - Gratis Filmpje Delen CMS, Gratis Filmpje Delen Script, Fratie Filmpje Deelen Software, YouTube Kloon Script</meta.index.title>
         <meta.index.keywords>Gratis Filmpje Delen CMS, Gratis Filmpje Delen Script, Fratie Filmpje Deelen Software, YouTube Kloon Script</meta.index.keywords>
         <meta.index.description>Gratis filmpjes delen cms site, waarmee je zelf filmpjes kan delen</meta.index.description>
 
-        <meta.videos.title>Bekijk Filmpjes:</meta.videos.title>
-        <meta.videos.keywords>Bekijk Filmpjes, Bekijk, Filmpjes</meta.videos.keywords>
-        <meta.videos.description>Bekijk Filmpjes op een filmpjes delen website</meta.videos.description>
+        <meta.browse.title>Bekijk Filmpjes:</meta.browse.title>
+        <meta.browse.keywords>Bekijk Filmpjes, Bekijk, Filmpjes</meta.browse.keywords>
+        <meta.browse.description>Bekijk Filmpjes op een filmpjes delen website</meta.browse.description>
 
         <meta.members.title>Bekijk Gebruikers</meta.members.title>
         <meta.members.keywords>Bekijk Gebruikers, Bekijk, Gebruikers</meta.members.keywords>
@@ -502,17 +534,17 @@
         <meta.account_account.keywords>Welkom</meta.account_account.keywords>
         <meta.account_account.description>Welkom</meta.account_account.description>
 
-        <meta.account_upload.title>Upload Stap 1 - Informatie Filmpje</meta.account_upload.title>
-        <meta.account_upload.keywords>Upload Filmpje, Stap 1, Informatie Filmpje</meta.account_upload.keywords>
-        <meta.account_upload.description>Upload Stap 1 - Informatie Filmpje.</meta.account_upload.description>
+        <meta.account_upload.title>Upload Filmpje</meta.account_upload.title>
+        <meta.account_upload.keywords>Upload Filmpje</meta.account_upload.keywords>
+        <meta.account_upload.description>Upload Filmpje</meta.account_upload.description>
 
-        <meta.account_upload_video.title>Upload Stap 2 - Upload Filmpje</meta.account_upload_video.title>
-        <meta.account_upload_video.keywords>Upload Filmpje, Stap 2</meta.account_upload_video.keywords>
-        <meta.account_upload_video.description>Upload Stap 2 - Upload Filmpje.</meta.account_upload_video.description>
+        <meta.account_upload_video.title>Upload Filmpje, Informatie Filmpje</meta.account_upload_video.title>
+        <meta.account_upload_video.keywords>Upload Filmpje, Informatie Filmpje</meta.account_upload_video.keywords>
+        <meta.account_upload_video.description>Upload Filmpje - Informatie Filmpje</meta.account_upload_video.description>
 
-        <meta.account_upload_complete.title>Upload Stap 3 - Upload Afgerond!</meta.account_upload_complete.title>
-        <meta.account_upload_complete.keywords>Upload Filmpje, Stap 3, Upload Afgerond</meta.account_upload_complete.keywords>
-        <meta.account_upload_complete.description>Upload Stap 3 - Upload Afgerond!</meta.account_upload_complete.description>
+        <meta.account_upload_complete.title>Upload Afgerond!</meta.account_upload_complete.title>
+        <meta.account_upload_complete.keywords>Upload Filmpje, Upload Afgerond</meta.account_upload_complete.keywords>
+        <meta.account_upload_complete.description>Upload Afgerond!</meta.account_upload_complete.description>
 
         <meta.account_videos_edit.title>Bewerk Filmpje</meta.account_videos_edit.title>
         <meta.account_videos_edit.keywords>Bewerk Filmpje, Informatie Filmpje</meta.account_videos_edit.keywords>
@@ -521,6 +553,10 @@
         <meta.account_videos.title>Mijn Filmpjes</meta.account_videos.title>
         <meta.account_videos.keywords>Mijn Filmpjes, Filmpjes</meta.account_videos.keywords>
         <meta.account_videos.description>Bekijk alle filmpjes die daar deze gebruiker geüpload zijn.</meta.account_videos.description>
+
+        <meta.account_attachments.title>Attachments</meta.account_attachments.title>
+        <meta.account_attachments.keywords>Attachments</meta.account_attachments.keywords>
+        <meta.account_attachments.description>View all attachments uploaded by this member.</meta.account_attachments.description>
 
         <meta.account_playlists.title>Mijn Afspeellijsten</meta.account_playlists.title>
         <meta.account_playlists.keywords>Mijn Afspeellijsten, Afspeellijsten</meta.account_playlists.keywords>
@@ -565,6 +601,10 @@
         <meta.mobile_videos.title>Bekijk Filmpjes</meta.mobile_videos.title>
 
         <meta.mobile_search.title>Zoek Filmpjes</meta.mobile_search.title>
+
+
+        <!-- @deprecated Deprecated in 2.5.0, removed in 2.6.0. Use browse_header instead -->
+        <videos_header>Bekijk Filmpjes</videos_header>
     </terms>
 
 </language>
