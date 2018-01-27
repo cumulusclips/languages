@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+    <information>
+        <lang_name>Turkish</lang_name>
+        <native_name>Türkçe</native_name>
+        <locale>tr_TR</locale>
+        <author>onurkahveci</author>
+        <sample>Kahverengi hızlı tilki tembel köpeğin üstünden atlıyor</sample>
+        <version>1.0</version>
+        <update>http://mothership.cumulusclips.org/updates/languages/turkish/</update>
+        <notes/>
+    </information>
+    <terms>
+        <search_text>Video arama...</search_text>
+        <login>Bağlan</login>
+        <register>Bedava üye olun</register>
+        <logout>Çıkış yap</logout>
+        <account>Hesabım</account>
+        <view_my_profile>Profilimi görüntüle</view_my_profile>
+        <admin_panel>Yönetici Paneli</admin_panel>
+        <videos>Videolar</videos>
+        <members>Üyeler</members>
+        <upload>Yükle</upload>
+        <previous>Önceki</previous>
+        <next>Sonraki</next>
+        <yes>Evet</yes>
+        <no>Hayır</no>
+        <quick_links>Faydalı linkler</quick_links>
+        <upload_supported_formats>Yüklenebilir formatlar</upload_supported_formats>
+        <video_feed>Video beslemeleri</video_feed>
+        <contact>İletişim</contact>
+        <sitemap>Site planı</sitemap>
+	<invalid_session>Oturumunuz geçersiz</invalid_session>
+
+        <!-- Mobile -->
+        <mobile_heading>{SITENAME} Mobil</mobile_heading>
+        <home>Ana sayfa</home>
+        <back>Geri</back>
+        <duration>Süre</duration>
+        <load_more>Daha fazla yükleyin</load_more>
+        <loading>Yükleniyor</loading>
+        <featured>Seçim</featured>
+        <featured_videos>Seçilmiş videolar</featured_videos>
+        <recent_videos>En son eklenen videolar</recent_videos>
+        <search>Ara</search>
+        <standard_site>Masaüstü görünümü</standard_site>
+        <device_not_supported>Cihazınız bu videoyu oynatmak için yetersiz</device_not_supported>
+        <close>Kapat</close>
+        <menu>Menü</menu>
+        <choose_language>Dili seçin</choose_language>
+        <suggestions>Öneriler</suggestions>
+        <upload_button>Yükle</upload_button>
+        <post_video_button>Yayınla</post_video_button>
+        <mobile_upload_header>Bir video yükleyin</mobile_upload_header>
+
+        <!-- Home Page -->
+        <home_header>Son videolar</home_header>
+        <advertisement>Reklam</advertisement>
+        <account_login>Hesabınıza bağlanın</account_login>
+        <username>Kullanıcı Adı</username>
+        <password>Şifre</password>
+        <no_account>Hesabınız yok mu? Ücretsiz bir hesap açın!</no_account>
+        <forgot_your_login>Şifrenizi mi unuttunuz?</forgot_your_login>
+        <login_button>Bağlan</login_button>
+
+        <!-- Login Page -->
+        <login_header>Hesabınıza bağlanın</login_header>
+	<session_expired>Oturumunuz sona erdi. Lütfen yeniden bağlanın</session_expired>
+        <remember_me>Otomatik giriş</remember_me>
+        <forgot_text>Lütfen hesabınızla bağlantılı e-posta adresinizi yazın. Şifrenizi yenileyip size göndereceğiz.</forgot_text>
+        <email>E-posta</email>
+        <forgot_header>Hatalı bilgiler</forgot_header>
+        <forgot_button>Hatalı bilgiler</forgot_button>
+
+        <!-- Register Page -->
+        <register_header>Kaydolun</register_header>
+        <register_text><![CDATA[
+        <strong> Hemen {SITENAME}adresine katılın!</strong><br /><br />
+        Üye olarak videolar yükleyebilir; başka videolara yorum yapabilir, oy verebilir, videolar paylaşabilir, kanallara abone olabilir ve çok daha fazlasınnı yapabilirsiniz!</p>
+        ]]></register_text>
+        <asterisk>Yıldızlar (*) doldurulması zorunlu alanları belirtir.</asterisk>
+        <username_req>Kullanıcı adı alfanumerik (A-Z, 0-9) karakterler içermelidir. Boşluk ve özel karakter içermemelidir.</username_req>
+        <confirm_password>Şifrenizi onaylayın.</confirm_password>
+        <register_button>Bir hesap açın.</register_button>
+        <checking_availability>Uygunluk kontrolü.</checking_availability>
+        <username_minimum>Kullanıcı adınız en az 4 karakterden oluşmalıdır.</username_minimum>
+        <username_available>Kullanıcı adı uygun!</username_available>
+
+        <!-- Contact Page -->
+        <contact_header>Bize ulaşın</contact_header>
+        <contact_text>Formu doldurarak bize ulaşabilirsiniz. Mümkün olan en kısa sürede size yanıt vereceğiz. İsteklerin yoğunluğundan dolayı bu işlem biraz zaman alabilir.</contact_text>
+        <name>İsim</name>
+        <message>Mesaj</message>
+        <contact_us>Bize ulaşın</contact_us>
+        <contact_button>Bize ulaşın</contact_button>
+
+        <!-- Browse Videos Page -->
+        <browse_header>Videoları görüntüle</browse_header>
+        <viewing>Görüntüleme</viewing>
+        <sorting>Sıralama</sorting>
+        <most_recent>En son yüklenenler</most_recent>
+        <most_viewed>En çok görüntülenenler</most_viewed>
+        <most_discussed>Üzerinde en çok konuşulanlar</most_discussed>
+        <most_rated>En yüksek puanlananlar</most_rated>
+        <no_videos>Video yok.</no_videos>
+        <by>De</by>
+
+        <!-- Browse Members Page -->
+        <members_header>Üye listesi</members_header>
+        <no_members>Üye yok.</no_members>
+        <joined>Yeni katılanlar</joined>
+        <videos_uploaded>Yüklenen videolar</videos_uploaded>
+
+        <!-- Member Profile Page -->
+        <subscribe>Abone ol</subscribe>
+        <unsubscribe>Abonelikten çık</unsubscribe>
+        <send_message>Mesaj gönder</send_message>
+        <report_abuse>kötüye kullanımı bildirin</report_abuse>
+        <member_rss>Kullanıcının RSS akışı</member_rss>
+        <profile_views>Profilin görüntülenmeleri</profile_views>
+        <subscribers>Aboneler</subscribers>
+        <website>İnternet sitesi</website>
+        <view_all_videos>Tüm videoları gör</view_all_videos>
+        <no_member_videos>Video yok.</no_member_videos>
+	<no_member_playlists>Oynatma listesi yok.</no_member_playlists>
+        <watch_all>Hepsini izle</watch_all>
+
+        <!-- Member Videos Page -->
+        <videos_by>Kullanıcının videoları</videos_by>
+        <go_to_profile>Profili gör</go_to_profile>
+
+        <!-- Watch Video Page -->
+        <like>Beğen</like>
+        <dislike>Beğenme</dislike>
+        <about>Açıklama</about>
+	<attachments>Eklentiler</attachments>
+        <share>Paylaş</share>
+        <embed>Gömülü</embed>
+        <embed_text>Bu kodu kopyalayın ve internet sitenize veya blogunuza yapıştırın.</embed_text>
+        <add>Ekle</add>
+        <add_to>Şuraya ekle</add_to>
+        <favorite>Favoriler</favorite>
+        <favorites>Favorilerim</favorites>
+        <watch_later>Sonra izle</watch_later>
+        <playlists>Oynatma listeleri</playlists>
+        <playlist_login><![CDATA[Oynatma listelerini görüntülemek için <a href="{HOST}/login/">giriş yapınız.</a>]]></playlist_login>
+        <create_new_playlist>Yeni oynatma listesi oluştur</create_new_playlist>
+        <playlist_name>Oynatma listesinin adı</playlist_name>
+        <visibility>Görünebilirlik</visibility>
+        <public>Genel</public>
+        <create_playlist_button>Oynatma listesi oluştur</create_playlist_button>
+        <flag>Bildir</flag>
+        <date_uploaded>Yüklenme tarihi</date_uploaded>
+        <comments_header>Yorumlar</comments_header>
+        <view_all_comments>Tüm yorumları görüntüle</view_all_comments>
+        <comments_total>Toplam yorum sayısı</comments_total>
+        <no_comments>Bu video için henüz yorum yapılmamış</no_comments>
+        <posted>Tarafından gönderilmiş</posted>
+        <date_posted>Gönderi tarihi</date_posted>
+        <comments_post_header>Bir yorum yap</comments_post_header>
+        <optional>Opsiyonel</optional>
+        <comments>Yorumlar</comments>
+	<reply_to>Yanıtla</reply_to>
+	<comments_closed>Bu video için yorumlar devre dışı bırakılmış.</comments_closed>
+        <comments_login_register><![CDATA[
+            <a class="login-link" href="{LOGIN_LINK}">Giriş yap</a> ou <a class="register-link" href=$
+        ]]></comments_login_register>
+        <comments_login><![CDATA[
+            <a class="login-link" href="{LOGIN_LINK}">Yorum yapmak için</a> giriş yap.
+        ]]></comments_login>
+        <comments_button>Yorumlar</comments_button>
+        <suggestions_header>Öneriler</suggestions_header>
+        <no_suggestions>Öneri yok.</no_suggestions>
+        <views>Görüntülemeler</views>
+        <gated_video>Bu videoyu görüntülemek için giriş yapmanız gerekir.</gated_video>
+        <video_unavailable>Video oynatılamıyor.</video_unavailable>
+        <embed_disabled><![CDATA[
+        Eklenti özelliği bu video için devre dışı bırakılmış. Şu adresten videoyu izlebilirsiniz: <a target="_top" href="{LINK}">{SITENAME}</a>.
+        ]]></embed_disabled>
+        <no_playback>Video oynatılamıyor.</no_playback>
+
+        <!-- Search Page -->
+        <search_header>Bir video ara</search_header>
+        <results_for>Araması için sonuçlar</results_for>
+        <no_results>Hiçbir sonuç bulunamadı.</no_results>
+
+        <!-- Opt-Out Page -->
+        <opt_out_header>E posta listesinden ayrıl</opt_out_header>
+        <opt_out_text><![CDATA[
+        e posta adresiniz tüm posta listelerinden başarıyla çıkartılmıştır.
+        Eğer e posta ayarlarınızı değiştirmek istiyorsanız gizlilik ayarları bölümüne gidiniz.
+        <a href="{LINK}">Hesabınızın</a> gizlilik ayarları.
+        ]]></opt_out_text>
+
+        <!-- Activate Account Page -->
+        <activate_header>Hesabınızı aktive edin.</activate_header>
+        <activate_success><![CDATA[
+        Teşekkürler! Hesabınız başarıyla aktive edildi! <a href="{HOST}/myaccount/">Hesabınıza ulaşın</a>
+        ]]></activate_success>
+        <activate_approve>Teşekkürler! Hesabınız başarıyla aktive edildi. Ancak ekip üyelerimizden biri onaylayana kadar hesabınıza giriş yapamayacaksınız. bu işlem bittiğinde sizi bilgilendireceğiz. .</activate_approve>
+        <activate_error><![CDATA[
+        Geçersiz kod! Kodu doğru girdiğinizden emin olun.
+        Hesabınız önceden aktive edilmiş olabilir. Eğer giriş bilgilerinizi unuttuysanız,
+        <a href="{HOST}/login/forgot/">buraya tıklayın</a> ve bilgilerinizi yenileyin.
+        ]]></activate_error>
+
+        <!-- 404 Page -->
+        <system_404_header>404 - Sayfa bulunamadı</system_404_header>
+        <system_404_sub_header>Oups!</system_404_sub_header>
+        <system_404_text>Aradığınız sayfa bulunmuyor ya da kaldırılmış</system_404_text>
+
+        <!-- System Error Page -->
+        <system_error_header>Sistem hatası</system_error_header>
+        <system_error_text>Sistemdeki bir hatadan dolayı devam edemiyoruz. Tüm olumsuzluklardan dolayı özür dileriz.</system_error_text>
+
+        <!-- My Account / Home Page -->
+        <account_header>Hoşgeldiniz</account_header>
+        <last_login>Son oturum açma</last_login>
+        <edit_avatar>Karakterinizi düzenleyin</edit_avatar>
+        <new_messages>Okunmamış yeni mesajlarınız var!</new_messages>
+        <account_menu_header>Hesabım</account_menu_header>
+        <manage_media>Medyalarınızı düzenleyin</manage_media>
+        <upload_video>Video yükleyin</upload_video>
+        <my_videos>Videolarım</my_videos>
+	<account_menu_attachments>Eklentilerim</account_menu_attachments>
+        <my_playlists>Oynatma listelerim</my_playlists>
+        <account_settings>Hesap ayarları</account_settings>
+        <update_profile>Hesabınızı güncelleyin</update_profile>
+        <privacy_settings>Gizlilik ayarları</privacy_settings>
+        <change_password>Şifrenizi değiştirin</change_password>
+        <community>Topluluk</community>
+        <my_subscriptions>Aboneliklerim</my_subscriptions>
+        <my_subscribers>Abonelerim</my_subscribers>
+        <inbox>Gelen kutusu</inbox>
+
+        <!-- My Account / Update Video Page -->
+        <update_video_header>Videoyu düzenle</update_video_header>
+        <update_video_button>Videoyu güncelleyin</update_video_button>
+        <back_to_videos>Videolara geri dön</back_to_videos>
+
+        <!-- My Account / My Videos Page -->
+        <my_videos_header>Videolarım</my_videos_header>
+        <no_user_videos>Henüz hiç video yüklemediniz.</no_user_videos>
+        <edit_video>Videoyu düzenle</edit_video>
+        <delete_video>Videoyu sil</delete_video>
+	<pending_conversion>Dönüşüm bekleniyor</pending_conversion>
+        <processing>İşleniyor</processing>
+        <pending_approval>Onay bekleniyor</pending_approval>
+
+	<!-- Account / Attachments Page -->
+        <attachments_header>Eklentiler</attachments_header>
+        <filesize>Dosya boyutu</filesize>
+        <delete_attachments_button>Eklenti dosylarını sil</delete_attachments_button>
+        <no_attachments>Video eklenti yok</no_attachments>
+
+        <!-- My Account / Playlists Page -->
+        <playlists_header>Oynatma listelerim</playlists_header>
+        <delete_playlist>Oynatma listesini sil</delete_playlist>
+        <edit_playlist>Oynatma listesini düzenle</edit_playlist>
+        <no_playlists>Oynatma listesi yok.</no_playlists>
+
+        <!-- My Account / Playlist Edit Page -->
+        <playlists_edit_header>Oynatma listesini düzenle</playlists_edit_header>
+        <back_to_playlists>Oynatma listelerine geri dön</back_to_playlists>
+        <update_playlist_header>Oynatma listesini güncelle</update_playlist_header>
+        <update_playlist_button>Güncelle</update_playlist_button>
+        <playlist_videos>Oynatma listesindeki videolar</playlist_videos>
+        <no_videos_playlist>Oynatma listesi boş.</no_videos_playlist>
+        <remove_playlist_video>Oynatma listesinden çıkar</remove_playlist_video>
+
+        <!-- My Account / Edit Profile Page -->
+        <profile_header>Profilim</profile_header>
+        <personal_header>Kişisel bilgileri güncelle</personal_header>
+        <first_name>İsim</first_name>
+        <last_name>Soyisim</last_name>
+        <about_me>Hakkımda</about_me>
+        <profile_button>Profilimi güncelle</profile_button>
+        <update_avatar_header>Karakterimi güncelle</update_avatar_header>
+        <update_avatar_text><![CDATA[
+            <p>Karakteriniz videolarınızda, yorumlarınızda ve diğer özelliklerde gözükür.</p>
+            <p>Eğer yeni bir karakter yüklerseniz eski karakteriniz kaybolacak.</p>
+            <p>Bilgisayarınızın depolamasından bir resim seçin (JPEG, GIF, PNG) En fazla 30K büyüklüğünde olmalıdır.</p>
+        ]]></update_avatar_text>
+        <current_avatar>Şu anki karakter</current_avatar>
+        <reset_avatar>Karakteri sıfırla</reset_avatar>
+        <browse_files_button>Görüntüle</browse_files_button>
+        <update_avatar_button>Karakteri güncelle</update_avatar_button>
+
+        <!-- My Account / Privacy Settings Page -->
+        <privacy_settings_header>Gizlilik ayarları</privacy_settings_header>
+        <alert_comment>Videolarımdan birine yorum yapıldığında beni e posta göndererek bilgilendir.</alert_comment>
+        <alert_video>Abone olduğum kanallar yeni video yüklediğinde beni e posta göndererek bilgilendir.</alert_video>
+        <alert_message>Bir mesaj aldığımda beni e posta göndererek bilgilendir.</alert_message>
+	<alert_video_ready>Videom yüklendiğinde ve hazır olduğunda beni e posta yoluyla bilgilendir</alert_video_ready>
+        <alert_comment_reply>Yorumlarımdan birine yanıt geldiğinde beni e posta göndererek bilgilendir.</alert_comment_reply>
+        <privacy_settings_button>Gizlilik ayaralrını güncelle.</privacy_settings_button>
+
+        <!-- My Account / Change Password Page -->
+        <change_password_header>Şifreyi değiştir</change_password_header>
+        <change_password_text>Şifreniz 6-10 karakter içermelidir (büyük, küçük harf, sayı ve özel karakterler de geçerlidir).</change_password_text>
+        <new_password>Yeni şifre</new_password>
+        <change_password_button>Şifreyi değiştir</change_password_button>
+
+        <!-- My Account / View My Subscriptions Page -->
+        <subscriptions_header>Abonelerim</subscriptions_header>
+        <confirm_subscription>bu kullanıcı tarafından takip edilemeyeceksiniz. Devam etmek istiyor musunuz?</confirm_subscription>
+        <no_subscriptions>Abone yok.</no_subscriptions>
+
+        <!-- My Account / View My Subscribers Page -->
+        <subscribers_header>Mes abonnés</subscribers_header>
+        <no_subscribers>Aucun abonné.</no_subscribers>
+
+        <!-- My Account / Message Inbox Page -->
+        <message_inbox_header>Gelen kutusu</message_inbox_header>
+        <purge>Temizle</purge>
+        <message_status>Durum</message_status>
+        <read>Okunmuş</read>
+        <unread>Okunmamış</unread>
+        <subject>Konu</subject>
+        <sender>Gönderici</sender>
+        <date>Alıcı</date>
+        <purge_button>Mesajları temizle</purge_button>
+        <no_messages>Mesaj yok</no_messages>
+
+        <!-- My Account / Read Message Page -->
+        <message_read_header>Mesajı oku</message_read_header>
+        <return_inbox>Gelen kutusuna geri dön</return_inbox>
+        <reply>Cevapla</reply>
+        <delete>Sil</delete>
+
+        <!-- My Account / Send Message Page -->
+        <message_send_header>Bir mesaj gönder</message_send_header>
+        <to>Kime</to>
+        <members_username>Kullanıcının kullanıcı adı</members_username>
+        <message_send_button>Gönderi</message_send_button>
+
+        <!-- My Account / Upload Video - Video Information Page -->
+        <upload_header>Videonun bilgileri</upload_header>
+	<video_basic_tab>Temel bilgiler</video_basic_tab>
+        <video_attachments_tab>Eklentiler</video_attachments_tab>
+        <video_advanced_tab>Gelişmiş ayarlar</video_advanced_tab>
+        <video_basic_tab_header>Temel bilgiler</video_basic_tab_header>
+        <video_attachments_tab_header>Eklentiler</video_attachments_tab_header>
+        <video_advanced_tab_header>Gelişmiş ayarlar</video_advanced_tab_header>
+        <upload_new_attachment>Yeni bir eklenti yükle</upload_new_attachment>
+        <upload_new_attachment_header>Yeni bir eklenti yükle</upload_new_attachment_header>
+        <select_existing_attachment>Var olan bir eklentiyi seç</select_existing_attachment>
+        <select_existing_attachment_header>Var olan bir eklentiyi seç</select_existing_attachment_header>
+        <select_existing_attachment_help>Eklentilerden bir dosya seç :</select_existing_attachment_help>
+
+
+        <title>Başlık</title>
+        <description>Açıklama</description>
+        <tags>Etiketler</tags>
+        <comma_delimited>Virgülle ayrılanlar</comma_delimited>
+        <category>Kategori</category>
+        <disable_embed>Eklenti özelliğini devre dışı bırak</disable_embed>
+        <disable_embed_description>Bu video başka bir internet sitesine yüklenemez.</disable_embed_description>
+        <gated>Kapalı</gated>
+        <gated_description>Bu video sadece bağlantılı hesaplar tarafından görüntülenebilir.</gated_description>
+        <private>Privée</private>
+        <private_description>Seules les personnes possédant l’URL privée ci-dessous peuvent visionner cette vidéo</private_description>
+        <private_url>Özel URL</private_url>
+        <regenerate>Yeniden oluştur</regenerate>
+	<closeComments>Yorumları kapat</closeComments>
+        <closeCommentsDescription>Yorumları kapat</closeCommentsDescription>
+        <submit_button>Gönder</submit_button>
+
+        <!-- My Account / Upload - Video Upload Page -->
+        <upload_video_header>Bir video yükle</upload_video_header>
+        <upload_video_text>Lütfen hard diskinizden bir video seçin. Videonun telif hakkının bir başkasında olmadığından emin olun. Herhangi bir sebepten dolayı videonuzu kaldırma hakkımız olduğunu hatırlatıyoruz.</upload_video_text>
+        <filesize_limit>En büyük dosya büyüklüğü</filesize_limit>
+	<cancel>Kapat</cancel>
+        <upload_video_button>Bir video yükle</upload_video_button>
+
+        <!-- My Account / Upload - Complete Page -->
+        <upload_complete_header>Yükleme tamamlandı!</upload_complete_header>
+        <upload_complete_text>Videonuz başarıyla yüklendi! Lütfen videonuz {SITENAME} ve {SITENAME} Mobilde hazır olana kadar birkaç dakika bekleyin.</upload_complete_text>
+
+
+
+
+        <!-- Form Messages -->
+        <error_general>Bir hata oluştu. Lütfen tekrar deneyin.</error_general>
+        <errors_below>Hatalarla karşılaşıldı. Lütfen hataları düzeltip tekrar deneyin.</errors_below>
+        <error_invalid_login>Bilgiler geçersiz! Lütfen kullanıcı adı ve şifrenizi doğru girdiğinizden emin olup tekrar deneyin.</error_invalid_login>
+        <error_no_users_email>Girdiğiniz e posta adresini kullanan kullanıcı bulunamadı! Lütfen tekrar deneyin.</error_no_users_email>
+
+        <confirm_delete_playlist>Oynatma listesi silinecek. Oynatma listesini silmek istediğinizden emin misiniz?</confirm_delete_playlist>
+        <confirm_remove_playlist_video>Oynatma listesindeki video silinecek. Silmek istediğinizden emin misiniz ?</confirm_remove_playlist_video>
+        <confirm_delete_video>Video tamamen silinecek. Bu işlem geri alınamaz. Devam etmek istediğinizden emin misiniz?</confirm_delete_video>
+        <confirm_reset_avatar>Karakteriniz tamamen sıfırlanacak. Bu işlem geri alınamaz. Devam etmek istediğinizden emin misiniz?</confirm_reset_avatar>
+	<confirm_purge_messages>Mesaj tamamen silinecek. Sİlmek istediiğinizden emin misiniz ?</confirm_purge_messages>
+	<confirm_delete_attachments>Seçtiğiniz dosya silinecek ve hiçbir videoya eklenemeyecek. Silmek istediğinizden emin misiniz ?</confirm_delete_attachments>
+        <confirm_delete_message>Mesaj tamamen silinecek. Silmek istediğinizden emin misiniz?</confirm_delete_message>
+
+        <error_username>Geçersiz kullanıcı adı</error_username>
+        <error_username_unavailable>Kullanıcı adı kullanılamaz</error_username_unavailable>
+        <error_password>Geçersiz şifre</error_password>
+        <error_password_match>Şifreleriniz eşleşmiyor.</error_password_match>
+        <error_password_confirm>Şifre doğrulaması geçersiz</error_password_confirm>
+        <error_security_text>Hatalı captcha girişi</error_security_text>
+        <error_email>Geçerli bir e posta adresi girin.</error_email>
+        <error_email_unavailable>E posta adresi geçersiz</error_email_unavailable>
+        <error_recipient>Alıcı bilgileri hatalı</error_recipient>
+        <error_website_invalid>İnternet sitesi geçersiz</error_website_invalid>
+        <error_recipient_exist>Bu bilgilerde hiçbir kullanıcı yok.</error_recipient_exist>
+        <error_recipient_self>Kendinize mesaj gönderemezsiniz.</error_recipient_self>
+        <error_subject>Geçersiz konu</error_subject>
+        <error_message>Geçersiz mesaj</error_message>
+	<error_video_upload>Video yüklenemedi</error_video_upload>
+        <error_title>Geçersiz başlık</error_title>
+        <error_description>Geçersiz açıklama</error_description>
+        <error_tags>Geçersiz etiketler</error_tags>
+        <error_category>Geçersiz kategori</error_category>
+	<error_attachment>Geçersiz eklenti</error_attachment>
+        <error_attachment_file>Eklenti yüklenemedi</error_attachment_file>
+        <error_attachment_duplicate>Dosya zaten eklenmiş</error_attachment_duplicate>
+        <error_attachment_upload><![CDATA[
+  	    Videoya eklenti yapılamıyor. Eğer problem devam ederse, lütfen  <a href="{HOST}/contact/">bize ulaşın</a> kısmından bizimle iletişime geçin.
+	]]></error_attachment_upload>
+        <error_name>Geçersiz isim</error_name>
+	<error_comment_login>Yorum yapmak için giriş yapmalısınız.</error_comment_login>
+        <error_comment>Geçersiz yorum</error_comment>
+        <error_private_url>Geçersiz özel URL</error_private_url>
+        <error_status_update>Durum güncellenemedi</error_status_update>
+        <error_flag_login>İçeriği bildirmek için giriş yapmalısınız.</error_flag_login>
+        <error_flag_own>Kendi içeriğinizi bildiremezsiniz.</error_flag_own>
+        <error_flag_duplicate>Bu içeriği zaten bildirdiniz. Yardımınız için teşekkür ederiz.</error_flag_duplicate>
+        <error_favorite_own>Kendi videonuzu favori videolarınıza ekleyemezsiniz.</error_favorite_own>
+       	<error_playlist_duplicate>Bu video zaten bu oynatma listesine eklenmiş.</error_playlist_duplicate>
+	<error_playlist_video_not_found>Bu video oynatma listesinde bulunamıyor.</error_playlist_video_not_found>
+	<error_playlist_name>Oynatma listesi ismi geçersiz</error_playlist_name>
+        <error_subscribe_login>Bir kanala abone olmak için giriş yapmalısınız.</error_subscribe_login>
+        <error_subscribe_own>Kendinize abone olamazsınız.</error_subscribe_own>
+        <error_subscribe_duplicate>Bu kanala zaten abonesiniz.</error_subscribe_duplicate>
+        <error_subscribe_noexist>Bu kanala abone değilsiniz.</error_subscribe_noexist>
+        <error_rate_login>Bu videoyu puanlandırmak için giriş yapmalısınız.</error_rate_login>
+        <error_rate_own>Kendi videonuzu puanlandıramazsınız.</error_rate_own>
+        <error_rate_duplicate>Bu videoyu zaten puanlandırdınız.</error_rate_duplicate>
+
+
+        <error_upload_filesize>Dosyanız eklenti büyüklük sınırını geçmiş. Tekrar deneyiniz.</error_upload_filesize>
+        <error_upload_system><![CDATA[
+        Dosyanızı işlerken bir sorunla karşılaşıldı. Dosyanız şu anda yüklenemiyor.
+        Bu olaydan dolayı özür dileriz. Destek ekibimiz bilgilendirildi ve sorunun nedenini saptayıp en kısa sürede çözecektir.
+        Sorun devam ederse, lütfen <a href="{HOST}/contact/">bize ulaşın</a> kısmından bizimle iletişime geçin.
+        ]]></error_upload_system>
+        <error_upload_extension>Dosyanızın formatı desteklenmiyor. Lütfen tekrar deneyiniz</error_upload_extension>
+        <error_upload_empty>Hiçbir eklenti yüklenmedi. Tekrar deneyiniz.</error_upload_empty>
+	<error_avatar_reset>Karakterinizi sıfırlayamadık. Daha sonra tekrar deneyiniz.</error_avatar_reset>
+        <error_generic>İsteğinizi gerçekleştiremedik. Lütfen tekrar deneyiniz. Eğer bu özelliğin kullanımında sorun yaşamaya devam ederseniz <a href="{HOST}/contact/">bize ulaşın</a> bölümünden bizimle iletişime geçin.</error_generic>
+
+	<success_logout>Hesabınızdan başarıyla çıkış yaptınız.</success_logout>
+        <success_avatar_reset>Karakteriniz başarıyla sıfırlandı.</success_avatar_reset>
+        <success_avatar_updated>Karakteriniz güncellendi.</success_avatar_updated>
+        <success_rated>Video puanlaması başarıyla yapıldı.</success_rated>
+        <success_unsubscribed>Bu kanalı takipten çıktınız.{USERNAME}.</success_unsubscribed>
+        <success_subscribed>Bu kanala abone oldunuz.{USERNAME}.</success_subscribed>
+        <success_flag>Bize destek olduğunuz için teşekkür ederiz. Bu konu üzerinde çalışıyoruz.</success_flag>
+        <success_status_updated>Durumunuz güncellendi.</success_status_updated>
+        <success_comment_posted>Yorumunuz paylaşıldı.</success_comment_posted>
+        <success_comment_approve>Yorumunuz onay için ekibimize gönderildi.</success_comment_approve>
+        <success_contact_sent>Teşekkürler! Mesajınız gönderildi, en yakın zamanda sizinle iletişime geçeceğiz.</success_contact_sent>
+        <success_registered>Teşekkürler! Hesabınızı başarıyla oluşturdunuz. Lütfen hesabınızı aktive etmek için e postanızı kontrol edin. Eğer e postanızı bulamazsanız spam bölümüne bakmayı unutmayın.</success_registered>
+        <success_login_sent>Size giriş bilgilerinizi gönderdik. Lütfen e postanızı kontrol edin.</success_login_sent>
+	<success_video_upload>Videonuz başarıyla yüklendi. Lütfen videonuz işleme koyulana kadar birkaç dakika bekleyin.</success_video_upload>
+        <success_video_updated>Video güncellendi.</success_video_updated>
+        <success_video_deleted>Video silindi.</success_video_deleted>
+	<success_playlist_added>Video oynatma listesine eklendi. {LIST_NAME}.</success_playlist_added>
+        <success_playlist_added_short>Video eklendi</success_playlist_added_short>
+        <success_playlist_created>Oynatma listesi oluşturuldu.</success_playlist_created>
+        <success_playlist_updated>Oynatma listesini güncellendi.</success_playlist_updated>
+        <success_playlist_video_removed>Video oynatma listesinden kaldırıldı{LIST_NAME}.</success_playlist_video_removed>
+        <success_playlist_video_removed_short>Video kaldırıldı.</success_playlist_video_removed_short>
+        <success_playlist_deleted>Oynatma listesi silindi.</success_playlist_deleted>
+        <success_profile_updated>Profiliniz başarıyla güncellendi.</success_profile_updated>
+        <success_privacy_updated>Gizlilik ayarlarınız başarıyla güncellendi.</success_privacy_updated>
+        <success_password_updated>Şifreniz başarıyla güncellendi.</success_password_updated>
+        <success_messages_purged>Mesajlar başarıyla silindi!</success_messages_purged>
+	<success_message_deleted>Bu mesaj silindi.</success_message_deleted>
+        <success_message_sent>Mesajınız gönderildi.</success_message_sent>
+	<success_attachments_deleted>Eklentiler silindi.</success_attachments_deleted>
+
+        <!-- Page Meta Tags -->
+        <meta.index.title>CumulusClips – Bedava içerik yönetim sistemi, Bedava video paylaşım programı, Bedava video paylaşım yazılımı, Youtube'un kopyası.</meta.index.title>
+        <meta.index.keywords>Bedava içerik yönetim sistemi, Bedava video paylaşım programı, Bedava video paylaşım yazılımı, Youtube'un kopyası.</meta.index.keywords>
+        <meta.index.description>Size kendi video içerik sitenizi oluşturmanızı sağlayan bedava içerik yönetim sistemi yazılımı.</meta.index.description>
+
+        <meta.browse.title>Videoları görüntüle:</meta.browse.title>
+        <meta.browse.keywords>Videoları görüntüle, Görüntüle, Videolar</meta.browse.keywords>
+        <meta.browse.description>Video paylaşım topluluğunda video görüntüle.</meta.browse.description>
+
+        <meta.members.title>Üyeleri görüntüle</meta.members.title>
+        <meta.members.keywords>Üyeleri görüntüle, Görüntüle, Üyeleri</meta.members.keywords>
+        <meta.members.description>Kaydolan üyeleri görüntüle.</meta.members.description>
+
+        <meta.profile.title> {MEMBER}profili</meta.profile.title>
+        <meta.profile.keywords>Üyenin profili, Üye, Profil</meta.profile.keywords>
+        <meta.profile.description>Bu kullanıcının profilini görüntüle.</meta.profile.description>
+
+        <meta.contact.title>Bize ulaşın</meta.contact.title>
+        <meta.contact.keywords>Bize ulaşın, Ulaşın, Bize bir mesaj gönderin</meta.contact.keywords>
+        <meta.contact.description>Bize ulaşmak için.</meta.contact.description>
+
+        <meta.activate.title>Hesabınızı aktive edin</meta.activate.title>
+        <meta.activate.keywords>Hesabınızı aktive edin, Hesabın aktive edilmesi</meta.activate.keywords>
+        <meta.activate.description>Hesabınızı aktive etmek için.</meta.activate.description>
+
+        <meta.opt_out.title>Tüm e posta listelerinden ayrıl</meta.opt_out.title>
+        <meta.opt_out.keywords>Ayrıl, e posta, Yayın listesi</meta.opt_out.keywords>
+        <meta.opt_out.description>Tüm e posta listelerinden ayrıl.</meta.opt_out.description>
+
+        <meta.search.title>Arama sonuçları : '{KEYWORD}'</meta.search.title>
+        <meta.search.keywords>Video ara, Ara, Videoo, Arama sonuçları</meta.search.keywords>
+        <meta.search.description>Videolar başlık, açıklama veya etiketlerde bulunan anahtar kelimeleri kullanarak ara.</meta.search.description>
+
+        <meta.login.title>Hesabınıza giriş yapın</meta.login.title>
+        <meta.login.keywords>Giriş yap, Hesap</meta.login.keywords>
+        <meta.login.description>Hesabınıza giriş yapın.</meta.login.description>
+
+        <meta.register.title>Bir hesapla üye ol</meta.register.title>
+        <meta.register.keywords>Üye ol, Giriş yap, Hesap</meta.register.keywords>
+        <meta.register.description>Bir hesapla üye ol.</meta.register.description>
+
+        <meta.system_404.title>Sayfa bulunamadı</meta.system_404.title>
+        <meta.system_404.keywords>Sayfa bulunamadı, Hata 404</meta.system_404.keywords>
+        <meta.system_404.description>Hata 404, Sayfa bulunamadı.</meta.system_404.description>
+
+        <meta.system_error.title>Sistem hatası</meta.system_error.title>
+        <meta.system_error.keywords>Sistem hatası</meta.system_error.keywords>
+        <meta.system_error.description>Sistemde bir hata oluştu.</meta.system_error.description>
+
+        <meta.account_account.title>Hoş geldin - {USERNAME}</meta.account_account.title>
+        <meta.account_account.keywords>Hoş geldin</meta.account_account.keywords>
+        <meta.account_account.description>Hoş geldin</meta.account_account.description>
+
+        <meta.account_upload_video.title>Video yükle</meta.account_upload_video.title>
+        <meta.account_upload_video.keywords>Video yükle</meta.account_upload_video.keywords>
+        <meta.account_upload_video.description>Video yükle.</meta.account_upload_video.description>
+
+        <meta.account_upload_info.title>Video hakkında bilgiler.</meta.account_upload_info.title>
+        <meta.account_upload_info.keywords>Videoyu yükle</meta.account_upload_info.keywords>
+        <meta.account_upload_info.description>Video hakkında bilgiler.</meta.account_upload_info.description>
+
+        <meta.account_upload_complete.title>Yükleme tamamlandı!</meta.account_upload_complete.title>
+        <meta.account_upload_complete.keywords>Video yükle, Yükleme tamamlandı</meta.account_upload_complete.keywords>
+        <meta.account_upload_complete.description>Yükleme tamamlandı!</meta.account_upload_complete.description>
+
+        <meta.account_videos_edit.title>Videoyu düzenle</meta.account_videos_edit.title>
+        <meta.account_videos_edit.keywords>Videoyu düzenle, Video hakkında bilgiler</meta.account_videos_edit.keywords>
+        <meta.account_videos_edit.description>Video hakkındaki bilgileri düzenle.</meta.account_videos_edit.description>
+
+        <meta.account_videos.title>Videolarım</meta.account_videos.title>
+        <meta.account_videos.keywords>Videolarım, Videolar</meta.account_videos.keywords>
+        <meta.account_videos.description>Bu kullanıcı tarafından yüklenen tüm videoları göster.</meta.account_videos.description>
+
+	<meta.account_attachments.title>Eklentiler</meta.account_attachments.title>
+        <meta.account_attachments.keywords>Eklentiler</meta.account_attachments.keywords>
+        <meta.account_attachments.description>Bu kullanıcı tarafından eklenen tüm eklentileri göster.</meta.account_attachments.description>
+
+	<meta.account_playlists.title>Oynatma listelerim</meta.account_playlists.title>
+        <meta.account_playlists.keywords>Oynatma listelerim, Oynatma Listesi</meta.account_playlists.keywords>
+        <meta.account_playlists.description>Tüm oynatma listelerimi göster.</meta.account_playlists.description>
+
+	<meta.account_playlists_edit.title>Oynatma listesini düzenle: {PLAYLIST_NAME}</meta.account_playlists_edit.title>
+        <meta.account_playlists_edit.keywords>Oynatma listesi videoları, Videolar, Oynatma listesi, düzenle</meta.account_playlists_edit.keywords>
+        <meta.account_playlists_edit.description>Oynatma listesini düzenle ve oynatma listesindeki tüm videoları göster.</meta.account_playlists_edit.description>
+
+	<meta.account_update_profile.title>Hesabı güncelle</meta.account_update_profile.title>
+        <meta.account_update_profile.keywords>Hesabı güncelle, hesap</meta.account_update_profile.keywords>
+        <meta.account_update_profile.description>Hesabınızın tüm bilgilerini güncelleyin.</meta.account_update_profile.description>
+
+	<meta.account_privacy_settings.title>Güvenlik ayarları</meta.account_privacy_settings.title>
+        <meta.account_privacy_settings.keywords>Güvenlik ayarları, Güvenlik ayarlarını güncelle</meta.account_privacy_settings.keywords>
+        <meta.account_privacy_settings.description>Güvenlik ayarlarını güncelle.</meta.account_privacy_settings.description>
+
+	<meta.account_change_password.title>Şifreyi değiştir</meta.account_change_password.title>
+        <meta.account_change_password.keywords>Şifreyi değiştir, Şifre, Şifreyi güncelle</meta.account_change_password.keywords>
+        <meta.account_change_password.description>Şifreti güncelle.</meta.account_change_password.description>
+
+	<meta.account_subscriptions.title>Abonelerim</meta.account_subscriptions.title>
+        <meta.account_subscriptions.keywords>Aboneler, Üyenin aboneleri</meta.account_subscriptions.keywords>
+        <meta.account_subscriptions.description>Bu üyenin abone olduğu tüm kullanıcıları göster.</meta.account_subscriptions.description>
+
+	<meta.account_subscribers.title>Abonelerim</meta.account_subscribers.title>
+        <meta.account_subscribers.keywords>Aboneler, Üyelere abone ol</meta.account_subscribers.keywords>
+        <meta.account_subscribers.description>Bu üyeye abone olan tüm kullanıcıları göster.</meta.account_subscribers.description>
+
+	<meta.account_message_inbox.title>Gelen kutusu</meta.account_message_inbox.title>
+        <meta.account_message_inbox.keywords>Gelen kutusu, Mesaj, Gelen kutusu</meta.account_message_inbox.keywords>
+        <meta.account_message_inbox.description>Tüm mesajları göster.</meta.account_message_inbox.description>
+
+	<meta.account_message_read.title>Mesajları oku</meta.account_message_read.title>
+        <meta.account_message_read.keywords>Mesajları oku, Mesaj</meta.account_message_read.keywords>
+        <meta.account_message_read.description>Bir mesaj oku.</meta.account_message_read.description>
+
+	<meta.account_message_send.title>Bir mesaj gönder</meta.account_message_send.title>
+        <meta.account_message_send.keywords>Mesaj gönder, Mesaj</meta.account_message_send.keywords>
+        <meta.account_message_send.description>Başka bir üyeye mesaj gönder.</meta.account_message_send.description>
+
+        <meta.mobile_videos.title>Videoları görüntüle,</meta.mobile_videos.title>
+
+        <meta.mobile_search.title>Videoları ara</meta.mobile_search.title>
+
+	
+	<!-- @deprecated Deprecated in 2.5.0, removed in 2.6.0. Use browse_header instead -->
+        <videos_header>Videoları görüntüle</videos_header>
+
+    </terms>
+
+</language>
+
