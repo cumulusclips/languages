@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
     <information>
-        <lang_name>French</lang_name>
+        <lang_name>Français</lang_name>
         <native_name>Français</native_name>
         <locale>fr_FR</locale>
         <author>CumulusClips</author>
         <sample>Le renard brun rapide saute par dessus le chien paresseux</sample>
-        <version>2.0</version>
+        <version>2.4</version>
         <update>http://mothership.cumulusclips.org/updates/languages/french/</update>
         <notes/>
     </information>
     <terms>
-        <search_text>Recherche vidéo...</search_text>
+        <search_text>Rechercher des vidéos...</search_text>
         <login>Se connecter</login>
-        <register>S'inscrire gratuitement</register>
+        <register>Créer un compte</register>
         <logout>Se déconnecter</logout>
         <account>Mon compte</account>
         <view_my_profile>Voir mon profil</view_my_profile>
@@ -25,12 +25,12 @@
         <next>Suivant</next>
         <yes>Oui</yes>
         <no>Non</no>
-        <quick_links>Liens utiles</quick_links>
-        <upload_supported_formats>Formats acceptés</upload_supported_formats>
+        <quick_links>Liens rapides</quick_links>
+        <upload_supported_formats>Formats pris en charge</upload_supported_formats>
         <video_feed>Flux vidéo</video_feed>
         <contact>Contact</contact>
         <sitemap>Plan du site</sitemap>
-	<invalid_session>Votre session est invalide ou a expirée</invalid_session>
+		<invalid_session>Session invalide ou expirée</invalid_session>
 
         <!-- Mobile -->
         <mobile_heading>{SITENAME} Mobile</mobile_heading>
@@ -41,13 +41,13 @@
         <loading>Chargement</loading>
         <featured>Sélection</featured>
         <featured_videos>Vidéos à la une</featured_videos>
-        <recent_videos>Vidéos récemment ajoutées</recent_videos>
+        <recent_videos>Vidéos récentes</recent_videos>
         <search>Recherche</search>
         <standard_site>Site standard</standard_site>
         <device_not_supported>Votre appareil n'est pas pris en charge pour la lecture vidéo.</device_not_supported>
         <close>Fermer</close>
         <menu>Menu</menu>
-        <choose_language>Choisissez votre langue</choose_language>
+        <choose_language>Choisissez une langue</choose_language>
         <suggestions>Suggestions</suggestions>
         <upload_button>Télécharger</upload_button>
         <post_video_button>Poster une vidéo</post_video_button>
@@ -56,18 +56,18 @@
         <!-- Home Page -->
         <home_header>Vidéos récentes!</home_header>
         <advertisement>Publicité</advertisement>
-        <account_login>Connexion à votre compte</account_login>
+        <account_login>Connexion au compte</account_login>
         <username>Nom d’utilisateur</username>
         <password>Mot de passe</password>
         <no_account>Vous n’avez pas de compte? Créez en un gratuitement !</no_account>
         <forgot_your_login>Identifiant oublié</forgot_your_login>
-        <login_button>Connexion</login_button>
+        <login_button>S'identifier</login_button>
 
         <!-- Login Page -->
-        <login_header>Connexion à votre compte</login_header>
-	<session_expired>Votre session a expirée. Veuillez vous reconnecter.</session_expired>
-        <remember_me>Connexion automatique</remember_me>
-        <forgot_text>Veuillez entrer ci-dessous votre adresse email utilisée lors de votre enregistrement. Nous réinitialiserons votre mot de passe et vous enverrons votre nouveau identifiant.</forgot_text>
+        <login_header>Connectez-vous</login_header>
+		<session_expired>Votre session a expiré. Veuillez vous reconnecter.</session_expired>
+        <remember_me>Se souvenir de moi</remember_me>
+        <forgot_text>Veuillez entrer ci-dessous votre adresse email utilisée lors de votre enregistrement. Nous allons réinitialiser votre mot de passe et vous envoyer votre nouvel identifiant par email.</forgot_text>
         <email>E-mail</email>
         <forgot_header>Identifiant oublié</forgot_header>
         <forgot_button>Identifiant oublié</forgot_button>
@@ -76,15 +76,15 @@
         <register_header>Inscrivez-vous</register_header>
         <register_text><![CDATA[
         <strong> Rejoignez {SITENAME} aujourd’hui!</strong><br /><br />
-        Une fois inscrit, vous serez en mesure de télécharger des vidéos, poster des commentaires, noter et partager des vidéos, vous abonner à des membres et bien plus encore!</p>
+        En tant que membre, vous pourrez télécharger des vidéos, poster des commentaires, noter et partager des vidéos, suivre des membres et bien plus encore !</p>
         ]]></register_text>
-        <asterisk>Les astérisques (*) indiquent les champs obligatoires.</asterisk>
+        <asterisk>Un astérisque (*) indique un champ obligatoire.</asterisk>
         <username_req>Le nom d’utilisateur ne peut contenir que des caractères alphanumériques (A-Z, 0-9), pas d’espaces ni de caractères spéciaux.</username_req>
         <confirm_password>Veuillez confirmer votre mot de passe.</confirm_password>
-        <register_button>Créez un compte.</register_button>
-        <checking_availability>Vérification de validité.</checking_availability>
+        <register_button>Créer un compte.</register_button>
+        <checking_availability>Vérification de la validité.</checking_availability>
         <username_minimum>4 caractères sont requis au minimum.</username_minimum>
-        <username_available>Nom d’utilisateur valide!</username_available>
+        <username_available>Nom d’utilisateur valide !</username_available>
 
         <!-- Contact Page -->
         <contact_header>Contactez-nous</contact_header>
@@ -96,11 +96,11 @@
 
         <!-- Browse Videos Page -->
         <browse_header>Parcourir les vidéos</browse_header>
-        <viewing>Visualisation</viewing>
+        <viewing>Voir</viewing>
         <sorting>Tri</sorting>
         <most_recent>Les plus récentes</most_recent>
         <most_viewed>Les plus vues</most_viewed>
-        <most_discussed>Les plus discutées</most_discussed>
+        <most_discussed>Les plus commentées</most_discussed>
         <most_rated>Les plus notées</most_rated>
         <no_videos>Aucune vidéo.</no_videos>
         <by>De</by>
@@ -119,31 +119,31 @@
         <member_rss>Flux RSS du membre</member_rss>
         <profile_views>Visites du profil</profile_views>
         <subscribers>Abonnés</subscribers>
-        <website>Site Web</website>
+        <website>Site Internet</website>
         <view_all_videos>Voir toutes les vidéos</view_all_videos>
         <no_member_videos>Aucune vidéo.</no_member_videos>
-	<no_member_playlists>Aucune playlist.</no_member_playlists>
+		<no_member_playlists>Aucune playlist.</no_member_playlists>
         <watch_all>Regarder tout</watch_all>
 
         <!-- Member Videos Page -->
         <videos_by>Vidéos de</videos_by>
-        <go_to_profile>Voir le profil</go_to_profile>
+        <go_to_profile>Visiter le profil</go_to_profile>
 
         <!-- Watch Video Page -->
         <like>J’aime</like>
         <dislike>Je n’aime pas</dislike>
         <about>A propos</about>
-	<attachments>Pièces jointes</attachments>
+		<attachments>Pièces jointes</attachments>
         <share>Partager</share>
-        <embed>Intégrée</embed>
+        <embed>Intégrer</embed>
         <embed_text>Copiez et collez ce code dans votre site ou votre blog.</embed_text>
         <add>Ajouter</add>
         <add_to>Ajouter à</add_to>
         <favorite>Favori</favorite>
         <favorites>Mes favoris</favorites>
-        <watch_later>Lire plus tard</watch_later>
+        <watch_later>Regarder plus tard</watch_later>
         <playlists>Playlists</playlists>
-        <playlist_login><![CDATA[Vous devez vous <a href="{HOST}/login/">connecter</a> pour ajouter des vidéos à vos playlists.]]></playlist_login>
+        <playlist_login><![CDATA[Vous devez vous <a href="{HOST}/login/">connecter</a> pour ajouter des vidéos aux playlists.]]></playlist_login>
         <create_new_playlist>Créer une nouvelle playlist</create_new_playlist>
         <playlist_name>Nom de la playlist</playlist_name>
         <visibility>Visibilité</visibility>
@@ -160,48 +160,48 @@
         <comments_post_header>Poster un commentaire</comments_post_header>
         <optional>Facultatif</optional>
         <comments>Commentaires</comments>
-	<reply_to>Répondre à</reply_to>
-	<comments_closed>Les commentaires sont fermés pour cette vidéo.</comments_closed>
+		<reply_to>Répondre à</reply_to>
+		<comments_closed>Les commentaires sont fermés pour cette vidéo.</comments_closed>
         <comments_login_register><![CDATA[
-            <a class="login-link" href="{LOGIN_LINK}">Se connecterr</a> ou <a class="register-link" href=$
+            <a class="login-link" href="{LOGIN_LINK}">Se connecter</a> ou <a class="register-link" href=$
         ]]></comments_login_register>
         <comments_login><![CDATA[
-            <a class="login-link" href="{LOGIN_LINK}">Se connecter</a> pour commenter.
+            <a class="login-link" href="{LOGIN_LINK}">Connectez-vous</a> pour commenter.
         ]]></comments_login>
         <comments_button>Commenter</comments_button>
         <suggestions_header>Suggestions</suggestions_header>
-        <no_suggestions>Aucune suggestion n’a pu être donnée.</no_suggestions>
+        <no_suggestions>Aucune suggestion n’a pu être faite.</no_suggestions>
         <views>Vues</views>
-        <gated_video>Vous devez vous connecter sur votre compte pour visionner cette vidéo</gated_video>
+        <gated_video>Vous devez vous connecter pour regarder cette vidéo</gated_video>
         <video_unavailable>La vidéo est indisponible</video_unavailable>
         <embed_disabled><![CDATA[
         La fonction insertion a été désactivée pour cette vidéo. Vous pouvez la visionner sur <a target="_top" href="{LINK}">{SITENAME}</a>.
         ]]></embed_disabled>
-        <no_playback>Incapable de lire la vidéo.</no_playback>
+        <no_playback>Impossible de lire la vidéo.</no_playback>
 
         <!-- Search Page -->
-        <search_header>Rechercher une vidéo</search_header>
-        <results_for>Résultats de la recherche pour</results_for>
+        <search_header>Résultats de la recherche</search_header>
+        <results_for>Résultats pour</results_for>
         <no_results>Aucun résultat n’a été trouvé.</no_results>
 
         <!-- Opt-Out Page -->
-        <opt_out_header>Se désinscrire au courriel</opt_out_header>
+        <opt_out_header>Se désinscrire des listes de diffucion</opt_out_header>
         <opt_out_text><![CDATA[
-        Votre adresse email a été retirée avec succès de toutes les listes de diffusion.
+        Votre adresse email a été supprimée de toutes les listes de diffusion.
         Si vous souhaitez modifier les paramètres de votre courriel, vous le pouvez en allant dans la section
         <a href="{LINK}">Paramètres de confidentialité</a> de votre compte.
         ]]></opt_out_text>
 
         <!-- Activate Account Page -->
-        <activate_header>Activer votre compte.</activate_header>
+        <activate_header>Activez votre compte.</activate_header>
         <activate_success><![CDATA[
-        Merci! Votre compte a été activé avec succès! <a href="{HOST}/myaccount/">Accéder à votre compte</a>
+        Merci! Votre compte est maintenant actif! <a href="{HOST}/myaccount/">Accéder à mon compte</a>
         ]]></activate_success>
-        <activate_approve>Merci! Votre compte a été activé avec succès. Cependant, vous ne pourrez vous connecter qu’une fois qu’un membre de notre équipe l’ait approuvé. Nous vous informerons dès cette opération terminée.</activate_approve>
+        <activate_approve>Merci! Votre compte est maintenant actif. Cependant, vous ne pourrez vous connecter qu’une fois qu’un membre de notre équipe l’ait approuvé. Nous vous informerons dès cette opération terminée.</activate_approve>
         <activate_error><![CDATA[
-        Code invalide! Veuillez vérifier si votre code a été entré correctement.
+        Code invalide! Veuillez vérifier si votre code a été saisi correctement.
         Votre compte peut-être déjà activé. Si vous avez oublié votre identifiant,
-        <a href="{HOST}/login/forgot/">veuillez cliquer ici</a> pour le récupérer.
+        <a href="{HOST}/login/forgot/"> veuillez cliquer ici</a> pour le récupérer.
         ]]></activate_error>
 
         <!-- 404 Page -->
@@ -211,7 +211,7 @@
 
         <!-- System Error Page -->
         <system_error_header>Erreur système</system_error_header>
-        <system_error_text>Nous ne pouvons pas continuer dû à une erreur dans le système. Nous nous excusons pour tout inconvénient.</system_error_text>
+        <system_error_text>Nous ne pouvons pas continuer en raison d'erreur système. Nous nous excusons pour cet inconvénient.</system_error_text>
 
         <!-- My Account / Home Page -->
         <account_header>Bienvenue</account_header>
@@ -222,12 +222,12 @@
         <manage_media>Gérer les médias</manage_media>
         <upload_video>Télécharger une vidéo</upload_video>
         <my_videos>Mes vidéos</my_videos>
-	<account_menu_attachments>Mes pièces jointes</account_menu_attachments>
+		<account_menu_attachments>Mes pièces jointes</account_menu_attachments>
         <my_playlists>Mes playlists</my_playlists>
         <account_settings>Paramètres du compte</account_settings>
         <update_profile>Mettre à jour mon profil</update_profile>
         <privacy_settings>Paramètres de confidentialité</privacy_settings>
-        <change_password>Changer de mot de passe</change_password>
+        <change_password>Changer le mot de passe</change_password>
         <community>Communauté</community>
         <my_subscriptions>Mes abonnements</my_subscriptions>
         <my_subscribers>Mes abonnés</my_subscribers>
@@ -240,18 +240,18 @@
 
         <!-- My Account / My Videos Page -->
         <my_videos_header>Mes vidéos</my_videos_header>
-        <no_user_videos>Vous n’avez téléchargé encore aucune vidéo.</no_user_videos>
+        <no_user_videos>Vous n’avez pas encore téléchargé de vidéo.</no_user_videos>
         <edit_video>Modifier la vidéo</edit_video>
         <delete_video>Supprimer la vidéo</delete_video>
-	<pending_conversion>En attente de conversion</pending_conversion>
-        <processing>Traitement en cours</processing>
+		<pending_conversion>En attente de conversion</pending_conversion>
+        <processing>Conversion en cours</processing>
         <pending_approval>En attente d'approbation</pending_approval>
 
-	<!-- Account / Attachments Page -->
+		<!-- Account / Attachments Page -->
         <attachments_header>Pièces jointes</attachments_header>
         <filesize>Taille du fichier</filesize>
-        <delete_attachments_button>Supprimer des fichiers joints</delete_attachments_button>
-        <no_attachments>Aucun fichier joint à la vidéo</no_attachments>
+        <delete_attachments_button>Supprimer les fichiers joints</delete_attachments_button>
+        <no_attachments>Aucune pièce jointe</no_attachments>
 
         <!-- My Account / Playlists Page -->
         <playlists_header>Mes playlists</playlists_header>
@@ -260,7 +260,7 @@
         <no_playlists>Aucune playlist.</no_playlists>
 
         <!-- My Account / Playlist Edit Page -->
-        <playlists_edit_header>Edition de la playlist</playlists_edit_header>
+        <playlists_edit_header>Modifier la playlist</playlists_edit_header>
         <back_to_playlists>Retour aux playlists</back_to_playlists>
         <update_playlist_header>Mise à jour de la playlist</update_playlist_header>
         <update_playlist_button>Mise à jour</update_playlist_button>
@@ -273,11 +273,11 @@
         <personal_header>Modifier les informations personnelles</personal_header>
         <first_name>Prénom</first_name>
         <last_name>Nom</last_name>
-        <about_me>A propos de Moi</about_me>
-        <profile_button>Mettre à jour mon profil</profile_button>
+        <about_me>A propos</about_me>
+        <profile_button>Mettre à jour le profil</profile_button>
         <update_avatar_header>Mettre à jour l'avatar</update_avatar_header>
         <update_avatar_text><![CDATA[
-            <p>Votre avatar apparaîtra  avec vos vidéos, vos commentaires et autres.</p>
+            <p>Votre avatar apparaîtra avec vos vidéos, vos commentaires et autres.</p>
             <p>Si vous téléchargez un nouveau avatar, votre avatar actuel sera remplacé.</p>
             <p>Choisir une image (JPEG, GIF, PNG) à partir du disque dur de votre ordinateur. La taille maximale autorisée est de 30K.</p>
         ]]></update_avatar_text>
@@ -291,7 +291,7 @@
         <alert_comment>Envoyez-moi un email lorsqu’une de mes vidéos reçoit un commentaire</alert_comment>
         <alert_video>Informez-moi des nouvelles vidéos mises en lignes par les membres auxquels je suis abonné</alert_video>
         <alert_message>Envoyez-moi un email lorsque je reçois un message</alert_message>
-	<alert_video_ready>Envoyez-moi un email lorsque le téléchargement de la vidéo est terminé et qu'elle est disponible</alert_video_ready>
+		<alert_video_ready>Envoyez-moi un email lorsque le téléchargement de la vidéo est terminé et qu'elle est disponible</alert_video_ready>
         <alert_comment_reply>Envoyez-moi un email lorsque quelqu'un répond à un de mes commentaires</alert_comment_reply>
         <privacy_settings_button>Mettre à jour les paramètres de confidentialité</privacy_settings_button>
 
@@ -303,7 +303,7 @@
 
         <!-- My Account / View My Subscriptions Page -->
         <subscriptions_header>Mes abonnements</subscriptions_header>
-        <confirm_subscription>Vous serez désinscrit de ce membre. Voulez-vous continuer?</confirm_subscription>
+        <confirm_subscription>Vous serez désabonné de ce membre. Voulez-vous continuer?</confirm_subscription>
         <no_subscriptions>Aucun abonnement.</no_subscriptions>
 
         <!-- My Account / View My Subscribers Page -->
@@ -312,14 +312,14 @@
 
         <!-- My Account / Message Inbox Page -->
         <message_inbox_header>Boîte de réception</message_inbox_header>
-        <purge>Nettoyer</purge>
+        <purge>Supprimer</purge>
         <message_status>Statut</message_status>
         <read>Lu</read>
         <unread>Non lu</unread>
-        <subject>Objet</subject>
+        <subject>Sujet</subject>
         <sender>Émetteur</sender>
         <date>Date</date>
-        <purge_button>Nettoyer les messages</purge_button>
+        <purge_button>Supprimer les messages</purge_button>
         <no_messages>Aucun message</no_messages>
 
         <!-- My Account / Read Message Page -->
@@ -335,8 +335,8 @@
         <message_send_button>Envoyer</message_send_button>
 
         <!-- My Account / Upload Video - Video Information Page -->
-        <upload_header>Informations sur la vidéo</upload_header>
-	<video_basic_tab>Informations de base</video_basic_tab>
+        <upload_header>Informations de base</upload_header>
+		<video_basic_tab>Informations de base</video_basic_tab>
         <video_attachments_tab>Pièces jointes</video_attachments_tab>
         <video_advanced_tab>Paramètres avancés</video_advanced_tab>
         <video_basic_tab_header>Informations de base</video_basic_tab_header>
@@ -346,141 +346,141 @@
         <upload_new_attachment_header>Télécharger une nouvelle pièce jointe</upload_new_attachment_header>
         <select_existing_attachment>Sélectionner une pièce jointe existante</select_existing_attachment>
         <select_existing_attachment_header>Sélectionner une pièce jointe existante</select_existing_attachment_header>
-        <select_existing_attachment_help>Choisir un fichier parmi vos pièces jointes ci-dessous :</select_existing_attachment_help>
+        <select_existing_attachment_help>Choisissez un fichier parmi vos pièces jointes ci-dessous :</select_existing_attachment_help>
 
 
         <title>Titre</title>
         <description>Description</description>
         <tags>Etiquettes</tags>
-        <comma_delimited>Séparées par une virgule</comma_delimited>
+        <comma_delimited>Séparée par une virgule</comma_delimited>
         <category>Catégorie</category>
         <disable_embed>Désactiver la fonction insertion</disable_embed>
-        <disable_embed_description>Cette vidéo ne peut être insérée dans un site tiers</disable_embed_description>
-        <gated>Fermée</gated>
+        <disable_embed_description>Cette vidéo ne peut être intégrée sur des sites tiers</disable_embed_description>
+        <gated>Fermé</gated>
         <gated_description>Cette vidéo ne peut être visionnée que par les utilisateurs connectés</gated_description>
-        <private>Privée</private>
+        <private>Privé</private>
         <private_description>Seules les personnes possédant l’URL privée ci-dessous peuvent visionner cette vidéo</private_description>
         <private_url>URL privée</private_url>
         <regenerate>Régénérer</regenerate>
-	<closeComments>Interdire les commentaires</closeComments>
+		<closeComments>Interdire les commentaires</closeComments>
         <closeCommentsDescription>Interdire les commentaires</closeCommentsDescription>
         <submit_button>Envoyer</submit_button>
 
         <!-- My Account / Upload - Video Upload Page -->
-        <upload_video_header>Télécharger une vidéo</upload_video_header>
-        <upload_video_text>Veuillez choisir une vidéo à partir de votre disque dur. Veuillez vous assurer que la vidéo ne viole aucun droit d’auteurs. Nous nous réservons le droit de supprimer n’importe quelle vidéo à tout moment et pour n’importe quelle raison.</upload_video_text>
+        <upload_video_header>Envoyer une vidéo</upload_video_header>
+        <upload_video_text>Veuillez choisir une vidéo à partir de votre disque dur. Assurez-vous que la vidéo ne viole aucun droit d’auteurs. Nous nous réservons le droit de supprimer n’importe quelle vidéo à tout moment et pour n’importe quelle raison.</upload_video_text>
         <filesize_limit>La taille maximale du fichier est de</filesize_limit>
-	<cancel>Annuler</cancel>
+		<cancel>Annuler</cancel>
         <upload_video_button>Télécharger une vidéo</upload_video_button>
 
         <!-- My Account / Upload - Complete Page -->
         <upload_complete_header>Téléchargement terminé !</upload_complete_header>
-        <upload_complete_text>Votre vidéo a été téléchargée avec succès! Veuillez patienter quelques minutes avant que la vidéo ne soit disponible sur {SITENAME} et {SITENAME} Mobile.</upload_complete_text>
+        <upload_complete_text>Votre vidéo a été téléchargée avec succès! Patientez quelques minutes avant que la vidéo ne soit disponible sur {SITENAME} et {SITENAME} Mobile.</upload_complete_text>
 
 
 
 
         <!-- Form Messages -->
         <error_general>Une erreur s’est produite. Veuillez réessayer.</error_general>
-        <errors_below>Des erreurs ont été rencontrées. Veuillez corriger les erreurs ci-dessous et réessayer.</errors_below>
-        <error_invalid_login>Identifiant Invalide! Veuillez vérifier si vous avez tapé correctement votre identifiant et votre mot de passe et essayez à nouveau.</error_invalid_login>
+        <errors_below>Des erreurs ont été trouvées. Veuillez corriger les erreurs ci-dessous et réessayer.</errors_below>
+        <error_invalid_login>Identifiant incorrect! Veuillez vérifier que vous avez saisi correctement votre identifiant et votre mot de passe et essayez à nouveau.</error_invalid_login>
         <error_no_users_email>Aucun utilisateur n’a été trouvé avec cette adresse email! Veuillez réessayer.</error_no_users_email>
 
-        <confirm_delete_playlist>La playlist sera supprimé. Voulez-vous la supprimer ?</confirm_delete_playlist>
-        <confirm_remove_playlist_video>La vidéo sera supprimé de votre playlist. Voulez-vous la supprimer ?</confirm_remove_playlist_video>
-        <confirm_delete_video>Cette vidéo sera supprimée définitivement. Vous ne pourrez pas revenir sur votre action. Etes-vous sûr de vouloir continuer?</confirm_delete_video>
-        <confirm_reset_avatar>Votre avatar actuel sera effacé définitivement. Vous ne pourrez pas revenir sur votre action. Etes-vous sûr de vouloir continuer?</confirm_reset_avatar>
-	<confirm_purge_messages>Le message sélectionné sera supprimé définitivement. Voulez-vous le supprimer ?</confirm_purge_messages>
-	<confirm_delete_attachments>Le fichier sélectionné sera supprimé définitivement et ne sera plus attaché à aucune vidéo. Voulez-vous le supprimer ?</confirm_delete_attachments>
-        <confirm_delete_message>Le message sera supprimé définitivement. Voulez-vous le supprimer ?</confirm_delete_message>
+        <confirm_delete_playlist>La playlist sera supprimé. Voulez-vous poursuivre ?</confirm_delete_playlist>
+        <confirm_remove_playlist_video>La vidéo sera supprimé de votre playlist. Voulez-vous poursuivre ?</confirm_remove_playlist_video>
+        <confirm_delete_video>Cette vidéo sera supprimée définitivement. Vous ne pourrez pas revenir sur votre action. Etes-vous sûr de vouloir continuer ?</confirm_delete_video>
+        <confirm_reset_avatar>Votre avatar actuel sera effacé définitivement. Vous ne pourrez pas revenir sur votre action. Etes-vous sûr de vouloir continuer ?</confirm_reset_avatar>
+		<confirm_purge_messages>Le message sélectionné sera supprimé définitivement. Voulez-vous poursuivre ?</confirm_purge_messages>
+		<confirm_delete_attachments>Le fichier sélectionné sera supprimé définitivement et ne sera plus attaché à aucune vidéo. Voulez-vous poursuivre ?</confirm_delete_attachments>
+        <confirm_delete_message>Le message sera supprimé définitivement. Voulez-vous poursuivre ?</confirm_delete_message>
 
         <error_username>Identifiant invalide</error_username>
         <error_username_unavailable>Identifiant indisponible</error_username_unavailable>
-        <error_password>Mot de passe invalide</error_password>
+        <error_password>Mot de passe incorrect</error_password>
         <error_password_match>Vos mots de passe ne sont pas identiques.</error_password_match>
         <error_password_confirm>Confirmation de mot de passe invalide</error_password_confirm>
         <error_security_text>Captcha invalide</error_security_text>
         <error_email>Vous devez entrer une adresse email valide.</error_email>
-        <error_email_unavailable>Adresse email invalide</error_email_unavailable>
+        <error_email_unavailable>Adresse email déjà utilisée</error_email_unavailable>
         <error_recipient>Identifiant du destinataire invalide</error_recipient>
         <error_website_invalid>Site Web invalide</error_website_invalid>
-        <error_recipient_exist>Aucun membre n’existe sous cet identifiant.</error_recipient_exist>
-        <error_recipient_self>Vous ne pouvez pas vous envoyez vous-même un message.</error_recipient_self>
-        <error_subject>Objet invalide</error_subject>
-        <error_message>Message invalide</error_message>
-	<error_video_upload>Téléchargement de la vidéo invalide</error_video_upload>
-        <error_title>Titre invalide</error_title>
-        <error_description>Description invalide</error_description>
-        <error_tags>Etiquettes invalides</error_tags>
+        <error_recipient_exist>Aucun membre n’existe avec cet identifiant.</error_recipient_exist>
+        <error_recipient_self>Vous ne pouvez pas vous envoyez un message.</error_recipient_self>
+        <error_subject>Sujet incorrect</error_subject>
+        <error_message>Message incorect</error_message>
+		<error_video_upload>Téléchargement de la vidéo impossible</error_video_upload>
+        <error_title>Titre incorrect</error_title>
+        <error_description>Description incorrecte</error_description>
+        <error_tags>Etiquette invalide</error_tags>
         <error_category>Catégorie invalide</error_category>
-	<error_attachment>Pièce jointe invalide</error_attachment>
-        <error_attachment_file>Téléchargement de la pièce jointe invalide</error_attachment_file>
+		<error_attachment>Pièce jointe invalide</error_attachment>
+        <error_attachment_file>Téléchargement de la pièce jointe impossible</error_attachment_file>
         <error_attachment_duplicate>Le fichier est déjà attaché</error_attachment_duplicate>
         <error_attachment_upload><![CDATA[
   	    Impossible de télécharger la pièce jointe de la vidéo. Merci de réessayer plus tard. Si ce problème persite, veuillez  <a href="{HOST}/contact/">nous contacter</a> pour plus d'assistance.
-	]]></error_attachment_upload>
+		]]></error_attachment_upload>
         <error_name>Nom invalide</error_name>
-	<error_comment_login>Vous devez vous connecter pour commenter.</error_comment_login>
+		<error_comment_login>Vous devez vous connecter pour poster des commentaires.</error_comment_login>
         <error_comment>Commentaire invalide</error_comment>
-        <error_private_url>URL privée invalide</error_private_url>
+        <error_private_url>URL invalide</error_private_url>
         <error_status_update>Mise à jour du statut invalide</error_status_update>
-        <error_flag_login>Vous devez vous connecter pour signaler tout contenu inapproprié.</error_flag_login>
+        <error_flag_login>Vous devez vous connecter pour signaler un contenu inapproprié.</error_flag_login>
         <error_flag_own>Vous ne pouvez pas signaler votre propre contenu.</error_flag_own>
-        <error_flag_duplicate>Vous avez déjà signalé ce contenu. Merci de votre assistance.</error_flag_duplicate>
+        <error_flag_duplicate>Vous avez déjà signalé ce contenu. Merci de votre aide.</error_flag_duplicate>
         <error_favorite_own>Vous ne pouvez pas ajouter vos propres vidéos à vos vidéos préférées.</error_favorite_own>
        	<error_playlist_duplicate>Cette vidéo est déjà dans cette playlist.</error_playlist_duplicate>
-	<error_playlist_video_not_found>Cette vidéo n'existe pas dans cette playlist.</error_playlist_video_not_found>
-	<error_playlist_name>Nom de playlist invalide</error_playlist_name>
-        <error_subscribe_login>Vous devez être connecté pour pouvoir vous abonner à des membres.</error_subscribe_login>
+		<error_playlist_video_not_found>Cette vidéo ne figure pas dans cette playlist.</error_playlist_video_not_found>
+		<error_playlist_name>Nom de playlist invalide</error_playlist_name>
+        <error_subscribe_login>Vous devez être connecté pour pouvoir vous abonner aux membres.</error_subscribe_login>
         <error_subscribe_own>Vous ne pouvez pas vous abonner à vous-même.</error_subscribe_own>
         <error_subscribe_duplicate>Vous êtes déjà abonné à ce membre.</error_subscribe_duplicate>
         <error_subscribe_noexist>Vous n’êtes pas abonné à ce membre.</error_subscribe_noexist>
-        <error_rate_login>Vous devez être connecté pour pouvoir noter ces vidéos.</error_rate_login>
+        <error_rate_login>Vous devez être connecté pour pouvoir noter des vidéos.</error_rate_login>
         <error_rate_own>Vous ne pouvez pas noter vos propres vidéos.</error_rate_own>
         <error_rate_duplicate>Vous avez déjà noté cette vidéo.</error_rate_duplicate>
 
 
-        <error_upload_filesize>Votre fichier a dépassé la taille limite de fichier. Veuillez réessayer</error_upload_filesize>
+        <error_upload_filesize>Votre fichier a dépassé la taille limite. Veuillez réessayer</error_upload_filesize>
         <error_upload_system><![CDATA[
-        Des erreurs ont été rencontrées lors du traitement de votre dossier. Il ne peut donc pas être téléchargé en ce moment.
-        Nous nous excusons pour cet inconvénient. Notre équipe de soutien a été notifiée et fera son enquête sur la source de l’erreur et fixera ce problème aussitôt.
-        Si ce problème persiste, veuillez <a href="{HOST}/contact/">nous contacter</a> pour plus d’assistance.
+        Des erreurs ont été rencontrées lors du traitement de votre fichier. Il ne peut donc pas être téléchargé pour le moment.
+        Nous nous excusons pour ce désagrément. Notre équipe de soutien a été notifiée et va enquêter sur la source de l’erreur et fixera ce problème dès que possible.
+        Si ce problème persiste, veuillez <a href="{HOST}/contact/">nous contacter</a>.
         ]]></error_upload_system>
-        <error_upload_extension>Votre fichier n’est pas sous un des formats acceptés. Veuillez réessayer.</error_upload_extension>
+        <error_upload_extension>Votre fichier ne figure pas dans l'un des formats acceptés. Veuillez réessayer.</error_upload_extension>
         <error_upload_empty>Aucun fichier n’a été téléchargé. Veuillez réessayer.</error_upload_empty>
-	<error_avatar_reset>Nous ne pouvons pas réinitialiser votre avatar. Merci de réessayer plus tard.</error_avatar_reset>
+		<error_avatar_reset>Nous ne pouvons pas réinitialiser votre avatar. Merci de réessayer plus tard.</error_avatar_reset>
         <error_generic>Nous n'avons pas pu compléter votre demande. Veuillez réessayer plus tard. Si vous continuez à rencontrer des problèmes en utilisant cette fonctionnalité, s'il vous plaît <a href="{HOST}/contact/">contactez-nous</a> pour plus d'assistance.</error_generic>
 
-	<success_logout>Vous avez été déconnecté avec succès.</success_logout>
+		<success_logout>Vous avez été déconnecté avec succès.</success_logout>
         <success_avatar_reset>Votre avatar a été réinitialisé.</success_avatar_reset>
         <success_avatar_updated>Votre avatar a été mis à jour.</success_avatar_updated>
         <success_rated>La note de la vidéo a été envoyée.</success_rated>
-        <success_unsubscribed>Vous avez été désinscrit de {USERNAME}.</success_unsubscribed>
+        <success_unsubscribed>Vous avez été désaboné de {USERNAME}.</success_unsubscribed>
         <success_subscribed>Vous êtes désormais abonné à {USERNAME}.</success_subscribed>
         <success_flag>Merci de nous l’avoir signalé. Nous examinerons cela immédiatement.</success_flag>
-        <success_status_updated>Votre mise à jour de statut a été postée.</success_status_updated>
+        <success_status_updated>Votre statut a été mis à jour.</success_status_updated>
         <success_comment_posted>Votre commentaire a été posté.</success_comment_posted>
         <success_comment_approve>Votre commentaire a été envoyé à notre équipe pour approbation.</success_comment_approve>
-        <success_contact_sent>Merci! Votre message a été envoyé, nous vous contacterons très bientôt.</success_contact_sent>
-        <success_registered>Merci! Vous avez créé votre compte avec succès. Veuillez vérifier votre courriel pour activer votre compte. Si votre email d’activation n’apparait pas dans votre Boite de Réception, veuillez vérifier dans le fichier Spam.</success_registered>
+        <success_contact_sent>Merci ! Votre message a été envoyé, nous vous contacterons très bientôt.</success_contact_sent>
+        <success_registered>Merci ! Vous avez créé votre compte avec succès. Veuillez vérifier votre courriel pour activer votre compte. Si votre email d’activation n’apparait pas dans votre Boite de Réception, veuillez vérifier dans le fichier Spam.</success_registered>
         <success_login_sent>Nous vous avons envoyé vos informations de connexion. Veuillez vérifier votre courriel.</success_login_sent>
-	<success_video_upload>Votre vidéo a été téléchargée avec succès. Merci de patienter quelques minutes avant qu'elle soit disponible.</success_video_upload>
-        <success_video_updated>Cette vidéo a été mise à jour.</success_video_updated>
-        <success_video_deleted>Cette vidéo a été supprimée.</success_video_deleted>
-	<success_playlist_added>La vidéo a été ajoutée à la playlist {LIST_NAME}.</success_playlist_added>
-        <success_playlist_added_short>La vidéo a été ajoutée</success_playlist_added_short>
+		<success_video_upload>Votre vidéo a été téléchargée avec succès. Merci de patienter quelques minutes avant qu'elle soit disponible.</success_video_upload>
+        <success_video_updated>La vidéo a été mise à jour.</success_video_updated>
+        <success_video_deleted>La vidéo a été supprimée.</success_video_deleted>
+		<success_playlist_added>La vidéo a été ajoutée à la playlist {LIST_NAME}.</success_playlist_added>
+        <success_playlist_added_short>Vidéo ajoutée</success_playlist_added_short>
         <success_playlist_created>La playlist a été créée.</success_playlist_created>
         <success_playlist_updated>La playlist a été mise à jour.</success_playlist_updated>
         <success_playlist_video_removed>La vidéo a été supprimée de la playlist {LIST_NAME}.</success_playlist_video_removed>
-        <success_playlist_video_removed_short>La vidéo a été supprimée</success_playlist_video_removed_short>
+        <success_playlist_video_removed_short>Vidéo supprimée</success_playlist_video_removed_short>
         <success_playlist_deleted>La playlis a été supprimée.</success_playlist_deleted>
         <success_profile_updated>Votre profil a été mis à jour avec succès.</success_profile_updated>
         <success_privacy_updated>Vos paramètres de confidentialité ont été mis à jour.</success_privacy_updated>
         <success_password_updated>Votre mot de passe a été mis à jour.</success_password_updated>
-        <success_messages_purged>Ces messages ont été supprimés avec succès!</success_messages_purged>
-	<success_message_deleted>Ce message a été supprimé.</success_message_deleted>
+        <success_messages_purged>Messages supprimés avec succès!</success_messages_purged>
+		<success_message_deleted>Le message a été supprimé.</success_message_deleted>
         <success_message_sent>Votre message a été expédié.</success_message_sent>
-	<success_attachments_deleted>Les pièces jointes ont été supprimées.</success_attachments_deleted>
+		<success_attachments_deleted>Les pièces jointes ont été supprimées.</success_attachments_deleted>
 
         <!-- Page Meta Tags -->
         <meta.index.title>CumulusClips – CMS de partage vidéo gratuit, Script de partage vidéo gratuit, Logiciel de partage vidéo Gratuit, Clone du script YouTube.</meta.index.title>
@@ -610,4 +610,3 @@
     </terms>
 
 </language>
-
