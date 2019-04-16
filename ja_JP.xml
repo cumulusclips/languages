@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+    <information>
+        <lang_name>Japanese</lang_name>
+        <native_name>Japanese</native_name>
+        <locale>ja_JP</locale>
+        <author>Shouta Shitamichi</author>
+        <sample>TGU</sample>
+        <version>2.4</version>
+        <update>http://mothership.cumulusclips.org/updates/languages/en_US/</update>
+        <notes></notes>
+    </information>
+    <terms>
+        <search_text>動画検索</search_text>
+        <login>ログイン</login>
+        <register>アカウント作成(無料)</register>
+        <logout>ログアウト</logout>
+        <account>アカウント</account>
+        <view_my_profile>自分のプロフィール</view_my_profile>
+        <admin_panel>管理者画面</admin_panel>
+        <videos>ビデオ</videos>
+        <members>メンバー</members>
+        <upload>アップロード</upload>
+        <previous>プレビュー</previous>
+        <next>次へ</next>
+        <yes>はい</yes>
+        <no>いいえ</no>
+        <quick_links>クイックリンク</quick_links>
+        <upload_supported_formats>対応しているフォーマット</upload_supported_formats>
+        <video_feed>ビデオフィード</video_feed>
+        <contact>お問い合わせ</contact>
+        <sitemap>サイトマップ</sitemap>
+        <invalid_session>期限切れまたは無効なセッション</invalid_session>
+
+        <!-- Mobile -->
+        <mobile_heading>{SITENAME} 携帯</mobile_heading>
+        <home>ホーム</home>
+        <back>戻る</back>
+        <duration>期間</duration>
+        <load_more>もっと読み込む</load_more>
+        <loading>読み込み中</loading>
+        <featured>注目</featured>
+        <featured_videos>注目のビデオ</featured_videos>
+        <recent_videos>最近の動画</recent_videos>
+        <search>検索</search>
+        <standard_site>PCサイト</standard_site>
+        <device_not_supported>お使いのデバイスはビデオ再生に対応していません</device_not_supported>
+        <close>閉じる</close>
+        <menu>メニュー</menu>
+        <choose_language>言語を選択</choose_language>
+        <suggestions>提案</suggestions>
+        <upload_button>アップロード</upload_button>
+        <post_video_button>動画を投稿する</post_video_button>
+        <mobile_upload_header>動画をアップロードする</mobile_upload_header>
+
+        <!-- Home Page -->
+        <home_header>管理者からのお知らせ</home_header>
+        <advertisement>広告</advertisement>
+        <account_login>ログイン</account_login>
+        <username>ユーザー名</username>
+        <password>パスワード</password>
+        <no_account>アカウントを持っていない方はこちら</no_account>
+        <forgot_your_login>パスワードを忘れた</forgot_your_login>
+        <login_button>ログイン</login_button>
+
+        <!-- Login Page -->
+        <login_header>ログイン画面</login_header>
+        <session_expired>タイムアウトしました。もう一度ログインしてください。</session_expired>
+        <remember_me>思い出す</remember_me>
+        <forgot_text>あなたの電子メールアドレスを入力してください。運営であなたのパスワードをリセットします。</forgot_text>
+        <email>E-mail</email>
+        <forgot_header>パスワードをリセット</forgot_header>
+        <forgot_button>送信</forgot_button>
+
+        <!-- Register Page -->
+        <register_header>アカウント作成</register_header>
+        <register_text><![CDATA[
+            <p><strong> 今日から{SITENAME}の一員だ! </strong><br><br>
+           メンバーとして、ビデオのアップロード、コメントの投稿、ビデオの評価と共有、メンバーの登録などが可能です！</p>
+        ]]></register_text>
+        <asterisk>この (*) マークがある項目は必須項目です</asterisk>
+        <username_req>ユーザー名には文字と数字のみを使用でき、スペースや特殊文字は使用できません。</username_req>
+        <confirm_password>確認(もう一度パスワードを入力)</confirm_password>
+        <register_button>アカウントを作成する</register_button>
+        <checking_availability>利用可能かチェックしている</checking_availability>
+        <username_minimum>少なくとも4文字は必要です。</username_minimum>
+        <username_available>ユーザー名は利用可能です！</username_available>
+
+        <!-- Contact Page -->
+        <contact_header>お問い合わせ</contact_header>
+        <contact_text>下記のフォームに必要事項を記入して提出してください。できるだけ早くご連絡いたします。投稿件数が多いと、お問い合わせに時間がかかる場合があります。</contact_text>
+        <name>名前</name>
+        <message>メッセージ</message>
+        <contact_us>お問い合わせ</contact_us>
+        <contact_button>送信</contact_button>
+
+        <!-- Browse Videos Page -->
+        <browse_header>動画一覧</browse_header>
+        <viewing>閲覧</viewing>
+        <sorting>並べ替え</sorting>
+        <most_recent>投稿が新しい順</most_recent>
+        <most_viewed>再生回数が多い順</most_viewed>
+        <most_discussed>コメントが多い順</most_discussed>
+        <most_rated>評価が多い順</most_rated>
+        <no_videos>ビデオはまだ追加されていません。</no_videos>
+        <by>投稿者</by>
+
+        <!-- Browse Members Page -->
+        <members_header>メンバー一覧</members_header>
+        <no_members>登録されたメンバーはまだいません。</no_members>
+        <joined>登録した日</joined>
+        <videos_uploaded>アップロードされた動画</videos_uploaded>
+
+        <!-- Member Profile Page -->
+        <subscribe>登録</subscribe>
+        <unsubscribe>登録解除</unsubscribe>
+        <send_message>メッセージを送る</send_message>
+        <report_abuse>運営に報告する</report_abuse>
+        <member_rss>メンバーのRSSフィード</member_rss>
+        <profile_views>プロフィールの閲覧数</profile_views>
+        <subscribers>登録者</subscribers>
+        <website>ウェブサイト</website>
+        <view_all_videos>すべての動画を見る</view_all_videos>
+        <no_member_videos>メンバーは現在動画がありません。</no_member_videos>
+        <no_member_playlists>このメンバーにプレイリストはありません。</no_member_playlists>
+        <watch_all>すべてを見る</watch_all>
+
+        <!-- Member Videos Page -->
+        <videos_by>動画</videos_by>
+        <go_to_profile>プロフィールはこちら</go_to_profile>
+
+        <!-- Watch Video Page -->
+        <like>高評価</like>
+        <dislike>低評価</dislike>
+        <about>概要欄</about>
+        <attachments>添付ファイル</attachments>
+        <share>共有</share>
+        <embed>埋め込み</embed>
+        <embed_text>このコードをコピーしてあなたのウェブサイトやブログに貼り付けてください。</embed_text>
+        <add>追加</add>
+        <add_to>追加</add_to>
+        <favorite>お気に入り</favorite>
+        <favorites>お気に入り</favorites>
+        <watch_later>後で見る</watch_later>
+        <playlists>プレイリスト</playlists>
+        <playlist_login><![CDATA[You must <a href="{URL}">ログイン</a> あなたのプレイリストに動画を追加する。]]></playlist_login>
+        <create_new_playlist>プレイリストを作成</create_new_playlist>
+        <playlist_name>プレイリストの名前</playlist_name>
+        <visibility>公開範囲</visibility>
+        <public>公開</public>
+        <create_playlist_button>作成</create_playlist_button>
+        <flag>フラグ</flag>
+        <date_uploaded>アップロードされた日付</date_uploaded>
+        <comments_header>コメント</comments_header>
+        <view_all_comments>すべてのコメントを見る</view_all_comments>
+        <comments_total>コメント総数</comments_total>
+        <no_comments>この動画にコメントはまだ投稿されていません。</no_comments>
+        <posted>投稿者</posted>
+        <date_posted>投稿された日付</date_posted>
+        <comments_post_header>コメントを投稿</comments_post_header>
+        <optional>オプション</optional>
+        <comments>コメント</comments>
+        <reply_to>に返信</reply_to>
+        <comments_closed>この動画のコメントは終了しました。</comments_closed>
+        <comments_login_register><![CDATA[
+            <a class="login-link" href="{LOGIN_LINK}">ログイン</a> or <a class="register-link" href="{REGISTER_LINK}">アカウント作成</a> をしてコメントを投稿する。
+        ]]></comments_login_register>
+        <comments_login><![CDATA[
+            <a class="login-link" href="{LOGIN_LINK}">ログイン</a> をしてコメントを投稿する。
+        ]]></comments_login>
+        <comments_button>投稿</comments_button>
+        <suggestions_header>オススメ動画</suggestions_header>
+        <no_suggestions>オススメできる動画はありませんでした</no_suggestions>
+        <views>閲覧</views>
+        <gated_video>この動画を見るにはアカウントにログインする必要があります</gated_video>
+        <video_unavailable>動画を利用できません</video_unavailable>
+        <embed_disabled><![CDATA[
+            この動画の埋め込みは無効です。<a target="_top" href="{LINK}">{SITENAME}</a>.
+        ]]></embed_disabled>
+        <no_playback>動画再生機能がありません</no_playback>
+
+        <!-- Search Page -->
+        <search_header>検索結果</search_header>
+        <results_for>の結果</results_for>
+        <no_results>結果が見つかりませんでした。</no_results>
+
+        <!-- Opt-Out Page -->
+        <opt_out_header>退会</opt_out_header>
+	 <opt_out_text><![CDATA[
+	あなたのメールアドレスはすべてのメーリングリストから削除されました。
+        メールの設定を変更したい場合は、
+        <a href="{LINK}">プライバシー設定</a> あなたのアカウントのセクション
+        ]]></opt_out_text>
+
+        <!-- Activate Account Page -->
+        <activate_header>アカウントを有効にする</activate_header>
+        <activate_success>ありがとうございます！あなたのアカウントは現在有効です。<![CDATA[
+        <a href="{HOST}/account/">自分のアカウントへ移動します</a>
+        ]]></activate_success>
+        <activate_approve>ありがとうございます！あなたのアカウントは現在有効ですが、ログインする前に運営が承認する必要があります。完了しましたらご連絡いたします。</activate_approve>
+        <activate_error><![CDATA[
+        無効なコード！コードを正しく入力したことを確認してください。
+        あなたのアカウントはすでにアクティブになっている可能性があります。あなたのログインを忘れた場合、
+        <a href="{HOST}/login/forgot/">ここをクリック</a> してください。
+        ]]></activate_error>
+
+        <!-- 404 Page -->
+        <system_404_header>404 - Page Not Found</system_404_header>
+        <system_404_sub_header>Oops!</system_404_sub_header>
+        <system_404_text>The Page you're looking for either doesn't exist or was moved to another location.</system_404_text>
+
+        <!-- System Error Page -->
+        <system_error_header>システムエラー</system_error_header>
+        <system_error_text>システムエラーのために続行できません。ご不便をおかけして申し訳ございません。</system_error_text>
+
+        <!-- My Account / Home Page -->
+        <account_header>ようこそ</account_header>
+        <last_login>最終ログイン</last_login>
+        <edit_avatar>アバター変更</edit_avatar>
+        <new_messages>新しい未読メッセージがあります。</new_messages>
+        <account_menu_header>アカウントメニュー</account_menu_header>
+        <manage_media>メディア管理</manage_media>
+        <upload_video>動画のアップロード</upload_video>
+        <my_videos>投稿した動画</my_videos>
+        <account_menu_attachments>アタッチメント</account_menu_attachments>
+        <my_playlists>プレイリスト</my_playlists>
+        <account_settings>アカウント設定</account_settings>
+        <update_profile>プロフィールの変更</update_profile>
+        <privacy_settings>プライバシー設定</privacy_settings>
+        <change_password>パスワード変更</change_password>
+        <community>コミュニティ</community>
+        <my_subscriptions>登録メンバー</my_subscriptions>
+        <my_subscribers>自分を登録しているメンバー</my_subscribers>
+        <inbox>メッセージ箱</inbox>
+
+        <!-- My Account / Update Video Page -->
+        <update_video_header>編集</update_video_header>
+        <update_video_button>更新</update_video_button>
+        <back_to_videos>戻る</back_to_videos>
+
+        <!-- My Account / My Videos Page -->
+        <my_videos_header>投稿した動画</my_videos_header>
+        <no_user_videos>あなたはまだビデオをアップロードしていません。</no_user_videos>
+        <edit_video>編集</edit_video>
+        <delete_video>削除</delete_video>
+        <pending_conversion>保留中</pending_conversion>
+        <processing>処理中</processing>
+        <pending_approval>承認待ち</pending_approval>
+
+        <!-- Account / Attachments Page -->
+        <attachments_header>アタッチメント</attachments_header>
+        <filesize>ファイルサイズ</filesize>
+        <delete_attachments_button>アタッチメントの削除</delete_attachments_button>
+        <no_attachments>動画のアタッチメントはまだ追加されていません</no_attachments>
+
+        <!-- My Account / Playlists Page -->
+        <playlists_header>プレイリスト</playlists_header>
+        <delete_playlist>プレイリストの削除</delete_playlist>
+        <edit_playlist>プレイリストの編集</edit_playlist>
+        <no_playlists>まだプレイリストを作成していません。</no_playlists>
+
+        <!-- My Account / Playlist Edit Page -->
+        <playlists_edit_header>プレイリストの編集</playlists_edit_header>
+        <back_to_playlists>戻る</back_to_playlists>
+        <update_playlist_header>再生リストの詳細を更新する</update_playlist_header>
+        <update_playlist_button>プレイリストの更新</update_playlist_button>
+        <playlist_videos>プレイリストの動画</playlist_videos>
+        <no_videos_playlist>プレイリストにはまだ動画がありません</no_videos_playlist>
+        <remove_playlist_video>プレイリストから削除</remove_playlist_video>
+
+        <!-- My Account / Edit Profile Page -->
+        <profile_header>プロフィールの編集</profile_header>
+        <personal_header>アカウント情報の編集</personal_header>
+        <first_name>名字</first_name>
+        <last_name>名前</last_name>
+        <about_me>自己紹介</about_me>
+        <profile_button>更新</profile_button>
+        <update_avatar_header>アバターの変更</update_avatar_header>
+        <update_avatar_text><![CDATA[
+            <p>あなたのアバターはあなたのビデオ、コメント、および他のコンテンツと共に表示されます。</p>
+            <p>新しいアバターをアップロードすると、現在のアバターが上書きされます。</p>
+            <p>イメージ（jpeg、gif、png）を選択します。最大ファイルサイズは30Kです。</p>
+        ]]></update_avatar_text>
+        <current_avatar>現在のアバター</current_avatar>
+        <reset_avatar>アバターをリセットする</reset_avatar>
+        <browse_files_button>追加</browse_files_button>
+        <update_avatar_button>更新</update_avatar_button>
+
+        <!-- My Account / Privacy Settings Page -->
+        <privacy_settings_header>プライバシー設定</privacy_settings_header>
+        <alert_comment>自分の動画にコメントがついたとき、メールで通知する</alert_comment>
+        <alert_video>新しい動画を投稿したとき、自分を登録しているメンバーにメールで通知する</alert_video>
+        <alert_message>メッセージが送られてきたとき、メールで通知する</alert_message>
+        <alert_video_ready>アップロードされた動画が処理されて利用可能になったときにメールで通知する</alert_video_ready>
+        <alert_comment_reply>私のコメントに返信が来たときメールで通知する</alert_comment_reply>
+        <privacy_settings_button>更新</privacy_settings_button>
+
+        <!-- My Account / Change Password Page -->
+        <change_password_header>パスワードの変更</change_password_header>
+        <change_password_text>パスワードの長さは6〜10文字で、小文字、数字、および特殊文字。</change_password_text>
+        <new_password>新しいパスワード</new_password>
+        <change_password_button>更新</change_password_button>
+
+        <!-- My Account / View My Subscriptions Page -->
+        <subscriptions_header>登録メンバー</subscriptions_header>
+        <confirm_subscription>このメンバーの登録を解除します。続行しますか？</confirm_subscription>
+        <no_subscriptions>登録したメンバーはいません。</no_subscriptions>
+
+        <!-- My Account / View My Subscribers Page -->
+        <subscribers_header>自分を登録しているメンバー</subscribers_header>
+        <no_subscribers>誰もあなたを登録していません。</no_subscribers>
+
+        <!-- My Account / Message Inbox Page -->
+        <message_inbox_header>メッセージ箱</message_inbox_header>
+        <purge>削除</purge>
+        <message_status>状態</message_status>
+        <read>既読</read>
+        <unread>未読</unread>
+        <subject>件名</subject>
+        <sender>送信者</sender>
+        <date>日付</date>
+        <purge_button>削除</purge_button>
+        <no_messages>メッセージがありません</no_messages>
+
+        <!-- My Account / Read Message Page -->
+        <message_read_header>メッセージを読む</message_read_header>
+        <return_inbox>戻る</return_inbox>
+        <reply>返信</reply>
+        <delete>削除</delete>
+
+        <!-- My Account / Send Message Page -->
+        <message_send_header>メッセージを送る</message_send_header>
+        <to>宛先</to>
+        <members_username>メンバーのユーザ名</members_username>
+        <message_send_button>送信</message_send_button>
+
+        <!-- My Account / Upload Video - Video Information Page -->
+        <upload_header>動画のアップロード(動画の詳細)</upload_header>
+        <video_basic_tab>基本情報</video_basic_tab>
+        <video_attachments_tab>アタッチメント</video_attachments_tab>
+        <video_advanced_tab>高度な設定</video_advanced_tab>
+        <video_basic_tab_header>基本情報</video_basic_tab_header>
+        <video_attachments_tab_header>アタッチメント</video_attachments_tab_header>
+        <video_advanced_tab_header>高度な設定</video_advanced_tab_header>
+        <upload_new_attachment>新しいアタッチメントのアップロード</upload_new_attachment>
+        <upload_new_attachment_header>新しいアタッチメントのアップロード</upload_new_attachment_header>
+        <select_existing_attachment>既存のアタッチメントから選択する</select_existing_attachment>
+        <select_existing_attachment_header>既存のアタッチメントを選択</select_existing_attachment_header>
+        <select_existing_attachment_help>下記の既存のアタッチメントからファイルを選択してください：</select_existing_attachment_help>
+
+
+        <title>タイトル</title>
+        <description>説明</description>
+        <tags>タグ</tags>
+        <comma_delimited>コンマ区切り</comma_delimited>
+        <category>カテゴリー</category>
+        <disable_embed>埋め込みを無効にする</disable_embed>
+        <disable_embed_description>サードパーティのサイトに動画を埋め込むことはできません</disable_embed_description>
+        <gated>ゲート</gated>
+        <gated_description>ビデオは、ログインしているメンバーだけが見ることができます</gated_description>
+        <private>プライベート</private>
+        <private_description>動画は、自分とURLを知っている人だけが見ることができます</private_description>
+        <private_url>プライベートURL</private_url>
+        <regenerate>再生成する</regenerate>
+        <closeComments>コメントを閉じる</closeComments>
+        <closeCommentsDescription>ビデオにコメントを投稿できるようにする</closeCommentsDescription>
+        <submit_button>提出</submit_button>
+
+        <!-- My Account / Upload - Video Upload Page -->
+        <upload_video_header>動画のアップロード</upload_video_header>
+        <upload_video_text>ビデオを選択します。動画が著作権に違反していないことを確認してください。当社は何らかの理由により、いつでも動画を削除する権利を有します。</upload_video_text>
+        <filesize_limit>ファイルサイズの制限は</filesize_limit>
+        <cancel>キャンセル</cancel>
+        <upload_video_button>アップロード</upload_video_button>
+
+        <!-- My Account / Upload - Complete Page -->
+        <upload_complete_header>動画が投稿されました</upload_complete_header>
+        <upload_complete_text> 動画が正常にアップロードされました。利用可能になるまでに数分間処理してください　{SITENAME} と {SITENAME} Mobile.</upload_complete_text>
+
+
+
+
+        <!-- Form Messages -->
+        <error_general>エラーが見つかりました。もう一度お試しください。</error_general>
+        <errors_below>エラーが見つかりました。以下のエラーを修正して、もう一度お試しください。</errors_below>
+        <error_invalid_login>不正なログイン！ユーザー名とパスワードを正しく入力してから、もう一度やり直してください。</error_invalid_login>
+        <error_no_users_email>そのメールでユーザーが見つかりませんでした。もう一度お試しください。</error_no_users_email>
+
+        <confirm_delete_playlist>プレイリストが削除されます。続行しますか？</confirm_delete_playlist>
+        <confirm_remove_playlist_video>動画はプレイリストから削除されます。続行しますか？</confirm_remove_playlist_video>
+        <confirm_delete_video>ビデオは完全に削除されます。これは、元に戻すことはできません。続行しますか？</confirm_delete_video>
+        <confirm_reset_avatar>あなたの現在の削除されます。元に戻すことはできません。続行しますか？</confirm_reset_avatar>
+        <confirm_purge_messages>選択したメッセージは完全に削除されます。続行しますか？</confirm_purge_messages>
+        <confirm_delete_attachments>選択したファイルは完全に削除され、ビデオには適応されなくなります。続行しますか？</confirm_delete_attachments>
+        <confirm_delete_message>メッセージは完全に削除されます。続行しますか？</confirm_delete_message>
+
+        <error_username>無効なユーザー名</error_username>
+        <error_username_unavailable>ユーザー名は使用できません</error_username_unavailable>
+        <error_password>無効なユーザー名</error_password>
+        <error_password_match>パスワードが一致しません</error_password_match>
+        <error_password_confirm>無効な確認パスワード</error_password_confirm>
+        <error_security_text>無効なセキュリティテキスト</error_security_text>
+        <error_email>有効なメールアドレスを入力してください</error_email>
+        <error_email_unavailable>メールアドレスは利用できません</error_email_unavailable>
+        <error_recipient>受信者のユーザー名が無効です</error_recipient>
+        <error_website_invalid>無効なウェブサイト</error_website_invalid>
+        <error_recipient_exist>そのユーザー名を持つメンバーは存在しません</error_recipient_exist>
+        <error_recipient_self>自分にメッセージを送ることはできません</error_recipient_self>
+        <error_subject>無効な件名</error_subject>
+        <error_message>無効なメッセージ</error_message>
+        <error_video_upload>動画のアップロードが無効です</error_video_upload>
+        <error_title>タイトルが無効です</error_title>
+        <error_description>説明が正しくありません</error_description>
+        <error_tags>タグが無効です</error_tags>
+        <error_category>カテゴリが無効です</error_category>
+        <error_attachment>無効な添付</error_attachment>
+        <error_attachment_file>無効な添付ファイルのアップロード</error_attachment_file>
+        <error_attachment_duplicate>ファイルは既に添付されています</error_attachment_duplicate>
+        <error_attachment_upload><![CDATA[
+            動画添付ファイルをアップロードできませんでした。後でもう一度お試しください。この機能を使用しても引き続き問題が発生する場合は、<a href="{HOST}/contact/">こちら</a> から管理者にお問い合わせください。
+        ]]></error_attachment_upload>
+        <error_name>無効な名前</error_name>
+        <error_comment_login>コメントを投稿するには、ログインする必要があります。</error_comment_login>
+        <error_comment>無効なコメント</error_comment>
+        <error_private_url>プライベートURLが無効です</error_private_url>
+        <error_status_update>ステータス更新が無効です</error_status_update>
+        <error_flag_login>不適切なコンテンツを報告するには、ログインする必要があります。</error_flag_login>
+        <error_flag_own>自分のコンテンツにフラグを立てることはできません。</error_flag_own>
+        <error_flag_duplicate>あなたはすでにこのコンテンツを報告しています。ご協力いただきありがとうございます。</error_flag_duplicate>
+        <error_favorite_own>自分の動画を自分のお気に入りに追加することはできません。</error_favorite_own>
+        <error_playlist_duplicate>動画はすでにこのプレイリストにあります。</error_playlist_duplicate>
+        <error_playlist_video_not_found>動画がプレイリストに見つかりません。</error_playlist_video_not_found>
+        <error_playlist_name>プレイリスト名が無効です</error_playlist_name>
+        <error_subscribe_login>メンバーに加入するには、ログインする必要があります。</error_subscribe_login>
+        <error_subscribe_own>自分自身を登録することはできません。</error_subscribe_own>
+        <error_subscribe_duplicate>あなたはすでにこのメンバーを登録しています。</error_subscribe_duplicate>
+        <error_subscribe_noexist>あなたはこのメンバーを登録していません。</error_subscribe_noexist>
+        <error_rate_login>動画を評価するにはログインする必要があります。</error_rate_login>
+        <error_rate_own>自分の動画を評価することはできません。</error_rate_own>
+        <error_rate_duplicate>あなたはすでにこの動画を評価しています。</error_rate_duplicate>
+
+
+        <error_upload_filesize>ファイルがファイルサイズの上限を超えました。もう一度お試しください。</error_upload_filesize>
+        <error_upload_system><![CDATA[
+           ファイルの処理中にエラーが発生しました。この時点ではアップロードできません。
+            この不便さをお詫び申し上げます。管理者に通知され、この問題の原因と解決方法を調査します。
+            この機能を使用しても引き続き問題が発生する場合は、 <a href="{HOST}/contact/">こちら</a> から管理者にお問い合わせください。
+        ]]></error_upload_system>
+        <error_upload_extension>あなたのファイルは、対応しているファイル形式ではありません。もう一度お試しください。</error_upload_extension>
+        <error_upload_empty>アップロードされたファイルはありません。もう一度お試しください。</error_upload_empty>
+        <error_avatar_reset>あなたのアバターをリセットできませんでした。後でもう一度お試しください。</error_avatar_reset>
+        <error_generic> あなたのリクエストを完了できませんでした。後でもう一度お試しください。この機能を使用しても引き続き問題が発生する場合は、<a href="{HOST}/contact/">こちら</a> から管理者にお問い合わせください。</error_generic>
+
+       <success_logout>あなたは正常にログアウトしました。</success_logout>
+        <success_avatar_reset>あなたのアバターがリセットされました。</success_avatar_reset>
+        <success_avatar_updated>あなたのアバターが更新されました。</success_avatar_updated>
+        <success_rated>評価がされました。</success_rated>
+        <success_unsubscribed>{USERNAME}は登録解除されました。</success_unsubscribed>
+        <success_subscribed> {USERNAME}は登録されました。</success_subscribed>
+        <success_flag>報告していただきありがとうございます。直ちに調べます。</success_flag>
+        <success_status_updated>あなたのステータス更新が投稿されました。</success_status_updated>
+        <success_comment_posted>私たちのコメントが投稿されました。</success_comment_posted>
+        <success_comment_approve>私たちのコメントは承認のために投稿されました。</success_comment_approve>
+        <success_contact_sent>ありがとうございました！ あなたのメッセージが送信されました。私たちはすぐに連絡します。</success_contact_sent>
+        <success_registered>あなたのアカウントを正常に作成しました！ メールを確認してアカウントを有効にしてください。受信トレイの電子メールアドレスと受信トレイの両方を確認してください。
+</success_registered>
+        <success_login_sent>ログイン情報をお送りしました。 メールを確認してください。</success_login_sent>
+        <success_video_upload>動画が正常にアップロードされました。 視聴可能になるまで数分間処理してください。</success_video_upload>
+        <success_video_updated>動画が更新されました。</success_video_updated>
+        <success_video_deleted>動画が削除されました。</success_video_deleted>
+        <success_playlist_added>{LIST_NAME}動画が追加されました。</success_playlist_added>
+        <success_playlist_added_short>追加された動画</success_playlist_added_short>
+        <success_playlist_created>プレイリストが作成されました。</success_playlist_created>
+        <success_playlist_updated>プレイリストが更新されました。</success_playlist_updated>
+        <success_playlist_video_removed>{LIST_NAME}動画が削除されました</success_playlist_video_removed>
+        <success_playlist_video_removed_short>動画が削除されました</success_playlist_video_removed_short>
+        <success_playlist_deleted>プレイリストが削除されました。</success_playlist_deleted>
+        <success_profile_updated>あなたのプロフィールは正常に更新されました。</success_profile_updated>
+        <success_privacy_updated>プライバシー設定が更新されました。</success_privacy_updated>
+        <success_password_updated>パスワードが更新されました。</success_password_updated>
+        <success_messages_purged>メッセージは削除されました！</success_messages_purged>
+        <success_message_deleted>メッセージは削除されました。</success_message_deleted>
+        <success_message_sent>あなたのメッセージは配信されました。</success_message_sent>
+        <success_attachments_deleted>添付ファイルが削除されました。</success_attachments_deleted>
+
+        <!-- Page Meta Tags -->
+        <meta.index.title>CumulusClips　-　無料ビデオ共有CMS、無料ビデオ共有スクリプト、無料ビデオ共有ソフトウェア、YouTubeクローンスクリプト</meta.index.title>
+        <meta.index.keywords>無料のビデオ共有CMS、無料のビデオ共有スクリプト、無料のビデオ共有ソフトウェア、YouTubeのクローンスクリプト</meta.index.keywords>
+        <meta.index.description>あなた自身のビデオ共有ウェブサイトとコミュニティを持つことができる無料のビデオ共有CMSソフトウェア</meta.index.description>
+
+        <meta.browse.title>動画閲覧：</meta.browse.title>
+        <meta.browse.keywords>動画閲覧,、閲覧、動画</meta.browse.keywords>
+        <meta.browse.description>ビデオ共有コミュニティでビデオを閲覧する</meta.browse.description>
+
+        <meta.members.title>メンバーを閲覧</meta.members.title>
+        <meta.members.keywords>メンバーを閲覧、閲覧、メンバー</meta.members.keywords>
+        <meta.members.description>登録されたメンバーを閲覧する。</meta.members.description>
+
+        <meta.profile.title>{MEMBER}'s プロフィール</meta.profile.title>
+        <meta.profile.keywords>メンバーのプロフィール、メンバー、プロフィール</meta.profile.keywords>
+        <meta.profile.description>このメンバーのメンバープロフィール。</meta.profile.description>
+
+        <meta.contact.title>お問い合わせ</meta.contact.title>
+        <meta.contact.keywords>お問い合わせ、お問い合わせ、私達にメッセージを送ります</meta.contact.keywords>
+        <meta.contact.description>私達と連絡を取ります。</meta.contact.description>
+
+        <meta.activate.title>アカウントを有効にする</meta.activate.title>
+        <meta.activate.keywords>アカウントを有効にする、アカウントを開設</meta.activate.keywords>
+        <meta.activate.description>アカウントを有効にする</meta.activate.description>
+
+        <meta.opt_out.title>すべてのメーリングリストからの受信を停止する</meta.opt_out.title>
+        <meta.opt_out.keywords>受信を停止、メール、メーリングリスト</meta.opt_out.keywords>
+        <meta.opt_out.description>すべてのメーリングリストからの受信を停止する。</meta.opt_out.description>
+
+        <meta.search.title>'{KEYWORD}'の検索結果：</meta.search.title>
+        <meta.search.keywords>検索動画、検索、動画、検索結果</meta.search.keywords>
+        <meta.search.description>タイトル、説明、または動画タグに表示される可能性の高いキーワードを使用して動画を検索します。</meta.search.description>
+
+        <meta.login.title>あなたのアカウントにログイン</meta.login.title>
+        <meta.login.keywords>ログイン、アカウント</meta.login.keywords>
+        <meta.login.description>あなたのアカウントにログイン。</meta.login.description>
+
+        <meta.register.title>アカウントにサインアップする</meta.register.title>
+        <meta.register.keywords>サインアップ、登録、アカウント</meta.register.keywords>
+        <meta.register.description>アカウントにサインアップする。</meta.register.description>
+
+        <meta.system_404.title>ページが見つかりません</meta.system_404.title>
+        <meta.system_404.keywords>ページが見つかりません、404 エラー</meta.system_404.keywords>
+        <meta.system_404.description>404 エラー、ページが見つかりません。</meta.system_404.description>
+
+        <meta.system_error.title>システムエラー</meta.system_error.title>
+        <meta.system_error.keywords>システムエラー</meta.system_error.keywords>
+        <meta.system_error.description>システムエラーが発生しました。</meta.system_error.description>
+
+        <meta.account_account.title>ようこそ　- {USERNAME}</meta.account_account.title>
+        <meta.account_account.keywords>ようこそ</meta.account_account.keywords>
+        <meta.account_account.description>ようこそ</meta.account_account.description>
+
+        <meta.account_upload_video.title>動画をアップロードする</meta.account_upload_video.title>
+        <meta.account_upload_video.keywords>動画をアップロードする</meta.account_upload_video.keywords>
+        <meta.account_upload_video.description>動画をアップロードする</meta.account_upload_video.description>
+
+        <meta.account_upload_info.title>動画をアップロードする - 動画の情報</meta.account_upload_info.title>
+        <meta.account_upload_info.keywords>動画をアップロードする、動画の情報</meta.account_upload_info.keywords>
+        <meta.account_upload_info.description>動画をアップロードする - 動画の情報。</meta.account_upload_info.description>
+
+        <meta.account_upload_complete.title>アップロード完了！</meta.account_upload_complete.title>
+        <meta.account_upload_complete.keywords>動画をアップロードする、アップロード完了</meta.account_upload_complete.keywords>
+        <meta.account_upload_complete.description>アップロード完了！</meta.account_upload_complete.description>
+
+        <meta.account_videos_edit.title>動画を編集する</meta.account_videos_edit.title>
+        <meta.account_videos_edit.keywords>動画を編集する、動画情報</meta.account_videos_edit.keywords>
+        <meta.account_videos_edit.description>動画の情報を編集します。</meta.account_videos_edit.description>
+
+        <meta.account_videos.title>投稿動画</meta.account_videos.title>
+        <meta.account_videos.keywords>投稿動画、動画</meta.account_videos.keywords>
+        <meta.account_videos.description>このメンバーによってアップロードされたすべての動画を表示します。</meta.account_videos.description>
+
+        <meta.account_attachments.title>添付ファイル</meta.account_attachments.title>
+        <meta.account_attachments.keywords>添付ファイル</meta.account_attachments.keywords>
+        <meta.account_attachments.description>このメンバーによってアップロードされたすべての添付ファイルを表示します。</meta.account_attachments.description>
+
+        <meta.account_playlists.title>プレイリスト</meta.account_playlists.title>
+        <meta.account_playlists.keywords>プレイリスト、プレイリスト</meta.account_playlists.keywords>
+        <meta.account_playlists.description>すべてのプレイリストを表示します。</meta.account_playlists.description>
+
+        <meta.account_playlists_edit.title>プレイリストを編集： {PLAYLIST_NAME}</meta.account_playlists_edit.title>
+        <meta.account_playlists_edit.keywords>プレイリストの動画、動画、プレイリスト、編集</meta.account_playlists_edit.keywords>
+        <meta.account_playlists_edit.description>プレイリストを更新し、プレイリスト内のすべての動画を表示します。</meta.account_playlists_edit.description>
+
+        <meta.account_update_profile.title>プロフィールを更新</meta.account_update_profile.title>
+        <meta.account_update_profile.keywords>プロフィールを更新、プロフィール</meta.account_update_profile.keywords>
+        <meta.account_update_profile.description>ユーザーのプロファイル情報を更新します。</meta.account_update_profile.description>
+
+        <meta.account_privacy_settings.title>プライバシー設定</meta.account_privacy_settings.title>
+        <meta.account_privacy_settings.keywords>プライバシー設定、プライバシー設定を更新する</meta.account_privacy_settings.keywords>
+        <meta.account_privacy_settings.description>プライバシー設定を更新します。</meta.account_privacy_settings.description>
+
+        <meta.account_change_password.title>パスワードを変更する</meta.account_change_password.title>
+        <meta.account_change_password.keywords>パスワードを変更する、パスワード、パスワードの更新</meta.account_change_password.keywords>
+        <meta.account_change_password.description>アカウントのパスワードを変更します。</meta.account_change_password.description>
+
+        <meta.account_subscriptions.title>登録メンバー</meta.account_subscriptions.title>
+        <meta.account_subscriptions.keywords>登録メンバー、メンバー登録</meta.account_subscriptions.keywords>
+        <meta.account_subscriptions.description>メンバーが登録しているすべてのユーザーを表示します。</meta.account_subscriptions.description>
+
+        <meta.account_subscribers.title>登録メンバー</meta.account_subscribers.title>
+        <meta.account_subscribers.keywords>登録メンバー、登録メンバー</meta.account_subscribers.keywords>
+        <meta.account_subscribers.description>このメンバーに登録されているすべてのメンバーを表示します。</meta.account_subscribers.description>
+
+        <meta.account_message_inbox.title>メッセージ受信箱</meta.account_message_inbox.title>
+        <meta.account_message_inbox.keywords>メッセージ受信箱、メッセージ、受信箱</meta.account_message_inbox.keywords>
+        <meta.account_message_inbox.description>すべてのメッセージを表示する</meta.account_message_inbox.description>
+
+        <meta.account_message_read.title>メッセージを読む</meta.account_message_read.title>
+        <meta.account_message_read.keywords>メッセージを読む、メッセージ</meta.account_message_read.keywords>
+        <meta.account_message_read.description>メッセージを読む。</meta.account_message_read.description>
+
+        <meta.account_message_send.title>メッセージを送る</meta.account_message_send.title>
+        <meta.account_message_send.keywords>メッセージを送る、メッセージ</meta.account_message_send.keywords>
+        <meta.account_message_send.description>別のメンバーにメッセージを送信します。</meta.account_message_send.description>
+
+        <meta.mobile_videos.title>動画閲覧</meta.mobile_videos.title>
+
+        <meta.mobile_search.title>検索動画</meta.mobile_search.title>
+
+
+        <!-- @deprecated Deprecated in 2.5.0, removed in 2.6.0. Use browse_header instead -->
+        <videos_header>動画閲覧</videos_header>
+
+    </terms>
+
+</language>
