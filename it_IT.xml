@@ -418,7 +418,7 @@
         <error_avatar_reset>NoNon è stato possibile impostare l'avatar, ti preghiamo di provare di nuovo.</error_avatar_reset>
         <error_generic>Non è stato possibile completare la tua richiesta, ti preghiamo di provare di nuovo. Se continui ad aver problemi nell'utilizzare questa funzionalità ti preghiamo di <a href="{HOST}/contact/">contattarci</a> e descrivere il problema.</error_generic>
 
-        <success_logout>Ti sei registrato correttamente.</success_logout>
+        <success_logout>Ti sei scollegato correttamente.</success_logout>
         <success_avatar_reset>Il tuo avatar è stato reimpostato.</success_avatar_reset>
         <success_avatar_updated>Il tuo avatar è stato aggiornato.</success_avatar_updated>
         <success_rated>La tua valutazione è stata acquisita.</success_rated>
