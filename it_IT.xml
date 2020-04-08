@@ -325,7 +325,7 @@
         <message_send_button>Invia messaggio</message_send_button>
 
         <!-- My Account / Upload - Video Information Page -->
-        <upload_header>Passo 1 - Inserire informazioni sul Video</upload_header>
+        <upload_header>Passo 2 - Inserire informazioni sul Video</upload_header>
         <title>Titolo</title>
         <description>Descrizione</description>
         <tags>Etichette</tags>
@@ -344,7 +344,7 @@
         <submit_button>Invia</submit_button>
 
         <!-- My Account / Upload - Video Upload Page -->
-        <upload_video_header>Passo 2 - Caricare il video</upload_video_header>
+        <upload_video_header>Passo 1 - Caricare il video</upload_video_header>
         <upload_video_text>Seleziona un video da una cartella sul tuo computer. Per favore, assicurarsi che il video non infringa alcun diritto d'autore. Ci riserviamo il diritto di eliminare qualsiasi contenuto in qua.unque momento per qualunque motivo.</upload_video_text>
         <filesize_limit>Il limite delle dimensioni del file è</filesize_limit>
         <cancel>Annulla</cancel>
@@ -540,15 +540,15 @@
         </account_account>
 
         <account_upload>
-            <title>Passo 1 - Inserire informazioni sul Video</title>
-            <keywords>Inserire informazioni Video, caricare Video, Passo 1, informazioni Video</keywords>
-            <description>Passo 1 - Inserire informazioni sul Video.</description>
+            <title>Passo 2 - Inserire informazioni sul Video</title>
+            <keywords>Inserire informazioni Video, caricare Video, Passo 2, informazioni Video</keywords>
+            <description>Passo 2 - Inserire informazioni sul Video.</description>
         </account_upload>
 
         <account_upload_video>
-            <title>Passo 2 - Caricare il video</title>
-            <keywords>Caricare Video, Passo 2</keywords>
-            <description>Passo 2 - Caricare il video.</description>
+            <title>Passo 1 - Caricare il video</title>
+            <keywords>Caricare Video, Passo 1</keywords>
+            <description>Passo 1 - Caricare il video.</description>
         </account_upload_video>
 
         <account_upload_complete>
