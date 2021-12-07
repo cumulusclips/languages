@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+    <information>
+        <lang_name>Italian</lang_name>
+        <native_name>Italiano</native_name>
+        <css_name>italian</css_name>
+        <author>A Rivetti</author>
+        <sample>Nel mezzo del cammin di nostra vita...</sample>
+        <version>0.0.1</version>
+        <update>http://cumulusclips.org/add-ons/</update>
+        <notes></notes>
+    </information>
+    <terms>
+        <search_text>Cerca video...</search_text>
+        <login>Login</login>
+        <register>Regístrati</register>
+        <logout>Logout</logout>
+        <account>Mio account</account>
+        <view_my_profile>Mio profilo</view_my_profile>
+        <admin_panel>Pannello di amministrazione</admin_panel>
+        <videos>Video</videos>
+        <members>Utenti</members>
+        <upload>Carica</upload>
+        <previous>Precedente</previous>
+        <next>Seguente</next>
+        <yes>Si</yes>
+        <no>No</no>
+        <quick_links>Link rapidi</quick_links>
+        <upload_supported_formats>Formati supportati</upload_supported_formats>
+        <video_feed>Lista di Video</video_feed>
+
+        <!-- Mobile -->
+        <mobile_heading>{SITENAME} Mobile</mobile_heading>
+        <home>Home</home>
+        <back>Ritorna</back>
+        <duration>Durata</duration>
+        <load_more>Carica altro</load_more>
+        <loading>Caricamento in corso</loading>
+        <featured>In evidenza</featured>
+        <featured_videos>Video in evidenza</featured_videos>
+        <recent_videos>Video recenti</recent_videos>
+        <search>Cerca</search>
+        <standard_site>Sito standard</standard_site>
+        <device_not_supported>Il tuo dispositivo non supporta questo formato video</device_not_supported>
+        <close>Chiudi</close>
+        <menu>Menu</menu>
+        <choose_language>Scegli lingua</choose_language>
+        <suggestions>Suggerimenti</suggestions>
+        <upload_button>Carica</upload_button>
+        <post_video_button>Pubblica video</post_video_button>
+        <mobile_upload_header>Carica un video</mobile_upload_header>
+        
+        <!-- Home Page -->
+        <home_header>Il più recente!</home_header>
+        <advertisement>Pubblicità</advertisement>
+        <account_login>Login</account_login>
+        <username>Nome utente</username>
+        <password>Password</password>
+        <no_account>Registrati</no_account>
+        <forgot_your_login>Hai dimenticato il nome utente?</forgot_your_login>
+        <login_button>Login</login_button>
+
+        <!-- Login Page -->
+        <login_header>Login</login_header>
+        <remember_me>Ricordami</remember_me>
+        <forgot_text>Per favore inserisci l'indirizzo di email utilizzato per registrarsi, ti invieremo una nuova password.</forgot_text>
+        <email>Indirizzo email</email>
+        <forgot_header>Hai dimenticato il nome utente?</forgot_header>
+        <forgot_button>Mi sono dimenticato il mio nome utente</forgot_button>
+
+        <!-- Register Page -->
+        <register_header>Regístrati</register_header>
+        <register_text><![CDATA[
+            <p><strong>Join {SITENAME} Today!</strong><br><br>
+            As a member you'll be able to upload videos, post comments, rate and share videos, subscribe to members, and much more!</p>
+        ]]></register_text>
+        <asterisk>L'asterisco (*) indica i campi obbligatori.</asterisk>
+        <username_req>Il nome utente può contenere solo caratteri e numeri, spazi e caratteri speciali non sono ammessi.</username_req>
+        <confirm_password>Conferma password</confirm_password>
+        <register_button>Crea utente</register_button>
+        <checking_availability>Verifica disponibilità</checking_availability>
+        <username_minimum>Si richiedono almeno 4 caratteri.</username_minimum>
+        <username_available>Nome utente disponibile!</username_available>
+
+        <!-- Contact Page -->
+        <contact_header>Contattaci</contact_header>
+        <contact_text>Per favore inserisca i dati in questo modulo e la ricontatteremo al più presto.</contact_text>
+        <name>Nome</name>
+        <message>Messaggio</message>
+        <contact_us>Contattaci</contact_us>
+        <contact_button>Contattaci</contact_button>
+
+        <!-- Browse Videos Page -->
+        <videos_header>Cerca video</videos_header>
+        <viewing>Visti</viewing>
+        <sorting>Classificati</sorting>
+        <most_recent>Recenti</most_recent>
+        <most_viewed>Più visti</most_viewed>
+        <most_discussed>Più commentati</most_discussed>
+        <most_rated>Più Votati</most_rated>
+        <no_videos>Non sono stati caricati video.</no_videos>
+        <by>by</by>
+
+        <!-- Browse Members Page -->
+        <members_header>Cerca utenti</members_header>
+        <no_members>Non ci sono utenti registrati.</no_members>
+        <joined>Creato</joined>
+        <videos_uploaded>Video caricati</videos_uploaded>
+
+        <!-- Member Profile Page -->
+        <subscribe>Registrarsi</subscribe>
+        <unsubscribe>Cancellare la propria registrazione</unsubscribe>
+        <send_message>Invia messaggio</send_message>
+        <report_abuse>Segnala abuso</report_abuse>
+        <member_rss>RSS utenti</member_rss>
+        <profile_views>Visualizzazioni del profilo</profile_views>
+        <subscribers>Utenti</subscribers>
+        <website>Sito web</website>
+        <recent_videos>Video recenti</recent_videos>
+        <view_all_videos>Vedi tutti i video</view_all_videos>
+        <no_member_videos>Al momento questo utente non ha alcun video.</no_member_videos>
+        <no_member_playlists>Al momento questo utente non ha alcuna playlist.</no_member_playlists>
+        <watch_all>Vedi tutti</watch_all>
+
+        <!-- Member Videos Page -->
+        <videos_by>Video di</videos_by>
+        <go_to_profile>Vai al profilo</go_to_profile>
+
+        <!-- Play Video Page -->
+        <like>Mi piace</like>
+        <dislike>Non mi piace</dislike>
+        <about>Info su</about>
+        <share>Condividi</share>
+        <embed>Embed</embed>
+        <embed_text>Copia e incolla questo codice per inserirlo nella tua pagina web.</embed_text>
+        <add>Aggiungere</add>
+        <add_to>Aggiungere a</add_to>
+        <favorite>Favorito</favorite>
+        <favorites>Favoriti</favorites>
+        <watch_later>Guarda più tardi</watch_later>
+        <playlists>Playlist</playlists>
+        <playlist_login><![CDATA[You must <a href="{HOST}/login/">login</a> to add videos to your playlists.]]></playlist_login>
+        <create_new_playlist>crea nuova playlist</create_new_playlist>
+        <playlist_name>nome della playlist</playlist_name>
+        <visibility>Visibilità</visibility>
+        <public>Pubblico</public>
+        <create_playlist_button>Creare playlist</create_playlist_button>
+        <flag>Flag</flag>
+        <date_uploaded>Data di caricamento</date_uploaded>
+        <comments_header>Commenti</comments_header>
+        <view_all_comments>Vedi tutti i commenti</view_all_comments>
+        <comments_total>Commenti totali</comments_total>
+        <posted>Pubblicato da</posted>
+        <date_posted>Data di pubblicazione</date_posted>
+        <comments_post_header>Pubblicare un commento</comments_post_header>
+        <optional>Opzionale</optional>
+        <comments>Commenti</comments>
+        <reply_to>Rispondi a</reply_to>
+        <comments_closed>I commenti non sono abilitati per questo video.</comments_closed>
+        <comments_login><![CDATA[
+            <a class="login-link" href="{LOGIN_LINK}">Sign In</a> or <a class="register-link" href="{REGISTER_LINK}">Register</a> to post comments.
+        ]]></comments_login>
+        <comments_button>Pubblicare commenti</comments_button>
+        <suggestions_header>Suggerimenti</suggestions_header>
+        <no_suggestions>Non puoi creare suggerimenti.</no_suggestions>
+        <views>Visite</views>
+        <gated_video>Devi entrare con il tuo utente per vedere il video</gated_video>
+        <video_unavailable>Video non disponibile</video_unavailable>
+        <embed_disabled><![CDATA[
+            Embedding is disabled for this video. You can view it at <a target="_top" href="{LINK}">{SITENAME}</a>.
+        ]]></embed_disabled>
+        <no_playback>Non si può riprodurre il video.</no_playback>
+
+        <!-- Comments Page -->
+        <comments_header>Vedi tutti i commenti</comments_header>
+        <comments_for>Mostra i commenti per</comments_for>
+        <no_comments>Non ci sono commenti per questo video.</no_comments>
+
+        <!-- Search Page -->
+        <search_header>Risultati della ricerca</search_header>
+        <results_for>Risultati per</results_for>
+        <no_results>Nessun risultato trovato.</no_results>
+
+        <!-- Opt-Out Page -->
+        <opt_out_header>Email Opt-Out</opt_out_header>
+        <opt_out_text><![CDATA[
+        Your email address has been successfully removed from all mailing lists.
+        If you wish to modify your email preferences, you may do so by visiting the
+        <a href="{LINK}">Privacy Settings</a> section of your account.
+        ]]></opt_out_text>
+
+        <!-- Activate Account Page -->
+        <activate_header>Attiva il tuo utente</activate_header>
+        <activate_success><![CDATA[
+        Thank you! Your account is now active. <a href="{HOST}/account/">Go to My Account</a>
+        ]]></activate_success>
+        <activate_approve>Grazie! Il tuo utente è stato creato ma è in attesa dell'approvazione da parte dell'amministratore. Riceverai una notifica una volta che l'utente verrà approvato.</activate_approve>
+        <activate_error><![CDATA[
+        Invalid code! Please check you entered the code correctly.
+        Your account may already be active. If you forgot your login,
+        <a href="{HOST}/login/forgot/">click here</a> to retrieve it.
+        ]]></activate_error>
+
+        <!-- 404 Page -->
+        <system_404_header>404 - Pagina non trovata</system_404_header>
+        <system_404_sub_header>¡Ahia!</system_404_sub_header>
+        <system_404_text>La pagina che stai cercando non esiste o è stata spostata.</system_404_text>
+
+        <!-- System Error Page -->
+        <system_error_header>Errore di sistema</system_error_header>
+        <system_error_text>L'operazione è fallita per un errore interno al sistema...</system_error_text>
+
+        <!-- My Account / Home Page -->
+        <account_header>Benvenuto</account_header>
+        <last_login>Ultimo collegamento</last_login>
+        <edit_avatar>Modificare Avatar</edit_avatar>
+        <new_messages>Hai nuovi messaggi non ancora letti!</new_messages>
+        <account_menu_header>Account</account_menu_header>
+        <manage_media>Gestone contenuti</manage_media>
+        <upload_video>Carica un video</upload_video>
+        <my_videos>I miei video</my_videos>
+        <my_playlists>Le mie playlist</my_playlists>
+        <account_settings>Configurazione dell'utente</account_settings>
+        <update_profile>Aggiornare il profilo utente</update_profile>
+        <privacy_settings>Configurazione della privacy</privacy_settings>
+        <change_password>Cambiare password</change_password>
+        <community>Comunità</community>
+        <my_subscriptions>Utenti che seguo</my_subscriptions>
+        <my_subscribers>Utenti che mi seguono</my_subscribers>
+        <inbox>Casella messaggi in entrata</inbox>
+
+        <!-- My Account / Update Video Page -->
+        <update_video_header>Modificare video</update_video_header>
+        <update_video_button>Aggiornare video</update_video_button>
+        <back_to_videos>Ritorna ai video</back_to_videos>
+
+        <!-- My Account / My Videos Page -->
+        <my_videos_header>I miei videos</my_videos_header>
+        <no_user_videos>Non ci sono video associati all'utente.</no_user_videos>
+        <edit_video>Modifica video</edit_video>
+        <delete_video>Elimina video</delete_video>
+        <pending_conversion>Conversazione in attesa</pending_conversion>
+        <processing>Conversione del video in atto...</processing>
+        <pending_approval>In attesa di approvazione</pending_approval>
+        
+        <!-- My Account / Playlists Page -->
+        <playlists_header>le mie playlist</playlists_header>
+        <delete_playlist>Elimina playlist</delete_playlist>
+        <edit_playlist>Modifica playlist</edit_playlist>
+        <no_playlists>Non hai ancora creato alcuna playlist.</no_playlists>
+
+        <!-- My Account / Playlist Edit Page -->
+        <playlists_edit_header>Modifica playlist</playlists_edit_header>
+        <back_to_playlists>Torna alla playlist</back_to_playlists>
+        <update_playlist_header>Aggiorna i dettagli della playlist</update_playlist_header>
+        <update_playlist_button>Aggiorna la playlist</update_playlist_button>
+        <playlist_videos>Playlist di video</playlist_videos>
+        <no_videos_playlist>La playlist non contiene ancoira alcun video.</no_videos_playlist>
+        <remove_playlist_video>Elimina la playlist</remove_playlist_video>
+
+        <!-- My Account / Edit Profile Page -->
+        <profile_header>Aggiornare profilo</profile_header>
+        <personal_header>Modificare informazioni personali</personal_header>
+        <first_name>Nome</first_name>
+        <last_name>Cognome</last_name>
+        <about_me>Su di me</about_me>
+        <profile_button>Aggiornare profilo</profile_button>
+        <update_avatar_header>Aggiornare Avatar</update_avatar_header>
+        <update_avatar_text><![CDATA[
+            <p>Il tuo avatar appare accanto ai tuoi video, commenti e altri contenuti.</p>
+            <p>Se carichi un nuovo avatar, quello esistente verrà sostituito.</p>
+            <p>Seleziona una i9mmagine (jpeg, gif, png) da una cartella sul tuo computer. Dimensione massima 30Kbyte.</p>
+        ]]></update_avatar_text>
+        <current_avatar>Avatar corrente</current_avatar>
+        <reset_avatar>Reimpostare Avatar</reset_avatar>
+        <browse_files_button>Cerca</browse_files_button>
+        <update_avatar_button>Aggiornare avatar</update_avatar_button>
+
+        <!-- My Account / Privacy Settings Page -->
+        <privacy_settings_header>Configurazione della Privacy</privacy_settings_header>
+        <alert_comment>Invia una email quando un mio video riceve un commento</alert_comment>
+        <alert_video>Informa gli utenti che seguono il mio profilo quando un nuovo video viene caricato</alert_video>
+        <alert_message>Invia una email quando ricevoi un messaggio</alert_message>
+        <alert_video_ready>Notifica quando il video che ho caricato è stato processato ed è disponibile.</alert_video_ready>
+        <alert_comment_reply>Notifica quando un mio commento riceve una risposta</alert_comment_reply>
+        <privacy_settings_button>Aggiornamento della Privacy</privacy_settings_button>
+
+        <!-- My Account / Change Password Page -->
+        <change_password_header>Cambiare password</change_password_header>
+        <change_password_text>La password deve contenre 6-10 caratteri &amp;, lettere maiuscole e minuscole, numeri e caratteri speciali.</change_password_text>
+        <new_password>Nuova password</new_password>
+        <change_password_button>Cambia password</change_password_button>
+
+        <!-- My Account / View My Subscriptions Page -->
+        <subscriptions_header>Utenti che seguo</subscriptions_header>
+        <confirm_subscription>Stai per smettere di seguire questo utente. Confermi?</confirm_subscription>
+        <no_subscriptions>Non stai seguendo alcun utente.</no_subscriptions>
+
+        <!-- My Account / View My Subscribers Page -->
+        <subscribers_header>Utenti che seguono il mio profilo</subscribers_header>
+        <no_subscribers>Non ci sono utenti che seguono il tuo profilo.</no_subscribers>
+
+        <!-- My Account / Message Inbox Page -->
+        <message_inbox_header>Messaggi mella casella in entrata</message_inbox_header>
+        <purge>Cancella</purge>
+        <message_status>Stato</message_status>
+        <read>Letto</read>
+        <unread>Non letto</unread>
+        <subject>Oggetto</subject>
+        <sender>Mittente</sender>
+        <date>Data</date>
+        <purge_button>Cancella messaggi</purge_button>
+        <no_messages>Non ci sono messaggi</no_messages>
+
+        <!-- My Account / Read Message Page -->
+        <message_read_header>Leggi messaggio</message_read_header>
+        <return_inbox>Torna alla casella posta in entrata</return_inbox>
+        <reply>Rispondi</reply>
+        <delete>Cancella</delete>
+
+        <!-- My Account / Send Message Page -->
+        <message_send_header>Invia un messaggio</message_send_header>
+        <to>A</to>
+        <members_username>Utenti registrati</members_username>
+        <message_send_button>Invia messaggio</message_send_button>
+
+        <!-- My Account / Upload - Video Information Page -->
+        <upload_header>Passo 2 - Inserire informazioni sul Video</upload_header>
+        <title>Titolo</title>
+        <description>Descrizione</description>
+        <tags>Etichette</tags>
+        <comma_delimited>Separato da virgola</comma_delimited>
+        <category>Categoria</category>
+        <disable_embed>Disattivare la condivisione su altre pagine (embed)</disable_embed>
+        <disable_embed_description>Il video non può essere condiviso su altri siti web (embed disabilitato)</disable_embed_description>
+        <gated>Riservato a utenti registrati</gated>
+        <gated_description>Il video può essere visto solo da utenti registrati</gated_description>
+        <private>Privato</private>
+        <private_description>Il video può essere visto da te e solo dagli utenti che ne conoscono l'indirizzo (URL privata)</private_description>
+        <private_url>URL privata</private_url>
+        <regenerate>Rigenera URL privata</regenerate>
+        <closeComments>Blocca i commenti</closeComments>
+        <closeCommentsDescription>Permetti i commenti su questo video</closeCommentsDescription>
+        <submit_button>Invia</submit_button>
+
+        <!-- My Account / Upload - Video Upload Page -->
+        <upload_video_header>Passo 1 - Caricare il video</upload_video_header>
+        <upload_video_text>Seleziona un video da una cartella sul tuo computer. Per favore, assicurarsi che il video non infringa alcun diritto d'autore. Ci riserviamo il diritto di eliminare qualsiasi contenuto in qua.unque momento per qualunque motivo.</upload_video_text>
+        <filesize_limit>Il limite delle dimensioni del file è</filesize_limit>
+        <cancel>Annulla</cancel>
+        <upload_video_button>Carica video</upload_video_button>
+
+        <!-- My Account / Upload - Complete Page -->
+        <upload_complete_header>Passo 3 - Caricamento completato!</upload_complete_header>
+        <upload_complete_text>Il tuo video è stato caricato con successo. Stiamo ora processando il video, tra qualche minuto sarà disponibile su {SITENAME}.</upload_complete_text>
+
+
+
+
+        <!-- Form Messages -->
+        <error_general>Si sono verificati errori, per favore ritenta.</error_general>
+        <errors_below>Si sono verificati errori, per favore correggi i seguenti errori e ritenta.</errors_below>
+        <error_invalid_login>Nome utente o password incorretti, verifica e riprova.</error_invalid_login>
+        <error_no_users_email>Non si trova alcun utente con l'indirizzo di email specificato.</error_no_users_email>
+        
+        <confirm_delete_playlist>La playlist verrà eliminata. Vuoi procedere?</confirm_delete_playlist>
+        <confirm_remove_playlist_video>Il Video verrà elimintao dalla vostra playlist. Vuoi procedere?</confirm_remove_playlist_video>
+        <confirm_delete_video>Il video verrà cancellato permanentemente. Questa operazione non si può annullare. Vuoi procedere?</confirm_delete_video>
+        <confirm_reset_avatar>Il tuo avatar verrà cancellato permanentemente. Questa operazione non si può annullare. Vuoi procedere?</confirm_reset_avatar>
+
+        <error_username>Nome utente invalido</error_username>
+        <error_username_unavailable>Il nome utente non è disponibile</error_username_unavailable>
+        <error_password>Password errata</error_password>
+        <error_password_match>Le password non coincidono</error_password_match>
+        <error_password_confirm>Codice di conferma invalido</error_password_confirm>
+        <error_security_text>Testo di sicurezza invalido</error_security_text>
+        <error_email>Devi introdurre un indirizzo di email valido</error_email>
+        <error_email_unavailable>Indirizzo di email invalido</error_email_unavailable>
+        <error_recipient>Il nome dell'utente destinatario non è valido'</error_recipient>
+        <error_website_invalid>Sito web non valido</error_website_invalid>
+        <error_recipient_exist>Non esistono utenti con questo nome</error_recipient_exist>
+        <error_recipient_self>Non puoi inviare un messaggio a te stesso</error_recipient_self>
+        <error_subject>Oggetto non valido</error_subject>
+        <error_message>Messaggio non valido</error_message>
+        <error_video_upload>Video non valido per il caricamento</error_video_upload>
+        <error_title>Titolo invalido</error_title>
+        <error_description>Descrizione invalida</error_description>
+        <error_tags>Etichette invalide</error_tags>
+        <error_category>Categoria invalida</error_category>
+        <error_name>Nome invalido</error_name>
+        <error_comment_login>Devi entrare nel tuo account per pubblicare un commento.</error_comment_login>
+        <error_comment>Commento invalido</error_comment>
+        <error_private_url>URL privata invalida</error_private_url>
+        <error_status_update>Aggiornamento dello stato invalido</error_status_update>
+        <error_flag_login>Devi entrare nel tuo account per segnalare un contenuto non appropriato.</error_flag_login>
+        <error_flag_own>Non si può segnalare un proprio contenuto.</error_flag_own>
+        <error_flag_duplicate>Hai già segnalato questo contenuto. Grazie.</error_flag_duplicate>
+        <error_favorite_own>Non puoi aggiungere un tup video alla tua lista di preferiti.</error_favorite_own>
+        <error_playlist_duplicate>Il video è già nella playlist.</error_playlist_duplicate>
+        <error_playlist_name>Nome della playlist invalido</error_playlist_name>
+        <error_subscribe_login>Devi entrare nel tuo account per poter seguire un altro utente.</error_subscribe_login>
+        <error_subscribe_own>Non puoi seguire te stesso.</error_subscribe_own>
+        <error_subscribe_duplicate>Stai già seguendo questo utente.</error_subscribe_duplicate>
+        <error_subscribe_noexist>Non stai seguendo questo utente.</error_subscribe_noexist>
+        <error_rate_login>Devi entrare nel tuo account per valutare un video.</error_rate_login>
+        <error_rate_own>Non puoi valutare i tuoi video.</error_rate_own>
+        <error_rate_duplicate>Hai già valutato questo video.</error_rate_duplicate>
+        
+
+        <error_upload_filesize>Il file eccede la dimensione massima consetita, ti preghiamo di verificare e provare di nuovo.</error_upload_filesize>
+        <error_upload_system><![CDATA[
+            Errors were encountered during the processing of your file, and it cannot be uploaded at this time.
+            We apologize for this inconvenience. Our support team has been notified and will investigate into the cause and fix for this issue.
+            If you continue to experience problems using this feature please <a href="{HOST}/contact/">contact us</a> for further assistance.
+        ]]></error_upload_system>
+        <error_upload_extension>Il formato del file non è tra quelli accettati dal sistema, ti preghiamo di provare di nuovo.</error_upload_extension>
+        <error_upload_empty>Il file non è stato caricato, ti preghiamo di provare di nuovo.</error_upload_empty>
+        <error_avatar_reset>NoNon è stato possibile impostare l'avatar, ti preghiamo di provare di nuovo.</error_avatar_reset>
+        <error_generic>Non è stato possibile completare la tua richiesta, ti preghiamo di provare di nuovo. Se continui ad aver problemi nell'utilizzare questa funzionalità ti preghiamo di <a href="{HOST}/contact/">contattarci</a> e descrivere il problema.</error_generic>
+
+        <success_logout>Ti sei scollegato correttamente.</success_logout>
+        <success_avatar_reset>Il tuo avatar è stato reimpostato.</success_avatar_reset>
+        <success_avatar_updated>Il tuo avatar è stato aggiornato.</success_avatar_updated>
+        <success_rated>La tua valutazione è stata acquisita.</success_rated>
+        <success_unsubscribed>Non stai più seguendo l'utente {USERNAME}.</success_unsubscribed>
+        <success_subscribed>Stai ora seguendo l'utente {USERNAME}.</success_subscribed>
+        <success_flag>Grazie per aver segnalato questo contenuto, verificheremo al più presto.</success_flag>
+        <success_status_updated>Il tuo aggiornamento è stato pubblicato.</success_status_updated>
+        <success_comment_posted>Il tuo commento è stato pubblicato.</success_comment_posted>
+        <success_comment_approve>Il tuo commento è stato sottomesso per l'approvazione.</success_comment_approve>
+        <success_contact_sent>Grazie! Il tuo messaggio è stato inviato, ci metteremo in contatto al più presto.</success_contact_sent>
+        <success_registered>Grazie, il tuo account è stato creato con successo. Per favore controlla la tua posta elettronica e cerca il nostro messaggio con il codice di attivazione!</success_registered>
+        <success_login_sent>Ti abbiamo inviato i dati di accesso, ti proghiamo dicontrollare la tua posta elettronica.</success_login_sent>
+        <success_video_upload>Il video è stato caricato orrettamente. Ti preghiamo di attendere diversi minuti affinchè si completi il processo di conversione e il video diventi disponibile per la visualizzazione.</success_video_upload>
+        <success_video_updated>Il video è stato aggiornato.</success_video_updated>
+        <success_video_deleted>Il video è stato eliminato.</success_video_deleted>
+        <success_playlist_added>Aggiunto un video a {LIST_NAME}.</success_playlist_added>
+        <success_playlist_added_short>Aggiunto un video</success_playlist_added_short>
+        <success_playlist_created>La playlist è stata creata.</success_playlist_created>
+        <success_playlist_updated>La playlist è stata aggiornata.</success_playlist_updated>
+        <success_playlist_video_removed>Video eliminato dalla playlist.</success_playlist_video_removed>
+        <success_playlist_deleted>La playlist è stata eliminata.</success_playlist_deleted>
+        <success_profile_updated>Il tuo profilo è stato modificato.</success_profile_updated>
+        <success_privacy_updated>Le tue impostazioni di sicurezza sono state modificate.</success_privacy_updated>
+        <success_password_updated>La tua password è stat modificata.</success_password_updated>
+        <success_messages_purged>I messaggi sono stati eliminati!</success_messages_purged>
+        <success_message_sent>Il tuo messaggio è stato inviato.</success_message_sent>
+
+    </terms>
+
+    <custom>
+        <your_ad_goes_here>Spazio per pubblicità.</your_ad_goes_here>
+        <most_discussed_videos>Video più commentati</most_discussed_videos>
+        <highest_rated_videos>Video con voti più alti</highest_rated_videos>
+        <documentation>Documentazione</documentation>
+        <rss>RSS</rss>
+        <contact>Contatti</contact>
+        <sample>Esempi</sample>
+        <sitemap>Mappa del Sito</sitemap>
+    </custom>
+
+
+    <meta>
+        <index>
+            <title>{SITENAME}</title>
+            <keywords>video, film</keywords>
+            <description>Portale per la pubblicazione di video</description>
+        </index>
+
+        <videos>
+            <title>Cerca video:</title>
+            <keywords>Cercare video, Ricerca, Video</keywords>
+            <description>Cerca un video condiviso</description>
+        </videos>
+
+        <members>
+            <title>Cerca utente</title>
+            <keywords>Cercare utenti, cercare, Utenti</keywords>
+            <description>Cercare tra gli utenti registrati.</description>
+        </members>
+
+        <profile>
+            <title>Profilo di {MEMBER}</title>
+            <keywords>Profilo utente, Utente, Profilo</keywords>
+            <description>Dettagli del profilo dell'utente.</description>
+        </profile>
+
+        <contact>
+            <title>Contattaci</title>
+            <keywords>Contattaci, Contatti, Mandaci un messaggio|</keywords>
+            <description>Mettiti in contatto con noi.</description>
+        </contact>
+
+        <activate>
+            <title>Attiva il tuo account</title>
+            <keywords>Active su cuenta, Cuenta activa</keywords>
+            <description>Attiva il tuo account</description>
+        </activate>
+
+        <opt_out>
+            <title>Opt-out da tutte le liste</title>
+            <keywords>Opt-out, email, mailing list</keywords>
+            <description>Opt-out da tutte le liste.</description>
+        </opt_out>
+
+        <search>
+            <title>Risultati ricerca per: '{KEYWORD}'</title>
+            <keywords>Cerca Video, Cercare, Video, Ricerca Risultati</keywords>
+            <description>Ricerca di video per parola chiave in etichette, titolo, descrizione dei video.</description>
+        </search>
+
+        <login>
+            <title>Accedi al tuo account</title>
+            <keywords>Iniziare sessione, Account</keywords>
+            <description>Iniziare sessione sul tuo account.</description>
+        </login>
+
+        <register>
+            <title>Registrati per ottenere un account</title>
+            <keywords>Registrati, Registrazione , account</keywords>
+            <description>Registrati per ottenere un account.</description>
+        </register>
+
+        <system_404>
+            <title>Non trovato</title>
+            <keywords>Pagina non trovatya, Error 404</keywords>
+            <description>Errore 404, Pagina non trovata.</description>
+        </system_404>
+
+        <system_error>
+            <title>Errore di Sistema</title>
+            <keywords>Errore, Sistema</keywords>
+            <description>Si è verificato un errore di sistema.</description>
+        </system_error>
+
+        <account_account>
+            <title>Benvenuto - {USERNAME}</title>
+            <keywords>Benvenuto</keywords>
+            <description>Benvenuto</description>
+        </account_account>
+
+        <account_upload>
+            <title>Passo 2 - Inserire informazioni sul Video</title>
+            <keywords>Inserire informazioni Video, caricare Video, Passo 2, informazioni Video</keywords>
+            <description>Passo 2 - Inserire informazioni sul Video.</description>
+        </account_upload>
+
+        <account_upload_video>
+            <title>Passo 1 - Caricare il video</title>
+            <keywords>Caricare Video, Passo 1</keywords>
+            <description>Passo 1 - Caricare il video.</description>
+        </account_upload_video>
+
+        <account_upload_complete>
+            <title>Passo 3 - Caricamento completato!</title>
+            <keywords>Caricasre Video, Passo 3, Caricamento completato</keywords>
+            <description>Passo 3 - Caricamento completato!</description>
+        </account_upload_complete>
+
+        <account_videos_edit>
+            <title>Modifica Video</title>
+            <keywords>Modifica Video, Informazioni del Video</keywords>
+            <description>Modifica le informazioni del video.</description>
+        </account_videos_edit>
+
+        <account_videos>
+            <title>I miei video</title>
+            <keywords>Miei video, Video</keywords>
+            <description>Vedi tutti i video caricati da questo utente.</description>
+        </account_videos>
+
+        <account_playlists>
+            <title>Le mie playlist</title>
+            <keywords>Mie playlist, playlist</keywords>
+            <description>Vedi tutte le mie playlist.</description>
+        </account_playlists>
+
+        <account_playlists_edit>
+            <title>Modifica playlist: {PLAYLIST_NAME}</title>
+            <keywords>playlist, video, modificare</keywords>
+            <description>Modifica playlist, vedi tutti i video contenuti nella lista.</description>
+        </account_playlists_edit>
+
+        <account_update_profile>
+            <title>Aggiorna il profilo</title>
+            <keywords>Aggiorna il profilo, profilo</keywords>
+            <description>Aggiorna le informazioni del profilo utente.</description>
+        </account_update_profile>
+
+        <account_privacy_settings>
+            <title>Impostazioni di privacy</title>
+            <keywords>Impostazioni di privacy, modificare impostazioni di privacy</keywords>
+            <description>Modificare impostazioni di privacy.</description>
+        </account_privacy_settings>
+
+        <account_change_password>
+            <title>Cambiare password</title>
+            <keywords>Cambiare password, password, aggiornare password</keywords>
+            <description>Cambia la password del tuo account.</description>
+        </account_change_password>
+
+        <account_subscriptions>
+            <title>Utenti che seguo</title>
+            <keywords>Utenti che seguo, follower</keywords>
+            <description>Vedi tutti gli utenti che seguo.</description>
+        </account_subscriptions>
+
+        <account_subscribers>
+            <title>Utenti che seguono il mio profilo</title>
+            <keywords>Utenti che seguono, profilo, follower</keywords>
+            <description>Vedi tutti gi utenti che seguono questo utente.</description>
+        </account_subscribers>
+
+        <account_message_inbox>
+            <title>Messaggio nella casella in entrata</title>
+            <keywords>Messaggi ricevuti, casella messaggi in entrata, casella entrata</keywords>
+            <description>Vedi tutti i messaggi.</description>
+        </account_message_inbox>
+
+        <account_message_read>
+            <title>Leggi messaggio</title>
+            <keywords>Leggi messaggio, messaggio</keywords>
+            <description>Leggi un messaggio.</description>
+        </account_message_read>
+
+        <account_message_send>
+            <title>Mandare un messaggio</title>
+            <keywords>Manda messaggio, messaggio</keywords>
+            <description>Manda messaggio a un altro utente.</description>
+        </account_message_send>
+
+        <mobile_videos>
+            <title>Sfoglia Video</title>
+        </mobile_videos>
+
+        <mobile_search>
+            <title>Cerca Video</title>
+        </mobile_search>
+
+    </meta>
+</language>
